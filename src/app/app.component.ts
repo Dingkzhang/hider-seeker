@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import { PwaService } from './services/pwa-service/pwa.service';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hider-seeker';
+
+  constructor(public Pwa: PwaService) {
+
+  }
+
+  installPaw(): void {
+    this.Pwa.promptEvent.event;
+  }
+
 }

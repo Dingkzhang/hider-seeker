@@ -7,7 +7,14 @@
 <ul>
 
 This is a message text used for testing the application. Beep boop.
+Wanna install app?
+
+<button *ngIf="Pwa.promptEvent" (click)="installPwa()">
+  Install
+</button>
 
 </ul>
+
+
 
 <router-outlet></router-outlet>
