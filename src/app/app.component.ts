@@ -12,7 +12,7 @@ export class AppComponent {
 
   }
 
-  installPaw(): void {
+  installPwa(): void {
     this.Pwa.promptEvent.event;
   }
 
