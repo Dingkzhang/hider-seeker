@@ -23,7 +23,7 @@ export class PwaService {
   }
 
   askUserToUpdate() {
-    return confirm('Are you sure?');
+    return confirm('Want to update?');
   }
 
 }
