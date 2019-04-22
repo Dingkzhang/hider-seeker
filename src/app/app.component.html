@@ -1,28 +1,9 @@
-<!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
-  <h1>
-    This is the start of my web building. :)
-  </h1>
-</div>
-<ul>
-
-This is a message text used for testing the application. Beep boop.
-Wanna install app?
-
-<!-- <button *ngIf="Pwa.promptEvent" (click)="installPwa()">
-  Install
-</button> -->
-
-</ul>
-
-<h3>Basic Buttons</h3>
-<div class="example-button-row">
-  <button mat-button color="primary" routerLink="/landing">Go to Landing Page</button>
-  <button mat-button color="accent" routerLink="/aboutMe">Go to About Me</button>
-  <button mat-button color="warn" routerLink="/portfolioLanding">Go to Portfolio</button>
-  <button mat-button routerLink="/blogLanding">Go to the Vault</button>
-  <button mat-button disabled>Disabled</button>
-  <a mat-button routerLink=".">Link</a>
-</div>
-
+<mat-toolbar>
+  <button mat-button routerLink="/landing">Home</button>
+  <button mat-button routerLink="/aboutMe">About Me</button>
+  <button mat-button routerLink="/blogLanding">Vault</button>
+  <button mat-button routerLink="/portfolioLanding">Portfolio</button>
+  <!-- <button mat-button disabled>Disabled</button> -->
+  <!-- <a mat-button routerLink=".">Link</a> -->
+</mat-toolbar>
 <router-outlet></router-outlet>
