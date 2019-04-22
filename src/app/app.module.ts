@@ -6,12 +6,17 @@ import { AppComponent } from './app.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 
+//Shared animation and materials import
+import { AngularAnimationsModule } from './shared/angular-animations/angular-animations.module';
+import { AngularMaterialsModule } from './shared/angular-materials/angular-materials.module';
 @NgModule({
   declarations: [
     AppComponent
   ],
   imports: [
     BrowserModule,
+    AngularAnimationsModule,
+    AngularMaterialsModule,
     AppRoutingModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],

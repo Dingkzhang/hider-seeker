@@ -15,11 +15,14 @@ Wanna install app?
 
 </ul>
 
-<button routerLink="/landing">Go to Landing Page</button>
-<button routerLink="/aboutMe">Go to About Me</button>
-<button routerLink="/portfolioLanding">Go to Portfolio</button>
-<button routerLink="/landing">Go to the Vault</button>
+<h3>Basic Buttons</h3>
+<div class="example-button-row">
+  <button mat-button color="primary" routerLink="/landing">Go to Landing Page</button>
+  <button mat-button color="accent" routerLink="/aboutMe">Go to About Me</button>
+  <button mat-button color="warn" routerLink="/portfolioLanding">Go to Portfolio</button>
+  <button mat-button routerLink="/blogLanding">Go to the Vault</button>
+  <button mat-button disabled>Disabled</button>
+  <a mat-button routerLink=".">Link</a>
+</div>
 
-
-<input type="button" value="landing page navigation">
 <router-outlet></router-outlet>
