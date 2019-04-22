@@ -2,13 +2,9 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 const routes: Routes = [
-  {
-    path: 'landing',
-    loadChildren: './landing-page/landing-page.module#LandingPageModule'
-  }
-
-
-
+  { path: '', loadChildren: './landing-page/landing-page.module#LandingPageModule' },
+  { path: 'landing', loadChildren: './landing-page/landing-page.module#LandingPageModule' },
+  { path: 'aboutme', loadChildren: './about-me-page/about-me-page.module#AboutMePageModule'}
 ];
 
 @NgModule({
