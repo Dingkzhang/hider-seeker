@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1555971265740,
+  "timestamp": 1556057002159,
   "index": "https://hiderseeker.ninja/index.html",
   "assetGroups": [
     {
@@ -8,16 +8,16 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://hiderseeker.ninja/4.ea8e0ee33497cfc43d42.js",
-        "https://hiderseeker.ninja/5.1a35b2e4bef9cb385b6a.js",
-        "https://hiderseeker.ninja/6.5ec1a2d5ce1c26d86329.js",
-        "https://hiderseeker.ninja/7.b5715cbe79c993ebdda9.js",
+        "https://hiderseeker.ninja/4.7f0c538f74a3062aa876.js",
+        "https://hiderseeker.ninja/5.66eed2884701b89760cd.js",
+        "https://hiderseeker.ninja/6.d646198c0c56363ce478.js",
+        "https://hiderseeker.ninja/7.f9e2f085c503bc32818f.js",
         "https://hiderseeker.ninja/favicon.ico",
         "https://hiderseeker.ninja/index.html",
-        "https://hiderseeker.ninja/main.635375f13fc182e76ff4.js",
+        "https://hiderseeker.ninja/main.8a28adbc9adb24831b1d.js",
         "https://hiderseeker.ninja/polyfills.bebee6a5ef0ece001bc6.js",
-        "https://hiderseeker.ninja/runtime.e823058aa938097e168a.js",
-        "https://hiderseeker.ninja/styles.b2591e385fa0b8027696.css"
+        "https://hiderseeker.ninja/runtime.468c9592cac94e17911d.js",
+        "https://hiderseeker.ninja/styles.f137eed766fb5b69b6d6.css"
       ],
       "patterns": []
     },
@@ -26,6 +26,9 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "https://hiderseeker.ninja/art-background-backlit.eea37720b3883b422f0b.jpg",
+        "https://hiderseeker.ninja/assets/about-me-assets/about-me.json",
+        "https://hiderseeker.ninja/assets/background/art-background-backlit.jpg",
         "https://hiderseeker.ninja/assets/icons/icon-128x128.png",
         "https://hiderseeker.ninja/assets/icons/icon-144x144.png",
         "https://hiderseeker.ninja/assets/icons/icon-152x152.png",
@@ -40,10 +43,13 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://hiderseeker.ninja/4.ea8e0ee33497cfc43d42.js": "28cf33784956a25cd27f7fbea050665d787b8098",
-    "https://hiderseeker.ninja/5.1a35b2e4bef9cb385b6a.js": "9960fc38fae20c4ce982de3d6a3647e907ec6ae7",
-    "https://hiderseeker.ninja/6.5ec1a2d5ce1c26d86329.js": "f88a6006b3043d74dfaa767159f78a6112a7e772",
-    "https://hiderseeker.ninja/7.b5715cbe79c993ebdda9.js": "d3c5822150d7f4f2b22b7ef7162368c306f9d834",
+    "https://hiderseeker.ninja/4.7f0c538f74a3062aa876.js": "a55592fce1f2d42d3c6e8dfca3691ae703717a8d",
+    "https://hiderseeker.ninja/5.66eed2884701b89760cd.js": "f8441bd0e0883045d3f1e12590c0dff80a0d0d2a",
+    "https://hiderseeker.ninja/6.d646198c0c56363ce478.js": "7cd986f6252a3a5b1500d65fcf0c4b82c8734cd0",
+    "https://hiderseeker.ninja/7.f9e2f085c503bc32818f.js": "33992d54c94b6b51cec9cbea7af3e534e290271b",
+    "https://hiderseeker.ninja/art-background-backlit.eea37720b3883b422f0b.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
+    "https://hiderseeker.ninja/assets/about-me-assets/about-me.json": "e70fab4353657abed797a7b7c80e6cbc6c3d90df",
+    "https://hiderseeker.ninja/assets/background/art-background-backlit.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
     "https://hiderseeker.ninja/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://hiderseeker.ninja/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://hiderseeker.ninja/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -53,11 +59,11 @@
     "https://hiderseeker.ninja/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://hiderseeker.ninja/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://hiderseeker.ninja/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://hiderseeker.ninja/index.html": "a2eb26ae794b29b434686dd02b9a0e0458ae8a31",
-    "https://hiderseeker.ninja/main.635375f13fc182e76ff4.js": "5bec267b60a03be723df6c0de23e861e0808b914",
+    "https://hiderseeker.ninja/index.html": "a3ea441de1c3fdc3d85a7ab31ed1e98e38d36fde",
+    "https://hiderseeker.ninja/main.8a28adbc9adb24831b1d.js": "5ed05e9f51870a51b872c0ab3ee06ebbf6561b14",
     "https://hiderseeker.ninja/polyfills.bebee6a5ef0ece001bc6.js": "6946e10a03311677a01490b8e91741668e64e17e",
-    "https://hiderseeker.ninja/runtime.e823058aa938097e168a.js": "994687f1edc8d7860446d47e9d80756d6b9d1cd6",
-    "https://hiderseeker.ninja/styles.b2591e385fa0b8027696.css": "14fcc8066ddc2b364ac5d7962ee201d5b8a41aed"
+    "https://hiderseeker.ninja/runtime.468c9592cac94e17911d.js": "3be259ccd01c0fe3f1dc8237fb4eeb34a493009c",
+    "https://hiderseeker.ninja/styles.f137eed766fb5b69b6d6.css": "ec16cb6194d341136f5e66a89066f221b4cda355"
   },
   "navigationUrls": [
     {
