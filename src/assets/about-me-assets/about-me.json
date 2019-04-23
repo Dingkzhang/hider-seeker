@@ -1,0 +1,18 @@
+{
+    "Questions": {
+        "Question_1": "What is this site?",
+        "Question_2": "What is up with the name?",
+        "Question_3": "Who are you?",
+        "Question_4": "What do you do?",
+        "Question_5": "What are your goals?",
+        "Question_6": "What are your hobbies?"
+    },
+    "Answers": {
+        "Answer_1": "This is my personal site used for blogging and to display the projects that I've been working on.",
+        "Answer_2": "I picked the name in order to be more honest with myself. As a human being, I feel that I've always been wanting to be better than what I am now, but I've always been unable to take that next step. I'm going to stop avoiding/procrastinating the challenges that I need to face in order to achieve my goals.",
+        "Answer_3": "I go by Ding or Dingie on the internet. I'm just a programmer who is trying to pursue the realm of machine learning and artifical intelligence.",
+        "Answer_4": "My day to day is spent learning about programming and honing this craft.",
+        "Answer_5": "I want to be proficient in the field of machine learning. To be able to create and build projects from scratch that will be beneficial to the people I know.",
+        "Answer_6": "In my spare time, I enjoy playing League of Legends. As for something outside of the computer, I love ice-skating and hiking."
+    }
+}

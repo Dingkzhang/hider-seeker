@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import * as aboutMeAsset from "../../../assets/about-me-assets/about-me.json"
 
 @Component({
   selector: 'app-about-me',
@@ -8,8 +9,14 @@ import { Component, OnInit } from '@angular/core';
 export class AboutMeComponent implements OnInit {
 
   showFiller = false;
+  aboutMeQuestions = aboutMeAsset.default.Questions;
+  aboutMeAnswers = aboutMeAsset.default.Answers;
 
-  constructor() { }
+  constructor() {
+    console.log(this.aboutMeQuestions);
+    console.log(this.aboutMeAnswers);
+
+  }
 
   ngOnInit() {
   }

@@ -1,17 +1,20 @@
-<mat-drawer-container autosize>
-  <mat-drawer #mainMenu mode="side">
-    <button mat-button routerLink="/landing">Home</button>
-    <button mat-button routerLink="/aboutMe">About Me</button>
-    <button mat-button routerLink="/blogLanding">Vault</button>
-    <button mat-button routerLink="/portfolioLanding">Portfolio</button>
-  </mat-drawer>
+<div class="nav-content">
+  <mat-drawer-container autosize>
+    <mat-drawer #mainMenu mode="side" position='end'>
+      <button mat-button routerLink="/landing">Home</button>
+      <button mat-button routerLink="/aboutMe">About</button>
+      <button mat-button routerLink="/blogLanding">Vault</button>
+      <button mat-button routerLink="/portfolioLanding">Portfolio</button>
+    </mat-drawer>
 
-  <div>
-    <button type="button" mat-button (click)="mainMenu.toggle()">
-      Menu
-    </button>
-  </div>
+    <div class="nav-menu">
+      <button type="button" mat-button (click)="mainMenu.toggle()">
+        Menu
+      </button>
+    </div>
 
-</mat-drawer-container>
+  </mat-drawer-container>
+</div>
+
 
 <router-outlet></router-outlet>
