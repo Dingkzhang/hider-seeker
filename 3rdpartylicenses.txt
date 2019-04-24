@@ -1,5 +1,4 @@
-@angular/animations
-MIT
+@angular/material/button
 
 tslib
 Apache-2.0
@@ -294,6 +293,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+@angular/animations
+MIT
+
 @angular/cdk
 MIT
 The MIT License
@@ -324,8 +326,6 @@ MIT
 
 @angular/core
 MIT
-
-@angular/material/button
 
 @angular/material/bottom-sheet
 

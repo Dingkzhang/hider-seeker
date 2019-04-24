@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1556057002159,
+  "timestamp": 1556146699105,
   "index": "https://hiderseeker.ninja/index.html",
   "assetGroups": [
     {
@@ -9,14 +9,14 @@
       "updateMode": "prefetch",
       "urls": [
         "https://hiderseeker.ninja/4.7f0c538f74a3062aa876.js",
-        "https://hiderseeker.ninja/5.66eed2884701b89760cd.js",
+        "https://hiderseeker.ninja/5.19cfe6f6a0aae1f23514.js",
         "https://hiderseeker.ninja/6.d646198c0c56363ce478.js",
-        "https://hiderseeker.ninja/7.f9e2f085c503bc32818f.js",
+        "https://hiderseeker.ninja/7.5093493c7550d00c445d.js",
         "https://hiderseeker.ninja/favicon.ico",
         "https://hiderseeker.ninja/index.html",
-        "https://hiderseeker.ninja/main.8a28adbc9adb24831b1d.js",
+        "https://hiderseeker.ninja/main.ebb58135c3e4e337c88f.js",
         "https://hiderseeker.ninja/polyfills.bebee6a5ef0ece001bc6.js",
-        "https://hiderseeker.ninja/runtime.468c9592cac94e17911d.js",
+        "https://hiderseeker.ninja/runtime.0745512438dec8e8ec40.js",
         "https://hiderseeker.ninja/styles.f137eed766fb5b69b6d6.css"
       ],
       "patterns": []
@@ -29,6 +29,9 @@
         "https://hiderseeker.ninja/art-background-backlit.eea37720b3883b422f0b.jpg",
         "https://hiderseeker.ninja/assets/about-me-assets/about-me.json",
         "https://hiderseeker.ninja/assets/background/art-background-backlit.jpg",
+        "https://hiderseeker.ninja/assets/blog-assets/index.json",
+        "https://hiderseeker.ninja/assets/blog-assets/stories/story_1.json",
+        "https://hiderseeker.ninja/assets/blog-assets/stories/story_2.json",
         "https://hiderseeker.ninja/assets/icons/icon-128x128.png",
         "https://hiderseeker.ninja/assets/icons/icon-144x144.png",
         "https://hiderseeker.ninja/assets/icons/icon-152x152.png",
@@ -36,7 +39,9 @@
         "https://hiderseeker.ninja/assets/icons/icon-384x384.png",
         "https://hiderseeker.ninja/assets/icons/icon-512x512.png",
         "https://hiderseeker.ninja/assets/icons/icon-72x72.png",
-        "https://hiderseeker.ninja/assets/icons/icon-96x96.png"
+        "https://hiderseeker.ninja/assets/icons/icon-96x96.png",
+        "https://hiderseeker.ninja/assets/portfolio-assets/index.json",
+        "https://hiderseeker.ninja/assets/portfolio-assets/projects/example.json"
       ],
       "patterns": []
     }
@@ -44,12 +49,15 @@
   "dataGroups": [],
   "hashTable": {
     "https://hiderseeker.ninja/4.7f0c538f74a3062aa876.js": "a55592fce1f2d42d3c6e8dfca3691ae703717a8d",
-    "https://hiderseeker.ninja/5.66eed2884701b89760cd.js": "f8441bd0e0883045d3f1e12590c0dff80a0d0d2a",
+    "https://hiderseeker.ninja/5.19cfe6f6a0aae1f23514.js": "981b864fa44c4d1fe6ef1ee131021365e55d35b9",
     "https://hiderseeker.ninja/6.d646198c0c56363ce478.js": "7cd986f6252a3a5b1500d65fcf0c4b82c8734cd0",
-    "https://hiderseeker.ninja/7.f9e2f085c503bc32818f.js": "33992d54c94b6b51cec9cbea7af3e534e290271b",
+    "https://hiderseeker.ninja/7.5093493c7550d00c445d.js": "cc88efee01f26f9b2439fa0d963921ea048fe1f1",
     "https://hiderseeker.ninja/art-background-backlit.eea37720b3883b422f0b.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
     "https://hiderseeker.ninja/assets/about-me-assets/about-me.json": "e70fab4353657abed797a7b7c80e6cbc6c3d90df",
     "https://hiderseeker.ninja/assets/background/art-background-backlit.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
+    "https://hiderseeker.ninja/assets/blog-assets/index.json": "c1ced851286540fc93669a72b50fb009a52eac56",
+    "https://hiderseeker.ninja/assets/blog-assets/stories/story_1.json": "62cd9fa116a306dc105a386ea469d0646a9ba28c",
+    "https://hiderseeker.ninja/assets/blog-assets/stories/story_2.json": "979f65a125dafa70484121be9befa6d2efa2d970",
     "https://hiderseeker.ninja/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://hiderseeker.ninja/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://hiderseeker.ninja/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -58,11 +66,13 @@
     "https://hiderseeker.ninja/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "https://hiderseeker.ninja/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://hiderseeker.ninja/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://hiderseeker.ninja/assets/portfolio-assets/index.json": "add75851dca8a7112b363bb217e907edf5eb09c9",
+    "https://hiderseeker.ninja/assets/portfolio-assets/projects/example.json": "8144005f8d6185c9a400f10e620687b4c011ad92",
     "https://hiderseeker.ninja/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://hiderseeker.ninja/index.html": "a3ea441de1c3fdc3d85a7ab31ed1e98e38d36fde",
-    "https://hiderseeker.ninja/main.8a28adbc9adb24831b1d.js": "5ed05e9f51870a51b872c0ab3ee06ebbf6561b14",
+    "https://hiderseeker.ninja/index.html": "979dd505b0a498bb2999d55b4761485630db1abf",
+    "https://hiderseeker.ninja/main.ebb58135c3e4e337c88f.js": "54fb763bad9cfd1581dd013309f177e2e2c1cf27",
     "https://hiderseeker.ninja/polyfills.bebee6a5ef0ece001bc6.js": "6946e10a03311677a01490b8e91741668e64e17e",
-    "https://hiderseeker.ninja/runtime.468c9592cac94e17911d.js": "3be259ccd01c0fe3f1dc8237fb4eeb34a493009c",
+    "https://hiderseeker.ninja/runtime.0745512438dec8e8ec40.js": "e1eb9f6b87c62133135dcf7a11a21afd0618723d",
     "https://hiderseeker.ninja/styles.f137eed766fb5b69b6d6.css": "ec16cb6194d341136f5e66a89066f221b4cda355"
   },
   "navigationUrls": [
