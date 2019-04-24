@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 
+import { HttpClientModule } from '@angular/common/http';
+
 //Shared animation and materials import
 import { AngularAnimationsModule } from './shared/angular-animations/angular-animations.module';
 import { AngularMaterialsModule } from './shared/angular-materials/angular-materials.module';
@@ -18,6 +20,11 @@ import { AngularMaterialsModule } from './shared/angular-materials/angular-mater
     AngularAnimationsModule,
     AngularMaterialsModule,
     AppRoutingModule,
+
+    // Http Connection
+    HttpClientModule,
+
+    // Progressive Web App
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],

@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+import { Observable } from 'rxjs';
 
 @Component({
   selector: 'app-portfolio-landing',
@@ -7,7 +9,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PortfolioLandingComponent implements OnInit {
 
-  constructor() { }
+  constructor(private http: HttpClient) {
+    this.getJSON().subscribe(data => {
+      console.log(data);
+    })
+
+  }
+
+  public getJSON(): Observable<any> {
+    return this.http.get("../../../assets/portfolio-assets/index.json");
+  }
 
   ngOnInit() {
   }
