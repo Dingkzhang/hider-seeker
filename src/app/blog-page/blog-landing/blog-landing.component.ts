@@ -2,7 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
-
+import { JsonConversionService } from '../../services/json-conversion-service/json-conversion.service';
+import { ParagraphConversionService } from '../../services/paragraph-conversion-service/paragraph-conversion.service';
 @Component({
   selector: 'app-blog-landing',
   templateUrl: './blog-landing.component.html',
@@ -10,20 +11,41 @@ import { Observable } from 'rxjs';
 })
 export class BlogLandingComponent implements OnInit {
 
-  constructor(private http: HttpClient) {
-    this.getJSON().subscribe(data => {
-      console.log(data);
-    })
+  blogIndex;
+  currentBlogIndex;
+  currentStoryInfo = null;
+  currentMainContent = null;
+  ngOnInit() { }
 
+  constructor(
+    private http: HttpClient,
+    private jsonConversion: JsonConversionService,
+    private paragraphConversion: ParagraphConversionService
+  ) {
+    this.getBlogIndex().subscribe(data => {
+      this.blogIndex = data;
+      this.currentBlogIndex = this.blogIndex.total_index;
+      console.log(this.blogIndex);
+      this.getBlogPageInfo(this.blogIndex.total_index).subscribe(data => {
+        this.currentStoryInfo = data;
+        this.currentMainContent = this.paragraphConversion.convertParagraphArray(data.main_info);
+        console.log(this.currentStoryInfo);
+      });
+    });
   }
 
-  public getJSON(): Observable<any> {
+  private getBlogIndex(): Observable<any> {
     return this.http.get("../../../assets/blog-assets/index.json");
   }
 
-
-
-  ngOnInit() {
+  private getBlogPageInfo(indexValue): Observable<any> {
+    let urlString = "../../../assets/blog-assets/stories/story_" + indexValue + ".json";
+    return this.http.get(urlString);
   }
 
+  private nextStory() { }
+
+  private prevStory() { }
+
+  private defaultStory() { }
 }
