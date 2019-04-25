@@ -12,7 +12,7 @@ import { ParagraphConversionService } from '../../services/paragraph-conversion-
 })
 export class BlogLandingComponent implements OnInit {
 
-  blogIndex;
+  blogIndexInfo;
   currentBlogIndex;
   currentStoryInfo = null;
   currentMainContent = null;
@@ -36,10 +36,10 @@ export class BlogLandingComponent implements OnInit {
 
   private setupBlogIndex() {
     this.blogIndexSubscription = this.getBlogIndex().subscribe(data => {
-      this.blogIndex = data;
-      this.currentBlogIndex = this.blogIndex.total_index;
-      console.log(this.blogIndex);
-      this.setupBlogPageInfo(this.blogIndex.total_index);
+      this.blogIndexInfo = data;
+      this.currentBlogIndex = this.blogIndexInfo.total_index;
+      console.log(this.blogIndexInfo);
+      this.setupBlogPageInfo(this.blogIndexInfo.total_index);
     });
   }
 
@@ -48,7 +48,9 @@ export class BlogLandingComponent implements OnInit {
   }
 
   private setupBlogPageInfo(indexValue) {
-    this.blogInfoSubscription = this.getBlogPageInfo(this.blogIndex.total_index).subscribe(data => {
+    console.log(indexValue);
+    this.currentBlogIndex = indexValue;
+    this.blogInfoSubscription = this.getBlogPageInfo(indexValue).subscribe(data => {
       this.currentStoryInfo = data;
       this.currentMainContent = this.paragraphConversion.convertParagraphArray(data.main_info);
       console.log(this.currentStoryInfo);
@@ -61,14 +63,26 @@ export class BlogLandingComponent implements OnInit {
   }
 
   private nextStory() {
+    console.log(this.currentBlogIndex);
+    console.log(this.blogIndexInfo.total_index);
 
+    if (this.currentBlogIndex < this.blogIndexInfo.total_index) {
+      this.setupBlogPageInfo(this.currentBlogIndex + 1);
+    } else {
+      this.setupBlogPageInfo(1);
+    }
   }
 
   private prevStory() {
-
+    console.log(this.currentBlogIndex);
+    if (this.currentBlogIndex > 1) {
+      this.setupBlogPageInfo(this.currentBlogIndex - 1);
+    } else {
+      this.setupBlogPageInfo(this.blogIndexInfo.total_index);
+    }
   }
 
   private defaultStory() {
-    this.setupBlogPageInfo(this.blogIndex.total_index);
+    this.setupBlogPageInfo(this.blogIndexInfo.total_index);
   }
 }
