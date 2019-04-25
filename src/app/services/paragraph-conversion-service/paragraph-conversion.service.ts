@@ -8,13 +8,19 @@ export class ParagraphConversionService {
   constructor() { }
 
   public convertParagraphArray(objectArray) {
-    console.log(objectArray);
-    console.log(typeof (objectArray));
 
-    for (let i in objectArray) {
-      console.log(i);
+    let paragraphArray = [];
+    // The way I have the arrays setup I have to do 2 for loops in order to filter out the paragraphs.
+    // Need to relook into this when I have time.
+    for (let paragraph in objectArray) {
+      for (let p in objectArray[paragraph]) {
+        paragraphArray.push(objectArray[paragraph][p]);
+      }
     }
 
+    console.log(paragraphArray);
+
+    return paragraphArray;
   }
 
 }

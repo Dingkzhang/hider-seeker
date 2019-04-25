@@ -1,6 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, OnDestroy } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
+import { Subscription } from 'rxjs';
 
 import { JsonConversionService } from '../../services/json-conversion-service/json-conversion.service';
 import { ParagraphConversionService } from '../../services/paragraph-conversion-service/paragraph-conversion.service';
@@ -15,22 +16,30 @@ export class BlogLandingComponent implements OnInit {
   currentBlogIndex;
   currentStoryInfo = null;
   currentMainContent = null;
+
+  blogIndexSubscription: Subscription
+  blogInfoSubscription: Subscription
   ngOnInit() { }
+
+  ngOnDestroy() {
+    this.blogIndexSubscription.unsubscribe();
+    this.blogInfoSubscription.unsubscribe();
+  }
 
   constructor(
     private http: HttpClient,
     private jsonConversion: JsonConversionService,
     private paragraphConversion: ParagraphConversionService
   ) {
-    this.getBlogIndex().subscribe(data => {
+    this.setupBlogIndex();
+  }
+
+  private setupBlogIndex() {
+    this.blogIndexSubscription = this.getBlogIndex().subscribe(data => {
       this.blogIndex = data;
       this.currentBlogIndex = this.blogIndex.total_index;
       console.log(this.blogIndex);
-      this.getBlogPageInfo(this.blogIndex.total_index).subscribe(data => {
-        this.currentStoryInfo = data;
-        this.currentMainContent = this.paragraphConversion.convertParagraphArray(data.main_info);
-        console.log(this.currentStoryInfo);
-      });
+      this.setupBlogPageInfo(this.blogIndex.total_index);
     });
   }
 
@@ -38,14 +47,28 @@ export class BlogLandingComponent implements OnInit {
     return this.http.get("../../../assets/blog-assets/index.json");
   }
 
+  private setupBlogPageInfo(indexValue) {
+    this.blogInfoSubscription = this.getBlogPageInfo(this.blogIndex.total_index).subscribe(data => {
+      this.currentStoryInfo = data;
+      this.currentMainContent = this.paragraphConversion.convertParagraphArray(data.main_info);
+      console.log(this.currentStoryInfo);
+    });
+  }
+
   private getBlogPageInfo(indexValue): Observable<any> {
     let urlString = "../../../assets/blog-assets/stories/story_" + indexValue + ".json";
     return this.http.get(urlString);
   }
 
-  private nextStory() { }
+  private nextStory() {
 
-  private prevStory() { }
+  }
 
-  private defaultStory() { }
+  private prevStory() {
+
+  }
+
+  private defaultStory() {
+    this.setupBlogPageInfo(this.blogIndex.total_index);
+  }
 }
