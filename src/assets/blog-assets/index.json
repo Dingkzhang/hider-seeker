@@ -1,0 +1,23 @@
+{
+    "total_index": "3",
+    "story_library": {
+        "1": {
+            "title": "Story 1",
+            "description": "La la la",
+            "hider_index_value": "1",
+            "seeker_index_value": "null"
+        },
+        "2": {
+            "title": "Story 2",
+            "description": "Blah blah blah",
+            "hider_index_value": "null",
+            "seeker_index_value": "1"
+        },
+        "3" : {
+            "title": "Story 3",
+            "description": "hahahaha",
+            "hider_index_value": "null",
+            "seeker_index_value": "2"
+        }
+    }
+}

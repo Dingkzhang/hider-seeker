@@ -1,20 +1,20 @@
-<!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
-  <h1>
-    This is the start of my web building. :)
-  </h1>
+<div class="nav-content">
+  <mat-drawer-container autosize>
+    <mat-drawer #mainMenu mode="side" position='end'>
+      <button mat-button routerLink="/landing">Home</button>
+      <button mat-button routerLink="/aboutMe">About</button>
+      <button mat-button routerLink="/blogLanding">Vault</button>
+      <button mat-button routerLink="/portfolioLanding">Portfolio</button>
+    </mat-drawer>
+
+    <div class="nav-menu">
+      <button type="button" mat-button (click)="mainMenu.toggle()">
+        Menu
+      </button>
+    </div>
+
+  </mat-drawer-container>
 </div>
-<ul>
-
-This is a message text used for testing the application. Beep boop.
-Wanna install app?
-
-<!-- <button *ngIf="Pwa.promptEvent" (click)="installPwa()">
-  Install
-</button> -->
-
-</ul>
-
 
 
 <router-outlet></router-outlet>
