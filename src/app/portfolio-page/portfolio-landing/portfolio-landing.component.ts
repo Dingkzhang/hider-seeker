@@ -12,9 +12,11 @@ import { ParagraphConversionService } from '../../services/paragraph-conversion-
 })
 export class PortfolioLandingComponent implements OnInit {
 
-
+  portfolioIndexInfo;
+  currentPortfolioIndex;
+  currentPortfolioInfo = null;
+  currentMainContent = null;
   portfolioIndexSubscription: Subscription;
-
 
   constructor(
     private http: HttpClient,
@@ -26,7 +28,8 @@ export class PortfolioLandingComponent implements OnInit {
 
   private setupPortfolioIndex() {
     this.portfolioIndexSubscription = this.getPortfolioIndex().subscribe(data => {
-      console.log(data);
+      this.portfolioIndexInfo = data;
+      console.log(this.portfolioIndexInfo);
     });
   }
 

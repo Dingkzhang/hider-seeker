@@ -12,6 +12,8 @@ import { ParagraphConversionService } from '../../services/paragraph-conversion-
 })
 export class BlogLandingComponent implements OnInit {
 
+  navigationHeight;
+
   blogIndexInfo;
   currentBlogIndex;
   currentStoryInfo = null;

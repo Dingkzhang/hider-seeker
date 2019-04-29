@@ -1,12 +1,26 @@
+
+<button mat-button (click)="defaultStory();">Most Recent</button>
+<button mat-button [matMenuTriggerFor]="menu" >Browse Vault</button>
+<mat-menu #menu="matMenu">
+  <div *ngFor="let index of blogIndexInfo">
+  </div>
+  <button mat-menu-item>Item 1</button>
+  <button mat-menu-item>Item 2</button>
+</mat-menu>
 <div class="blog-content" *ngIf="currentStoryInfo !== null">
+  <button mat-button class="prev-button" (click)="prevStory();">
+    <i class="fas fa-arrow-left"></i>
+  </button>
+  <button mat-button class="next-button" (click)="nextStory();">
+    <i class="fas fa-arrow-right"></i>
+  </button>
+
   <h1>{{currentStoryInfo.title}}</h1>
   <h3>{{currentStoryInfo.date}} {{currentStoryInfo.description}}</h3>
 
-  <p *ngFor= "let paragraph of currentMainContent">
+  <img src="{{currentStoryInfo.image_url}}" width="100%" height="100%" alt="Photo of a Shiba Inu">
+
+  <p *ngFor="let paragraph of currentMainContent">
     {{ paragraph }}
   </p>
-
-  <button (click)="nextStory();">Next</button>
-  <button (click)="prevStory();">Previous</button>
-  <button (click)="defaultStory();">Most Recent</button>
 </div>

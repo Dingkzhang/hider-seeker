@@ -3,18 +3,21 @@
     "project_library": {
         "1": {
             "title": "Project XCS",
+            "subtitle": "subtitle temp",
             "description": "La la la",
-            "image_thumbnail": ""
+            "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
         },
         "2": {
             "title": "Project DDD",
+            "subtitle": "subtitle temp",
             "description": "Ha ha ha",
-            "image_thumbnail": ""
+            "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba2.jpg"
         },
         "3": {
             "title": "Project XD",
+            "subtitle": "subtitle temp",
             "description": "Blah blah blah",
-            "image_thumbnail": ""
+            "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
         }
     }
 }
