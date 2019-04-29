@@ -12,9 +12,9 @@ import { ParagraphConversionService } from '../../services/paragraph-conversion-
 })
 export class BlogLandingComponent implements OnInit {
 
-  navigationHeight;
 
   blogIndexInfo;
+  blogStoryLibrary;
   currentBlogIndex;
   currentStoryInfo = null;
   currentMainContent = null;
@@ -41,6 +41,7 @@ export class BlogLandingComponent implements OnInit {
       this.blogIndexInfo = data;
       this.currentBlogIndex = this.blogIndexInfo.total_index;
       console.log(this.blogIndexInfo);
+      this.blogStoryLibrary = this.paragraphConversion.convertParagraphArray(data.story_library);
       this.setupBlogPageInfo(this.blogIndexInfo.total_index);
     });
   }

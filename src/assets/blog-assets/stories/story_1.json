@@ -1,5 +1,5 @@
 {
-    "index": "1",
+    "index": 1,
     "is_hider": "true",
     "is_seeker": "false",
     "date": "04/24/2019",
@@ -7,7 +7,7 @@
     "seeker_index_value": "null",
     "title": "Story 1",
     "description": "Placeholder description",
-    "paragraph_length": "2",
+    "paragraph_length": 2,
     "main_info": [
         {
             "paragraph_1": "Aliquam a quam vitae risus elementum pharetra eget vitae diam. Aliquam diam metus, dapibus sed sem eget, tempor maximus dolor. Nunc pretium et magna pellentesque vulputate. Vestibulum vitae tellus ac ipsum consectetur aliquam. Vestibulum id diam mollis, vehicula odio sit amet, feugiat tortor. Curabitur auctor, nunc sed auctor sagittis, enim odio sagittis lectus, id venenatis eros dui sed augue. Praesent gravida justo vel scelerisque venenatis. Vivamus pretium, turpis vel suscipit vestibulum, magna elit porttitor justo, id fringilla purus augue vitae nisi. Mauris quis eros vestibulum, sollicitudin erat eu, fermentum ex. Pellentesque id erat facilisis, tempus lectus tempor, vestibulum risus. Nullam non pretium massa, et maximus tortor. Aenean posuere sagittis dolor at dictum."
