@@ -3,7 +3,7 @@
 <button mat-button [matMenuTriggerFor]="menu" >Browse Vault</button>
 <mat-menu #menu="matMenu">
   <div *ngFor="let story of blogStoryLibrary">
-      <button mat-menu-item (click)="setupBlogPageInfo(story.index_value)">{{story.title}}</button>
+      <button mat-menu-item (click)="getSelectedStory(story.index_value)">{{story.title}}</button>
   </div>
 </mat-menu>
 <div class="blog-content" *ngIf="currentStoryInfo !== null">

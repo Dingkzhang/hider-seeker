@@ -1,15 +1,15 @@
 <div class="nav-content">
   <mat-drawer-container autosize>
     <mat-drawer #mainMenu mode="side" position='end'>
-      <button mat-button routerLink="/landing">Home</button>
-      <button mat-button routerLink="/aboutMe">About</button>
-      <button mat-button routerLink="/blogLanding">Vault</button>
-      <button mat-button routerLink="/portfolioLanding">Portfolio</button>
+      <button mat-button (click)="mainMenu.toggle()" routerLink="/landing">Home</button>
+      <button mat-button (click)="mainMenu.toggle()" routerLink="/aboutMe">About</button>
+      <button mat-button (click)="mainMenu.toggle()" routerLink="/blogLanding">Vault</button>
+      <button mat-button (click)="mainMenu.toggle()" routerLink="/portfolioLanding">Portfolio</button>
     </mat-drawer>
 
     <div class="nav-menu">
       <button type="button" mat-button (click)="mainMenu.toggle()">
-        Menu
+        <span *ngIf="!mainMenu.opened">Menu</span>
       </button>
     </div>
 

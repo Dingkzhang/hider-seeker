@@ -85,7 +85,11 @@ export class BlogLandingComponent implements OnInit {
     }
   }
 
-  private defaultStory() {
+  public defaultStory() {
     this.setupBlogPageInfo(this.blogIndexInfo.total_index);
+  }
+
+  public getSelectedStory(indexValue) {
+    this.setupBlogPageInfo(indexValue);
   }
 }
