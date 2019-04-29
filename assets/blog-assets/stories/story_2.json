@@ -1,5 +1,5 @@
 {
-    "index": "2",
+    "index": 2,
     "is_hider": "false",
     "is_seeker": "true",
     "date": "04/25/2019",
@@ -7,7 +7,7 @@
     "seeker_index_value": "1",
     "title": "Story 2",
     "description": "Placeholder description",
-    "paragraph_length": "3",
+    "paragraph_length": 3,
     "main_info": [
         {
             "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque vulputate ligula, vitae placerat nulla sollicitudin sed. Duis ultricies vitae ipsum et tempor. Nam pharetra, justo a bibendum volutpat, neque massa luctus erat, auctor sagittis lectus nulla auctor metus. In pellentesque dictum lacus et semper. Maecenas lacinia ipsum nec purus interdum tempor. Duis eros nulla, vehicula nec est vitae, sollicitudin dictum sapien. Quisque imperdiet consequat mi non auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut tempus leo."
@@ -19,5 +19,5 @@
             "paragraph_3": "Vivamus et facilisis magna. Nullam id maximus risus. Donec id lectus quis nibh vulputate ultrices ut et est. Donec eu nisl at mauris laoreet tincidunt vitae a urna. Nam in mattis dui, fermentum interdum massa. Sed euismod lectus id congue placerat. Aliquam viverra pellentesque purus, sit amet suscipit augue euismod ac. Vestibulum nec condimentum ex, ut tincidunt lorem."
         }
     ],
-    "image_url": ""
+    "image_url": "https://material.angular.io/assets/img/examples/shiba1.jpg"
 }
