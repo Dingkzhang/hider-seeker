@@ -13,6 +13,14 @@
     }
 }
 
+.portfolio-button {
+    width:100%;
+}
+
+.portfolio-header {
+    width: 100%;
+}
+
 .image-thumbnail {
     display:block;
     height: 150px;
@@ -23,4 +31,12 @@
 
 .view-button {
     float:right;
+}
+
+mat-card-title {
+    margin: auto;
+}
+
+mat-card-header-text {
+    margin: auto;
 }

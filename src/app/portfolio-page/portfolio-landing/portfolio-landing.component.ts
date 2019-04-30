@@ -46,4 +46,8 @@ export class PortfolioLandingComponent implements OnInit {
     this.portfolioIndexSubscription.unsubscribe();
   }
 
+  public testTemp() {
+    console.log('tateate');
+  }
+
 }
