@@ -1,16 +1,16 @@
 {
     "total_index": "3",
     "story_library": {
-        "1": [
+        "index_3": [
             {
-                "title": "Story 1",
-                "index_value": 1,
-                "description": "La la la",
-                "hider_index_value": "1",
-                "seeker_index_value": "null"
+                "title": "Story 3",
+                "index_value": 3,
+                "description": "hahahaha",
+                "hider_index_value": "null",
+                "seeker_index_value": "2"
             }
         ],
-        "2": [
+        "index_2": [
             {
                 "title": "Story 2",
                 "index_value": 2,
@@ -19,13 +19,13 @@
                 "seeker_index_value": "1"
             }
         ],
-        "3": [
+        "index_1": [
             {
-                "title": "Story 3",
-                "index_value": 3,
-                "description": "hahahaha",
-                "hider_index_value": "null",
-                "seeker_index_value": "2"
+                "title": "Story 1",
+                "index_value": 1,
+                "description": "La la la",
+                "hider_index_value": "1",
+                "seeker_index_value": "null"
             }
         ]
     }

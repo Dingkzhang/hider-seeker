@@ -1,25 +1,18 @@
-<div class="portfolio-content">
+<div class="portfolio-content" *ngFor="let project of projectLibraryData">
   <mat-card class="example-card">
     <mat-card-header>
       <div mat-card-avatar class="example-header-image"></div>
-      <mat-card-title>Shiba Inu - Test Example - Still Under Construction</mat-card-title>
-      <mat-card-subtitle>Dog Breed</mat-card-subtitle>
+      <mat-card-title>{{project.title}}</mat-card-title>
+      <mat-card-subtitle> {{project.date}} {{project.subtitle}}
+      </mat-card-subtitle>
     </mat-card-header>
-    <!-- <img mat-card-image src="https://material.angular.io/assets/img/examples/shiba2.jpg" alt="Photo of a Shiba Inu"> -->
+    <img class="image-thumbnail" mat-card-image src="{{project.image_thumbnail}}" alt="Photo of a Shiba Inu">
     <mat-card-content>
       <p>
-        The Shiba Inu is the smallest of the six original and distinct spitz breeds of dog from Japan. A small, agile dog that copes
-        very well with mountainous terrain, the Shiba Inu was originally bred for hunting.
+
+        {{project.description}}
+
       </p>
     </mat-card-content>
-    <!-- <mat-card-actions>
-      <button mat-button>LIKE</button>
-      <button mat-button>SHARE</button>
-    </mat-card-actions> -->
   </mat-card>
-
 </div>
-
-<!-- <div class="portfolio-content" *ngFor="let project of portfolioIndexInfo.project_library">
-  {{ project }}
-</div> -->

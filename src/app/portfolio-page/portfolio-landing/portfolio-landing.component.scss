@@ -1,4 +1,26 @@
 .portfolio-content {
     max-width: 500px;
     margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    :hover {
+        opacity: 0.5;
+    }
+
+    @media(hover:none){
+   
+    }
+}
+
+.image-thumbnail {
+    display:block;
+    height: 150px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.view-button {
+    float:right;
 }
