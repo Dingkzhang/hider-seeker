@@ -36,6 +36,8 @@ export class BlogLandingComponent implements OnInit {
     this.setupBlogIndex();
   }
 
+  // Data Retrieval Functions
+
   private setupBlogIndex() {
     this.blogIndexSubscription = this.getBlogIndex().subscribe(data => {
       this.blogIndexInfo = data;
@@ -65,6 +67,8 @@ export class BlogLandingComponent implements OnInit {
     return this.http.get(urlString);
   }
 
+  // Story Navigation Functions
+
   private nextStory() {
     console.log(this.currentBlogIndex);
     console.log(this.blogIndexInfo.total_index);
@@ -92,4 +96,12 @@ export class BlogLandingComponent implements OnInit {
   public getSelectedStory(indexValue) {
     this.setupBlogPageInfo(indexValue);
   }
+
+  // Scroll Top Function
+
+  public scrollTop() {
+    window.scrollTo(0,0);
+  }
+
+
 }

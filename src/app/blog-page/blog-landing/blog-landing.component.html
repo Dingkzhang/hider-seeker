@@ -7,10 +7,10 @@
   </div>
 </mat-menu>
 <div class="blog-content" *ngIf="currentStoryInfo !== null">
-  <button mat-button class="prev-button" (click)="prevStory();">
+  <button mat-button class="prev-button" (click)="prevStory(); scrollTop();">
     <i class="fas fa-arrow-left"></i>
   </button>
-  <button mat-button class="next-button" (click)="nextStory();">
+  <button mat-button class="next-button" (click)="nextStory(); scrollTop();">
     <i class="fas fa-arrow-right"></i>
   </button>
 
