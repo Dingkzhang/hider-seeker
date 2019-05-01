@@ -5,6 +5,7 @@
             {
                 "title": "Natural Language Processing UFC.com",
                 "subtitle": "Used to determine how to assign numerical values to text.",
+                "index_value": "3",
                 "date": "05/22/2019",
                 "description": "Blah blah blah",
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
@@ -14,6 +15,7 @@
             {
                 "title": "UFC Betting Simulation",
                 "subtitle": "To determine percentage chance of UFC fighter winning the match.",
+                "index_value": "2",
                 "date": "04/22/2019",
                 "description": "Ha ha ha",
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba2.jpg"
@@ -23,6 +25,7 @@
             {
                 "title": "Angular 7 Website with Github",
                 "subtitle": "subtitle temp",
+                "index_value": "1",
                 "date": "03/22/2019",
                 "description": "La la la",
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba3.jpg"
