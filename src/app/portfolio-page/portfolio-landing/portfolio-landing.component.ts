@@ -14,8 +14,10 @@ export class PortfolioLandingComponent implements OnInit {
 
   portfolioData;
   projectLibraryData;
+  selectedProjectData;
 
   portfolioIndexSubscription: Subscription;
+  projectInfoSubscription: Subscription;
 
   constructor(
     private http: HttpClient,
@@ -40,14 +42,27 @@ export class PortfolioLandingComponent implements OnInit {
     return this.http.get("../../../assets/portfolio-assets/index.json");
   }
 
+  private setupProjectInfo(indexValue) {
+    this.projectInfoSubscription = this.getProjectInfo(indexValue).subscribe(data => {
+      this.selectedProjectData = [data];
+      console.log(data);
+    });
+  }
+
+  private getProjectInfo(indexValue): Observable<any> {
+    return this.http.get("../../../assets/portfolio-assets/projects/project_"+ indexValue + ".json");
+  }
+
   ngOnInit() { }
 
   ngOnDestroy() {
     this.portfolioIndexSubscription.unsubscribe();
+    this.projectInfoSubscription.unsubscribe();
   }
 
-  public testTemp() {
-    console.log('tateate');
+  public openSelectedProject(indexValue) {
+    console.log(indexValue);
+    this.setupProjectInfo(indexValue);
   }
 
 }
