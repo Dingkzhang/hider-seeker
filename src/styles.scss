@@ -4,3 +4,18 @@
 body {
     background-image: url("./assets/background/art-background-backlit.jpg");
 }
+
+mat-dialog-container{
+    opacity: 0.75;
+}
+
+.cdk-overlay-pane{
+    height: 75%;
+    width: 75%;
+
+    @media all and (max-width: 675px) {
+        height: 100%;
+        width: 100%;
+    }
+
+}

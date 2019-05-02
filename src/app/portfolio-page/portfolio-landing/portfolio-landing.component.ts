@@ -1,7 +1,9 @@
-import { Component, OnInit, OnDestroy } from '@angular/core';
+import { Component, OnInit, OnDestroy, Inject } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { Subscription } from 'rxjs';
+
+import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from '@angular/material';
 
 import { JsonConversionService } from '../../services/json-conversion-service/json-conversion.service';
 import { ParagraphConversionService } from '../../services/paragraph-conversion-service/paragraph-conversion.service';
@@ -22,7 +24,8 @@ export class PortfolioLandingComponent implements OnInit {
   constructor(
     private http: HttpClient,
     private jsonConversion: JsonConversionService,
-    private paragraphConversion: ParagraphConversionService
+    private paragraphConversion: ParagraphConversionService,
+    public dialog: MatDialog
   ) {
     this.setupPortfolioIndex();
   }
@@ -44,13 +47,27 @@ export class PortfolioLandingComponent implements OnInit {
 
   private setupProjectInfo(indexValue) {
     this.projectInfoSubscription = this.getProjectInfo(indexValue).subscribe(data => {
+      // Very specific case where *ngFor does not like non arrays as iterables
       this.selectedProjectData = [data];
       console.log(data);
+
+      this.displayProjectInfo();
     });
   }
 
   private getProjectInfo(indexValue): Observable<any> {
-    return this.http.get("../../../assets/portfolio-assets/projects/project_"+ indexValue + ".json");
+    return this.http.get("../../../assets/portfolio-assets/projects/project_" + indexValue + ".json");
+  }
+
+  private displayProjectInfo() {
+    const portfolioDialogRef = this.dialog.open(PortfolioDialog, {
+      // case where it is better to change it back to an object for display purposes
+      data: this.selectedProjectData[0]
+    });
+
+    portfolioDialogRef.afterClosed().subscribe(result => {
+      console.log('dialog closed');
+    })
   }
 
   ngOnInit() { }
@@ -64,5 +81,28 @@ export class PortfolioLandingComponent implements OnInit {
     console.log(indexValue);
     this.setupProjectInfo(indexValue);
   }
+
+}
+
+
+@Component({
+  selector: 'portfolio-dialog',
+  templateUrl: 'portfolio-dialog.html',
+  styleUrls: ['./portfolio-landing.component.scss']
+})
+
+export class PortfolioDialog {
+  constructor(
+    public portfolioDialogRef: MatDialogRef<PortfolioDialog>,
+    @Inject(MAT_DIALOG_DATA) public data: PorfolioData) { 
+      console.log(data);
+    }
+
+    onCloseClick(): void {
+      this.portfolioDialogRef.close();
+    }
+}
+
+export interface PorfolioData {
 
 }
