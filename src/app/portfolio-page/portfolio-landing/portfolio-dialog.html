@@ -1,11 +1,13 @@
-<h1 mat-dialog-title>{{data.title}}</h1>
-<div mat-dialog-content>
-    {{data.date}} {{data.description}}
-    <p>What's your favorite animal?</p>
-    <mat-form-field>
-        <input matInput>
-    </mat-form-field>
-</div>
-<div mat-dialog-actions>
-    <button mat-button (click)="onCloseClick()">No Thanks</button>
+<div *ngIf="selectedProjectData">
+    <h1 mat-dialog-title>{{data.title}}</h1>
+    <div mat-dialog-content>
+        {{data.date}} {{data.description}}
+        <p>What's your favorite animal?</p>
+        <mat-form-field>
+            <input matInput>
+        </mat-form-field>
+    </div>
+    <div mat-dialog-actions>
+        <button mat-button (click)="onCloseClick()">No Thanks</button>
+    </div>
 </div>
