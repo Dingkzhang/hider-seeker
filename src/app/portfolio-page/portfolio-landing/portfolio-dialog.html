@@ -1,13 +1,15 @@
+<div mat-dialog-actions class="dialog-actions">
+
+</div>
 <div *ngIf="data !== null">
-    <h1 mat-dialog-title>{{data.title}}</h1>
+    <button class="close-button" mat-button (click)="onCloseClick()">
+        <i class="fas fa-times"></i>
+    </button>
+    <h1 mat-dialog-title class="title-info">{{data.title}}</h1>
     <div mat-dialog-content>
         {{data.date}} {{data.description}}
         <p>What's your favorite animal?</p>
-        <mat-form-field>
-            <input matInput>
-        </mat-form-field>
+
     </div>
-    <div mat-dialog-actions>
-        <button mat-button (click)="onCloseClick()">No Thanks</button>
-    </div>
+
 </div>
