@@ -24,8 +24,13 @@ export class BlogLandingComponent implements OnInit {
   ngOnInit() { }
 
   ngOnDestroy() {
-    this.blogIndexSubscription.unsubscribe();
-    this.blogInfoSubscription.unsubscribe();
+    if (this.blogIndexSubscription && !this.blogIndexSubscription.closed) {
+      this.blogIndexSubscription.unsubscribe();
+    }
+
+    if (this.blogInfoSubscription && !this.blogInfoSubscription.closed) {
+      this.blogInfoSubscription.unsubscribe();
+    }
   }
 
   constructor(
@@ -100,7 +105,7 @@ export class BlogLandingComponent implements OnInit {
   // Scroll Top Function
 
   public scrollTop() {
-    window.scrollTo(0,0);
+    window.scrollTo(0, 0);
   }
 
 

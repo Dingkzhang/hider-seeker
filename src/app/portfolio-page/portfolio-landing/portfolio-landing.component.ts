@@ -73,8 +73,13 @@ export class PortfolioLandingComponent implements OnInit {
   ngOnInit() { }
 
   ngOnDestroy() {
-    this.portfolioIndexSubscription.unsubscribe();
-    this.projectInfoSubscription.unsubscribe();
+    if (this.portfolioIndexSubscription && !this.portfolioIndexSubscription.closed) {
+      this.portfolioIndexSubscription.unsubscribe();
+    }
+
+    if (this.projectInfoSubscription && !this.projectInfoSubscription.closed) {
+      this.projectInfoSubscription.unsubscribe();
+    }
   }
 
   public openSelectedProject(indexValue) {
@@ -94,13 +99,13 @@ export class PortfolioLandingComponent implements OnInit {
 export class PortfolioDialog {
   constructor(
     public portfolioDialogRef: MatDialogRef<PortfolioDialog>,
-    @Inject(MAT_DIALOG_DATA) public data: PorfolioData) { 
-      console.log(data);
-    }
+    @Inject(MAT_DIALOG_DATA) public data: PorfolioData) {
+    console.log(data);
+  }
 
-    onCloseClick(): void {
-      this.portfolioDialogRef.close();
-    }
+  onCloseClick(): void {
+    this.portfolioDialogRef.close();
+  }
 }
 
 export interface PorfolioData {
