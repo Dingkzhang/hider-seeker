@@ -97,10 +97,19 @@ export class PortfolioLandingComponent implements OnInit {
 })
 
 export class PortfolioDialog {
+  
+  mainInfoData;
+  
   constructor(
+    private paragraphConversion: ParagraphConversionService,
     public portfolioDialogRef: MatDialogRef<PortfolioDialog>,
     @Inject(MAT_DIALOG_DATA) public data: PorfolioData) {
     console.log(data);
+    this.setupPortfolioData(data);
+  }
+
+  setupPortfolioData(data) {
+    this.mainInfoData = this.paragraphConversion.convertJsonArray(data.main_info);
   }
 
   onCloseClick(): void {
