@@ -24,6 +24,10 @@
             "paragraph": "Vivamus et facilisis magna. Nullam id maximus risus. Donec id lectus quis nibh vulputate ultrices ut et est. Donec eu nisl at mauris laoreet tincidunt vitae a urna. Nam in mattis dui, fermentum interdum massa. Sed euismod lectus id congue placerat. Aliquam viverra pellentesque purus, sit amet suscipit augue euismod ac. Vestibulum nec condimentum ex, ut tincidunt lorem."
         },
         {
+            "type": "img",
+            "img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+        },
+        {
             "type": "text",
             "paragraph": "Aliquam a quam vitae risus elementum pharetra eget vitae diam. Aliquam diam metus, dapibus sed sem eget, tempor maximus dolor. Nunc pretium et magna pellentesque vulputate. Vestibulum vitae tellus ac ipsum consectetur aliquam. Vestibulum id diam mollis, vehicula odio sit amet, feugiat tortor. Curabitur auctor, nunc sed auctor sagittis, enim odio sagittis lectus, id venenatis eros dui sed augue. Praesent gravida justo vel scelerisque venenatis. Vivamus pretium, turpis vel suscipit vestibulum, magna elit porttitor justo, id fringilla purus augue vitae nisi. Mauris quis eros vestibulum, sollicitudin erat eu, fermentum ex. Pellentesque id erat facilisis, tempus lectus tempor, vestibulum risus. Nullam non pretium massa, et maximus tortor. Aenean posuere sagittis dolor at dictum."
         }

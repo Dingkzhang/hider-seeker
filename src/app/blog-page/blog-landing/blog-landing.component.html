@@ -1,9 +1,9 @@
-
-<button mat-button (click)="defaultStory();">Most Recent</button>
-<button mat-button [matMenuTriggerFor]="menu" >Browse Vault</button>
+<button mat-button (click)="defaultStory();">
+  Most Recent</button>
+<button mat-button [matMenuTriggerFor]="menu">Browse Vault</button>
 <mat-menu #menu="matMenu">
   <div *ngFor="let story of blogStoryLibrary">
-      <button mat-menu-item (click)="getSelectedStory(story.index_value)">{{story.title}}</button>
+    <button mat-menu-item (click)="getSelectedStory(story.index_value)">{{story.title}}</button>
   </div>
 </mat-menu>
 <div class="blog-content" *ngIf="currentStoryInfo !== null">
@@ -17,9 +17,13 @@
   <h1>{{currentStoryInfo.title}}</h1>
   <h3>{{currentStoryInfo.date}} {{currentStoryInfo.description}}</h3>
 
-  <img src="{{currentStoryInfo.image_url}}" width="75%" height="75%" alt="Photo of a Shiba Inu">
+  <div *ngFor="let content of currentMainContent">
+    <p *ngIf="content.type === 'text'">
+      {{content.paragraph}}
+    </p>
+    <p>
+      <img *ngIf="content.type === 'img'" src="{{content.img}}" width="100%" height="100%" alt="Photo of a Shiba Inu">
+    </p>
 
-  <p *ngFor="let paragraph of currentMainContent">
-    {{ paragraph }}
-  </p>
+  </div>
 </div>

@@ -10,8 +10,16 @@
     "paragraph_length": 1,
     "main_info": [
         {
-            "paragraph_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque vulputate ligula, vitae placerat nulla sollicitudin sed. Duis ultricies vitae ipsum et tempor. Nam pharetra, justo a bibendum volutpat, neque massa luctus erat, auctor sagittis lectus nulla auctor metus. In pellentesque dictum lacus et semper. Maecenas lacinia ipsum nec purus interdum tempor. Duis eros nulla, vehicula nec est vitae, sollicitudin dictum sapien. Quisque imperdiet consequat mi non auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut tempus leo."
+            "type": "img",
+            "img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+        },
+        {
+            "type": "text",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque vulputate ligula, vitae placerat nulla sollicitudin sed. Duis ultricies vitae ipsum et tempor. Nam pharetra, justo a bibendum volutpat, neque massa luctus erat, auctor sagittis lectus nulla auctor metus. In pellentesque dictum lacus et semper. Maecenas lacinia ipsum nec purus interdum tempor. Duis eros nulla, vehicula nec est vitae, sollicitudin dictum sapien. Quisque imperdiet consequat mi non auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut tempus leo."
+        },
+        {
+            "type": "img",
+            "img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
         }
-    ],
-    "image_url": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+    ]
 }

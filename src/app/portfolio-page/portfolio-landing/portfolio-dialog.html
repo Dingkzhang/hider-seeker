@@ -12,8 +12,9 @@
             <p *ngIf="info.type === 'text'">
                 {{info.paragraph}}
             </p>
-            <img *ngIf="info.type === 'img'" src="{{info.img}}" width="100%" height="100%" alt="Photo of a Shiba Inu">
-
+            <p>
+                <img *ngIf="info.type === 'img'" src="{{info.img}}" width="100%" height="100%" alt="Photo of a Shiba Inu">
+            </p>
         </div>
     </div>
 </div>

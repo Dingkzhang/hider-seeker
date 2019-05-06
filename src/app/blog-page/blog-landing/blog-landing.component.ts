@@ -62,8 +62,8 @@ export class BlogLandingComponent implements OnInit {
     this.currentBlogIndex = indexValue;
     this.blogInfoSubscription = this.getBlogPageInfo(indexValue).subscribe(data => {
       this.currentStoryInfo = data;
-      this.currentMainContent = this.paragraphConversion.convertParagraphArray(data.main_info);
-      console.log(this.currentStoryInfo);
+      this.currentMainContent = this.paragraphConversion.convertJsonArray(data.main_info);
+      console.log(this.currentMainContent);
     });
   }
 
