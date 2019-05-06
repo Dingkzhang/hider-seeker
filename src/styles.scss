@@ -14,17 +14,6 @@ mat-dialog-container{
     overflow: unset;
 }
 
-.cdk-overlay-pane{
-    height: 75%;
-    width: 75%;
-
-    @media all and (max-width: 675px) {
-        height: 100%;
-        width: 100%;
-    }
-
-}
-
 .close-button.mat-button {
     float:right;
 }
