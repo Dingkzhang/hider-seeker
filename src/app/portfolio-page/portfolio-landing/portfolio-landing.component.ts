@@ -16,6 +16,9 @@ export class PortfolioLandingComponent implements OnInit {
 
   portfolioData;
   projectLibraryData;
+  projectLibraryDataDisplayPage;
+
+  
   selectedProjectData;
 
   portfolioIndexSubscription: Subscription;
@@ -62,6 +65,7 @@ export class PortfolioLandingComponent implements OnInit {
   private displayProjectInfo() {
     const portfolioDialogRef = this.dialog.open(PortfolioDialog, {
       // case where it is better to change it back to an object for display purposes
+      panelClass: 'custom-dialog-content',
       data: this.selectedProjectData[0]
     });
 

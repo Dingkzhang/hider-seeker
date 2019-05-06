@@ -9,6 +9,11 @@ mat-dialog-container{
     opacity: 0.9;
 }
 
+// need to use this to hide second scroll bar
+.ng-star-inserted .mat-dialog-content {
+    overflow: unset;
+}
+
 .cdk-overlay-pane{
     height: 75%;
     width: 75%;
