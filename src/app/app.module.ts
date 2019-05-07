@@ -8,7 +8,7 @@ import { environment } from '../environments/environment';
 
 import { HttpClientModule } from '@angular/common/http';
 
-//Shared animation and materials import
+// Shared animation and materials import
 import { AngularAnimationsModule } from './shared/angular-animations/angular-animations.module';
 import { AngularMaterialsModule } from './shared/angular-materials/angular-materials.module';
 @NgModule({

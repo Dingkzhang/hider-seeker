@@ -13,7 +13,7 @@ export class PwaService {
       if (this.askUserToUpdate()) {
         window.location.reload();
       }
-    })
+    });
 
     window.addEventListener('beforeinstallprompt', event => {
       this.promptEvent = event;

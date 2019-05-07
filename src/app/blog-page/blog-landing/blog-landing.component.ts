@@ -19,8 +19,8 @@ export class BlogLandingComponent implements OnInit {
   currentStoryInfo = null;
   currentMainContent = null;
 
-  blogIndexSubscription: Subscription
-  blogInfoSubscription: Subscription
+  blogIndexSubscription: Subscription;
+  blogInfoSubscription: Subscription;
   ngOnInit() { }
 
   ngOnDestroy() {
@@ -54,7 +54,7 @@ export class BlogLandingComponent implements OnInit {
   }
 
   private getBlogIndex(): Observable<any> {
-    return this.http.get("../../../assets/blog-assets/index.json");
+    return this.http.get('../../../assets/blog-assets/index.json');
   }
 
   private setupBlogPageInfo(indexValue) {
@@ -68,7 +68,7 @@ export class BlogLandingComponent implements OnInit {
   }
 
   private getBlogPageInfo(indexValue): Observable<any> {
-    let urlString = "../../../assets/blog-assets/stories/story_" + indexValue + ".json";
+    const urlString = '../../../assets/blog-assets/stories/story_' + indexValue + '.json';
     return this.http.get(urlString);
   }
 

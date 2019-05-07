@@ -48,7 +48,7 @@ export class PortfolioLandingComponent implements OnInit {
   }
 
   public getPortfolioIndex(): Observable<any> {
-    return this.http.get("../../../assets/portfolio-assets/index.json");
+    return this.http.get('../../../assets/portfolio-assets/index.json');
   }
 
   private setupDisplayIndex() {
@@ -78,7 +78,7 @@ export class PortfolioLandingComponent implements OnInit {
   }
 
   private getProjectInfo(indexValue): Observable<any> {
-    return this.http.get("../../../assets/portfolio-assets/projects/project_" + indexValue + ".json");
+    return this.http.get('../../../assets/portfolio-assets/projects/project_' + indexValue + '.json');
   }
 
   private displayProjectInfo() {
@@ -90,7 +90,7 @@ export class PortfolioLandingComponent implements OnInit {
 
     portfolioDialogRef.afterClosed().subscribe(result => {
       console.log('dialog closed');
-    })
+    });
   }
 
   ngOnInit() { }
@@ -122,11 +122,11 @@ export class PortfolioLandingComponent implements OnInit {
           this.begDisplayIndex = this.begDisplayIndex + this.indexDisplayRange;
         }
         this.endDisplayIndex = this.endDisplayIndex + this.indexDisplayRange;
-      };
+      }
       this.setupProjectDisplayCards(this.begDisplayIndex, this.endDisplayIndex);
 
       console.log(this.begDisplayIndex);
-      console.log(this.endDisplayIndex)
+      console.log(this.endDisplayIndex);
     }
   }
 
@@ -147,7 +147,7 @@ export class PortfolioLandingComponent implements OnInit {
       this.setupProjectDisplayCards(this.begDisplayIndex, this.endDisplayIndex);
 
       console.log(this.begDisplayIndex);
-      console.log(this.endDisplayIndex)
+      console.log(this.endDisplayIndex);
     }
   }
 
@@ -184,6 +184,4 @@ export class PortfolioDialog {
   }
 }
 
-export interface PorfolioData {
-
-}
+export interface PorfolioData { }

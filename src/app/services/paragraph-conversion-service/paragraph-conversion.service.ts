@@ -9,11 +9,11 @@ export class ParagraphConversionService {
 
   public convertParagraphArray(objectArray) {
 
-    let paragraphArray = [];
+    const paragraphArray = [];
     // The way I have the arrays setup I have to do 2 for loops in order to filter out the paragraphs.
     // Need to relook into this when I have time.
-    for (let paragraph in objectArray) {
-      for (let p in objectArray[paragraph]) {
+    for (const paragraph in objectArray) {
+      for (const p in objectArray[paragraph]) {
         paragraphArray.push(objectArray[paragraph][p]);
       }
     }
@@ -27,7 +27,7 @@ export class ParagraphConversionService {
 
     let paragraphArray = [];
     // I believe this is a better way to convert the json file into an array. Had to restructure the json file in order to do this
-    for (let paragraph in objectArray) {
+    for (const paragraph in objectArray) {
       paragraphArray.push(objectArray[paragraph]);
     }
 
