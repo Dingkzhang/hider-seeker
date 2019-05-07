@@ -44,3 +44,29 @@ mat-card-header-text {
 .dialog-actions {
     float:right;
 }
+
+.prev-button {
+    position: fixed;
+    float: left;
+    left: 0%;
+    height:100%;
+    z-index: 99;
+    
+    @media all and (max-width: 675px) {
+        /* put your css styles in here */
+        opacity: 0.5;
+    };
+}
+
+.next-button {
+    position: fixed;
+    float: right;
+    right: 0%;
+    height:100%;
+    z-index: 99;
+
+    @media all and (max-width: 675px) {
+        /* put your css styles in here */
+        opacity: 0.5;
+    };
+}

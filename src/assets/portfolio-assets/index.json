@@ -1,7 +1,47 @@
 {
-    "total_index": "3",
+    "total_index": "6",
     "project_library": {
-        "index_3": [
+        "7": [
+            {
+                "title": "Project 7",
+                "subtitle": "subtitle temp",
+                "index_value": "7",
+                "date": "08/22/2019",
+                "description": "La la la",
+                "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
+            }
+        ],
+        "6": [
+            {
+                "title": "Project 6",
+                "subtitle": "subtitle temp",
+                "index_value": "6",
+                "date": "08/22/2019",
+                "description": "La la la",
+                "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
+            }
+        ],
+        "5": [
+            {
+                "title": "Project 5",
+                "subtitle": "subtitle temp",
+                "index_value": "5",
+                "date": "07/22/2019",
+                "description": "La la la",
+                "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
+            }
+        ],
+        "4": [
+            {
+                "title": "Project 4",
+                "subtitle": "subtitle temp",
+                "index_value": "4",
+                "date": "06/22/2019",
+                "description": "La la la",
+                "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
+            }
+        ],
+        "3": [
             {
                 "title": "Natural Language Processing UFC.com",
                 "subtitle": "Used to determine how to assign numerical values to text.",
@@ -11,7 +51,7 @@
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
             }
         ],
-        "index_2": [
+        "2": [
             {
                 "title": "UFC Betting Simulation",
                 "subtitle": "To determine percentage chance of UFC fighter winning the match.",
@@ -21,7 +61,7 @@
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba2.jpg"
             }
         ],
-        "index_1": [
+        "1": [
             {
                 "title": "Angular 7 Website with Github",
                 "subtitle": "subtitle temp",

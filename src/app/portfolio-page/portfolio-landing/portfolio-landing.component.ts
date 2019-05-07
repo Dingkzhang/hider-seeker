@@ -15,10 +15,12 @@ import { ParagraphConversionService } from '../../services/paragraph-conversion-
 export class PortfolioLandingComponent implements OnInit {
 
   portfolioData;
+  projectCount;
   projectLibraryData;
-  projectLibraryDataDisplayPage;
-
-  
+  begDisplayIndex;
+  endDisplayIndex;
+  indexDisplayRange = 3;
+  displayData;
   selectedProjectData;
 
   portfolioIndexSubscription: Subscription;
@@ -38,15 +40,32 @@ export class PortfolioLandingComponent implements OnInit {
       this.portfolioData = data;
       console.log(this.portfolioData);
       this.projectLibraryData = this.paragraphConversion.convertParagraphArray(data.project_library);
-
       console.log(this.projectLibraryData);
-
+      this.projectCount = this.projectLibraryData.length;
+      this.setupDisplayIndex();
+      this.setupProjectDisplayCards(this.begDisplayIndex, this.endDisplayIndex);
     });
   }
 
   public getPortfolioIndex(): Observable<any> {
     return this.http.get("../../../assets/portfolio-assets/index.json");
   }
+
+  private setupDisplayIndex() {
+    this.endDisplayIndex = this.projectLibraryData.length;
+    if (this.projectLibraryData.length < this.indexDisplayRange) {
+      this.begDisplayIndex = 0;
+    } else {
+      this.begDisplayIndex = this.projectLibraryData.length - this.indexDisplayRange;
+    }
+  }
+
+  private setupProjectDisplayCards(begIndex, endIndex) {
+    this.displayData = this.projectLibraryData.slice(begIndex, endIndex);
+    this.displayData = this.displayData.reverse();
+    console.log(this.displayData);
+  }
+
 
   private setupProjectInfo(indexValue) {
     this.projectInfoSubscription = this.getProjectInfo(indexValue).subscribe(data => {
@@ -91,6 +110,50 @@ export class PortfolioLandingComponent implements OnInit {
     this.setupProjectInfo(indexValue);
   }
 
+  public nextCardSet() {
+    if (this.projectLibraryData.length > this.indexDisplayRange) {
+      if (this.endDisplayIndex + this.indexDisplayRange > this.projectLibraryData.length) {
+        this.begDisplayIndex = this.projectLibraryData.length - this.indexDisplayRange;
+        this.endDisplayIndex = this.projectLibraryData.length;
+      } else {
+        if (this.begDisplayIndex === 0 && this.projectLibraryData.length % this.indexDisplayRange !== 0) {
+          this.begDisplayIndex = this.begDisplayIndex + this.projectLibraryData.length % this.indexDisplayRange;
+        } else {
+          this.begDisplayIndex = this.begDisplayIndex + this.indexDisplayRange;
+        }
+        this.endDisplayIndex = this.endDisplayIndex + this.indexDisplayRange;
+      };
+      this.setupProjectDisplayCards(this.begDisplayIndex, this.endDisplayIndex);
+
+      console.log(this.begDisplayIndex);
+      console.log(this.endDisplayIndex)
+    }
+  }
+
+  public prevCardSet() {
+    if (this.projectLibraryData.length > this.indexDisplayRange) {
+      if (this.begDisplayIndex - this.indexDisplayRange < 0) {
+        this.begDisplayIndex = 0;
+        if (this.projectLibraryData.length % this.indexDisplayRange === 0) {
+          this.endDisplayIndex = this.indexDisplayRange;
+        } else {
+          this.endDisplayIndex = this.projectLibraryData.length % this.indexDisplayRange;
+        }
+
+      } else {
+        this.begDisplayIndex = this.begDisplayIndex - this.indexDisplayRange;
+        this.endDisplayIndex = this.endDisplayIndex - this.indexDisplayRange;
+      }
+      this.setupProjectDisplayCards(this.begDisplayIndex, this.endDisplayIndex);
+
+      console.log(this.begDisplayIndex);
+      console.log(this.endDisplayIndex)
+    }
+  }
+
+  public scrollTop() {
+    window.scrollTo(0, 0);
+  }
 }
 
 
@@ -101,9 +164,9 @@ export class PortfolioLandingComponent implements OnInit {
 })
 
 export class PortfolioDialog {
-  
+
   mainInfoData;
-  
+
   constructor(
     private paragraphConversion: ParagraphConversionService,
     public portfolioDialogRef: MatDialogRef<PortfolioDialog>,
