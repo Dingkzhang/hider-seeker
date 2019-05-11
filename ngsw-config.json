@@ -6,7 +6,7 @@
       "installMode": "prefetch",
       "resources": {
         "files": [
-          "/favicon.ico",
+          "/Ninja-thumbnail-32x32.png",
           "/index.html",
           "/*.css",
           "/*.js"
