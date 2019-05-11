@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1557456426775,
+  "timestamp": 1557542608822,
   "index": "https://hiderseeker.ninja/index.html",
   "assetGroups": [
     {
@@ -12,16 +12,13 @@
         "https://hiderseeker.ninja/6.7e241a288562c93a314e.js",
         "https://hiderseeker.ninja/7.9ae7acfa2bd3fd831ee3.js",
         "https://hiderseeker.ninja/8.9a9d779730b2da21b418.js",
+        "https://hiderseeker.ninja/Ninja-thumbnail-32x32.png",
         "https://hiderseeker.ninja/common.42c378df5e9a3f1b1657.js",
-        "https://hiderseeker.ninja/favicon.ico",
         "https://hiderseeker.ninja/index.html",
         "https://hiderseeker.ninja/main.bbaa9bc9a63aa1bf9580.js",
-        "https://hiderseeker.ninja/ngsw-worker.js",
         "https://hiderseeker.ninja/polyfills.65c6b670baa2ffdf067a.js",
         "https://hiderseeker.ninja/runtime.9769906038ac4b31c513.js",
-        "https://hiderseeker.ninja/safety-worker.js",
-        "https://hiderseeker.ninja/styles.2d83bcb8ad29f9404051.css",
-        "https://hiderseeker.ninja/worker-basic.min.js"
+        "https://hiderseeker.ninja/styles.2d83bcb8ad29f9404051.css"
       ],
       "patterns": []
     },
@@ -37,6 +34,14 @@
         "https://hiderseeker.ninja/assets/blog-assets/stories/story_1.json",
         "https://hiderseeker.ninja/assets/blog-assets/stories/story_2.json",
         "https://hiderseeker.ninja/assets/blog-assets/stories/story_3.json",
+        "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-128x128.png",
+        "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-144x144.png",
+        "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-152x152.png",
+        "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-192x192.png",
+        "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-384x384.png",
+        "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-512x512.png",
+        "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-72x72.png",
+        "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-96x96.png",
         "https://hiderseeker.ninja/assets/icons/icon-128x128.png",
         "https://hiderseeker.ninja/assets/icons/icon-144x144.png",
         "https://hiderseeker.ninja/assets/icons/icon-152x152.png",
@@ -64,6 +69,7 @@
     "https://hiderseeker.ninja/6.7e241a288562c93a314e.js": "71b9375aa0f2851620767beff0de5833128c9722",
     "https://hiderseeker.ninja/7.9ae7acfa2bd3fd831ee3.js": "4efadd75163e0d1795d349dc6f482fdbebdd3848",
     "https://hiderseeker.ninja/8.9a9d779730b2da21b418.js": "50b930cbe7312d743d528d30a2c5feaf09a772cf",
+    "https://hiderseeker.ninja/Ninja-thumbnail-32x32.png": "b1e2821729b4a24c98770ecf627c8a3f1833ab49",
     "https://hiderseeker.ninja/art-background-backlit.eea37720b3883b422f0b.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
     "https://hiderseeker.ninja/assets/about-me-assets/about-me.json": "e70fab4353657abed797a7b7c80e6cbc6c3d90df",
     "https://hiderseeker.ninja/assets/background/art-background-backlit.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
@@ -71,6 +77,14 @@
     "https://hiderseeker.ninja/assets/blog-assets/stories/story_1.json": "ceceab8d7ac9b1a7f555578b0e362e1878e9dc10",
     "https://hiderseeker.ninja/assets/blog-assets/stories/story_2.json": "7c411780d0c2406e179cb286f46142b8c86b2aad",
     "https://hiderseeker.ninja/assets/blog-assets/stories/story_3.json": "9d0fed289e553dc3728e292b897d500d72cac0b5",
+    "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-128x128.png": "22beb0c7e68ecc8e8655f8c81af6c607393e81fe",
+    "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-144x144.png": "3c24977efe6ea2030b12a7d16ac0dbdeca898c44",
+    "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-152x152.png": "0de698f83a98c67e73ad4291dbc96ec9ad9f00af",
+    "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-192x192.png": "c3337f5be21ac9e935884b1fbcb155d1ed2478eb",
+    "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-384x384.png": "2b9c8a8da816ce0e9455f5857821f8b1c3e28e05",
+    "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-512x512.png": "b9c8987b3aada433eb0a54f48c85c08abce966c3",
+    "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-72x72.png": "cf688cb6a9c83a2677f9da4458f8754091175159",
+    "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-96x96.png": "bb637a6cac4bd1b5e20f33c557a9fbfe8795acf9",
     "https://hiderseeker.ninja/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://hiderseeker.ninja/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://hiderseeker.ninja/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -89,15 +103,11 @@
     "https://hiderseeker.ninja/assets/portfolio-assets/projects/project_7.json": "67093df6669d0582c2658241de044bb7787c596a",
     "https://hiderseeker.ninja/assets/title-assets/Ninja-main-title-500x140.png": "55787622596ee3800b7b836bb27b8c5a6ef15625",
     "https://hiderseeker.ninja/common.42c378df5e9a3f1b1657.js": "19e0952c084ce160f8e43528737795f805fa33e8",
-    "https://hiderseeker.ninja/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://hiderseeker.ninja/index.html": "1c78c219af90494e95be1b3968a7e442f31859b1",
+    "https://hiderseeker.ninja/index.html": "346338e2cc60e9acfb2b2762b8bc2b593070b95b",
     "https://hiderseeker.ninja/main.bbaa9bc9a63aa1bf9580.js": "eccc9a3d1e29bc4caa7d266d890f0acc2f2ec9d4",
-    "https://hiderseeker.ninja/ngsw-worker.js": "333b7ac0dfc00b2c0e8f542374b130bda3bdc5f2",
     "https://hiderseeker.ninja/polyfills.65c6b670baa2ffdf067a.js": "66795e05235a55556f28ed30880e228cdab11b48",
     "https://hiderseeker.ninja/runtime.9769906038ac4b31c513.js": "ea02570a1216f761a2794655769113efdcff946d",
-    "https://hiderseeker.ninja/safety-worker.js": "ae5c8be3955e38edeeec09ed94b63d1e57f003c9",
-    "https://hiderseeker.ninja/styles.2d83bcb8ad29f9404051.css": "6ef38b713cef8b8d6e68ac9891f0ec85b61b1b2d",
-    "https://hiderseeker.ninja/worker-basic.min.js": "ae5c8be3955e38edeeec09ed94b63d1e57f003c9"
+    "https://hiderseeker.ninja/styles.2d83bcb8ad29f9404051.css": "6ef38b713cef8b8d6e68ac9891f0ec85b61b1b2d"
   },
   "navigationUrls": [
     {
