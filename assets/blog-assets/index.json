@@ -1,6 +1,17 @@
 {
-    "total_index": "3",
+    "total_index": "4",
     "story_library": {
+        "4": [
+            {
+                "title": "First Post & What's to Come",
+                "index_value": 4,
+                "date": "05/20/2019",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque vulputate ligula, vitae placerat nulla sollicitudin sed. Duis ultricies vitae ipsum et tempor. Nam pharetra, justo a bibendum volutpat, neque massa luctus erat, auctor sagittis lectus nulla auctor metus. In pellentesque dictum lacus et semper. Maecenas lacinia ipsum nec purus interdum tempor. Duis eros nulla, vehicula nec est vitae, sollicitudin dictum sapien. Quisque imperdiet consequat mi non auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut tempus leo.",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": "assets/blog-assets/images/story_4/first-post-welcome.png"
+            }
+        ],
         "3": [
             {
                 "title": "Story 3",
