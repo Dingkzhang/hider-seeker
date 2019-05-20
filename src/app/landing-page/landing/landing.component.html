@@ -1,5 +1,4 @@
 <div class="landing-content">
-
   <div>
     <h4>
       Hello, Hider here and I want to welcome everyone to my website. I will be posting about my stories and projects here. Feel
@@ -11,9 +10,12 @@
     <h3>Latest Blog Post</h3>
     <h3> {{ latestBlogInfo.title }} </h3>
     <h4> {{ latestBlogInfo.date }}</h4>
-    <p>{{ latestBlogInfo.description }}</p>
-  
-    <a href="javascript:void();" routerLink="/blogLanding">Read More...</a>
+    <img src="{{latestBlogInfo.image_thumbnail}}" width="100%" height="100%">
+    <p>{{ latestBlogInfo.description }}
+      <button mat-button class="read-button" routerLink="/blogLanding">
+        <i class="fab fa-readme"></i> Read More
+      </button>
+    </p>
   </div>
 
   <div *ngIf="latestPortfolioInfo !== null && latestPortfolioInfo !== undefined">
@@ -21,10 +23,11 @@
     <h3> {{ latestPortfolioInfo.title }} </h3>
     <h4> {{ latestPortfolioInfo.date }} {{ latestPortfolioInfo.subtitle }}
     </h4>
-
-    <p> {{ latestPortfolioInfo.description }} </p>
-
-    <a href="javascript:void();" routerLink="/portfolioLanding">Read More...</a>
-
+    <img src="{{latestPortfolioInfo.image_thumbnail}}" width="100%" height="100%">
+    <p> {{ latestPortfolioInfo.description }}
+      <button mat-button class="read-button" routerLink="/portfolioLanding">
+        <i class="fab fa-readme"></i> Read More
+      </button>
+    </p>
   </div>
 </div>
