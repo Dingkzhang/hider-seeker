@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1558388261101,
+  "timestamp": 1558392742475,
   "index": "https://hiderseeker.ninja/index.html",
   "assetGroups": [
     {
@@ -76,11 +76,11 @@
     "https://hiderseeker.ninja/assets/about-me-assets/about-me.json": "e70fab4353657abed797a7b7c80e6cbc6c3d90df",
     "https://hiderseeker.ninja/assets/background/art-background-backlit.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
     "https://hiderseeker.ninja/assets/blog-assets/images/story_4/first-post-welcome.png": "892651a948c991765c06e3674e7a2192ebb37fed",
-    "https://hiderseeker.ninja/assets/blog-assets/index.json": "073acb330c71576493467dd1173c145b20e25506",
+    "https://hiderseeker.ninja/assets/blog-assets/index.json": "a6ab35c207ad1bdf6572b1c8fed2cb02bc47b77c",
     "https://hiderseeker.ninja/assets/blog-assets/stories/story_1.json": "a1a7e0aeac01b37a6e7d61987052f8ce20396973",
     "https://hiderseeker.ninja/assets/blog-assets/stories/story_2.json": "cda4ab173a9349723bfc6aa711a1b38e046aeab9",
     "https://hiderseeker.ninja/assets/blog-assets/stories/story_3.json": "e1e6b6ff66df319cb2c0bd14163cdbea1fe00e1b",
-    "https://hiderseeker.ninja/assets/blog-assets/stories/story_4.json": "38fd392c37a5f3a78b8167f7b0b4c9f1c87ed548",
+    "https://hiderseeker.ninja/assets/blog-assets/stories/story_4.json": "d4b49424362f1696c05cf3ed85608147a3a1c49b",
     "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-128x128.png": "22beb0c7e68ecc8e8655f8c81af6c607393e81fe",
     "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-144x144.png": "3c24977efe6ea2030b12a7d16ac0dbdeca898c44",
     "https://hiderseeker.ninja/assets/icons/Ninja-thumbnail-152x152.png": "0de698f83a98c67e73ad4291dbc96ec9ad9f00af",
