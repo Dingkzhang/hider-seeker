@@ -14,7 +14,7 @@
   </button>
 
   <h1>{{currentStoryInfo.title}}</h1>
-  <h3>{{currentStoryInfo.date}} {{currentStoryInfo.description}}</h3>
+  <h3>{{currentStoryInfo.date}} : {{currentStoryInfo.description}}</h3>
 
   <div *ngFor="let content of currentMainContent">
     <p *ngIf="content.type === 'text'">
