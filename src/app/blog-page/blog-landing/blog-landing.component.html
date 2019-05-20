@@ -1,5 +1,4 @@
-<button mat-button (click)="defaultStory();">
-  Most Recent</button>
+<button mat-button (click)="defaultStory();">Most Recent</button>
 <button mat-button [matMenuTriggerFor]="menu">Browse Vault</button>
 <mat-menu #menu="matMenu">
   <div *ngFor="let story of blogStoryLibrary">

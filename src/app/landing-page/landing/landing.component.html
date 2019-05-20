@@ -1,8 +1,30 @@
 <div class="landing-content">
-  <p>
-    Hey, Welcome to my webpage. Everything will be a work in progress. Hope you have a great time here.
-  </p>
 
-  <p> Insert Latest Blog Post Here</p>
-  <p> Insert Latest Project Post Here</p>
+  <div>
+    <h4>
+      Hello, Hider here and I want to welcome everyone to my website. I will be posting about my stories and projects here. Feel
+      free to check it out.
+    </h4>
+  </div>
+
+  <div *ngIf="latestBlogInfo !== null && latestBlogInfo !== undefined">
+    <h3>Latest Blog Post</h3>
+    <h3> {{ latestBlogInfo.title }} </h3>
+    <h4> {{ latestBlogInfo.date }}</h4>
+    <p>{{ latestBlogInfo.description }}</p>
+  
+    <a href="javascript:void();" routerLink="/blogLanding">Read More...</a>
+  </div>
+
+  <div *ngIf="latestPortfolioInfo !== null && latestPortfolioInfo !== undefined">
+    <h3>Latest Portfolio Project</h3>
+    <h3> {{ latestPortfolioInfo.title }} </h3>
+    <h4> {{ latestPortfolioInfo.date }} {{ latestPortfolioInfo.subtitle }}
+    </h4>
+
+    <p> {{ latestPortfolioInfo.description }} </p>
+
+    <a href="javascript:void();" routerLink="/portfolioLanding">Read More...</a>
+
+  </div>
 </div>
