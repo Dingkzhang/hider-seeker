@@ -3,15 +3,6 @@
     "date": "04/29/2019",
     "title": "Project XCS",
     "description": "Placeholder description",
-    "paragraph_length": "5",
-    "main_index_array": [
-        "text",
-        "img",
-        "text",
-        "text",
-        "text",
-        "text"
-    ],
     "main_info": [
         {
             "type": "text",
