@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1571800383502,
+  "timestamp": 1571800557881,
   "index": "https://hiderseeker.ninja/index.html",
   "assetGroups": [
     {
@@ -75,7 +75,7 @@
     "https://hiderseeker.ninja/assets/about-me-assets/about-me.json": "e70fab4353657abed797a7b7c80e6cbc6c3d90df",
     "https://hiderseeker.ninja/assets/background/art-background-backlit.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
     "https://hiderseeker.ninja/assets/blog-assets/images/story_4/first-post-welcome.png": "892651a948c991765c06e3674e7a2192ebb37fed",
-    "https://hiderseeker.ninja/assets/blog-assets/index.json": "295495be4457fddb664f1c273c77b84b9d2aa481",
+    "https://hiderseeker.ninja/assets/blog-assets/index.json": "177d0a96ba66f53bcc82a3cdd433b071375ec1fe",
     "https://hiderseeker.ninja/assets/blog-assets/stories/story_1.json": "1bc9769e1586a47e3e5ab4ba861a7ebed99476c6",
     "https://hiderseeker.ninja/assets/blog-assets/stories/story_2.json": "7abe83cf415e7309fbd334ea716c65e552b2064f",
     "https://hiderseeker.ninja/assets/blog-assets/stories/story_3.json": "9f0dd2c9ebc858a6cc07b72be36fe7962c6deaaf",

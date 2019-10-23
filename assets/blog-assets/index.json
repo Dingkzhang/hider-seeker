@@ -3,8 +3,8 @@
     "story_library": {
         "3": [
             {
-                "title": "Spring 1 - Planning, Review, and Setup (22/10/19 - 15/11/19)",
-                "index_value": 6,
+                "title": "Spring 1 - Planning, Review, and Setup",
+                "index_value": 3,
                 "date": "10/22/2019",
                 "description": "Everyone needs a map for without a map where will you go?",
                 "hider_index_value": "null",
@@ -15,7 +15,7 @@
         "2": [
             {
                 "title": "The Starting Line",
-                "index_value": 5,
+                "index_value": 2,
                 "date": "10/22/2019",
                 "description": "Ready Set Start.",
                 "hider_index_value": "null",
@@ -27,7 +27,7 @@
         "1": [
             {
                 "title": "First Post & What's to Come",
-                "index_value": 4,
+                "index_value": 1,
                 "date": "05/20/2019",
                 "description": "An introduction to the rantings of an inexperienced blog poster.",
                 "hider_index_value": "null",
