@@ -1,24 +1,24 @@
 {
-    "index": 3,
+    "index": 6,
     "is_hider": "false",
     "is_seeker": "true",
-    "date": "04/30/2019",
+    "date": "10/22/2019",
     "hider_index_value": "null",
-    "seeker_index_value": "2",
-    "title": "Story 3",
-    "description": "Placeholder description",
+    "seeker_index_value": "1",
+    "title": "Spring 1 - Planning, Review, and Setup (22/10/19 - 15/11/19)",
+    "description": "Everyone needs a map for without a map where will you go?",
     "main_info": [
         {
-            "type": "img",
-            "img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+            "type": "text",
+            "paragraph": "Planning: Research on the deeper subjects of Reinforcement Learning and finding ways to incorporate them into projects for the 14 iterations after this one."
         },
         {
             "type": "text",
-            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque vulputate ligula, vitae placerat nulla sollicitudin sed. Duis ultricies vitae ipsum et tempor. Nam pharetra, justo a bibendum volutpat, neque massa luctus erat, auctor sagittis lectus nulla auctor metus. In pellentesque dictum lacus et semper. Maecenas lacinia ipsum nec purus interdum tempor. Duis eros nulla, vehicula nec est vitae, sollicitudin dictum sapien. Quisque imperdiet consequat mi non auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut tempus leo."
+            "paragraph": "Review: The fundamentals must be clear to move to a higher step in the learning process. I will be re-analyzing the math behind neural networks and understanding the key terms associated with it. Making flashcards will help memorize some key terminology that I always seem to forget. I will also be looking into my code from my past projects to refresh."
         },
         {
-            "type": "img",
-            "img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+            "type": "text",
+            "paragraph": "Setup: The site will be rehauled to host my past projects. Currently, my site does not have a backend and I will be using FLASK to build a simple backend to run some of my machine learning projects. To host FLASK I will be using Heroku and for the database section, I will be looking at amazon's free database service to handle the data if necessary."
         }
     ]
 }
