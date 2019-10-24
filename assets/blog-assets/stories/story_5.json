@@ -1,0 +1,48 @@
+{
+    "index": 5,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "10/23/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Sprint 1 TODO List",
+    "description": "Planning, Review, and Setup",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Planning and Research (10 days)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Create a simple roadmap of each section"
+        },
+        {
+            "type": "text",
+            "paragraph": "Research into blogging, website setup, Heroku, FLASK, amazon data hosting, and Gunicorn"
+        },
+        {
+            "type": "text",
+            "paragraph": "Reviewing Concepts (3 days):"
+        },
+        {
+            "type": "text",
+            "paragraph": "Review flashcards, UFC fight project, Titanic Project, Housing Project, Digit Project, Iris Project HM/KMC, Dynamic Programming, Finite Markov Decision Processes, Monte Carlo, and Multi-armed Bandit"
+        },
+        {
+            "type": "text",
+            "paragraph": "Setup (12 days):"
+        },
+        {
+            "type": "text",
+            "paragraph": "Redesign site and mascot"
+        },
+        {
+            "type": "text",
+            "paragraph": "Hook up old projects onto site"
+        },
+        {
+            "type": "text",
+            "paragraph": "Add FLASK backend and database component to the site"
+        }
+    ]
+}

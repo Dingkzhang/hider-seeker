@@ -1,9 +1,42 @@
 {
-    "total_index": "3",
+    "total_index": "6",
     "story_library": {
+        "6": [
+            {
+                "title": "Day 1/Day 2 (1-2/375) (1/15)",
+                "index_value": 6,
+                "date": "10/23/2019",
+                "description": "Keeping myself on task with the boring stuff.",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "5": [
+            {
+                "title": "Sprint 1 TODO List",
+                "index_value": 5,
+                "date": "10/23/2019",
+                "description": "Planning, Review, and Setup",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],  
+        "4": [
+            {
+                "title": "Current Roadmap (1st iteration)",
+                "index_value": 4,
+                "date": "10/23/2019",
+                "description": "If there's a place you got to go, I'm the one you need to know.",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],     
         "3": [
             {
-                "title": "Spring 1 - Planning, Review, and Setup",
+                "title": "Sprint 1 - Planning, Review, and Setup",
                 "index_value": 3,
                 "date": "10/22/2019",
                 "description": "Everyone needs a map for without a map where will you go?",
