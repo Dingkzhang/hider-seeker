@@ -1,6 +1,17 @@
 {
-    "total_index": "6",
+    "total_index": "7",
     "story_library": {
+        "7": [
+            {
+                "title": "Day 3 (3/375) (1/15)",
+                "index_value": 7,
+                "date": "10/24/2019",
+                "description": "Back to Basics",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
         "6": [
             {
                 "title": "Day 1/Day 2 (1-2/375) (1/15)",
