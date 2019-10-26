@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572063246951,
+  "timestamp": 1572134005719,
   "index": "https://ai-learning.io/index.html",
   "assetGroups": [
     {
@@ -40,6 +40,7 @@
         "https://ai-learning.io/assets/blog-assets/stories/story_6.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_7.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_8.json",
+        "https://ai-learning.io/assets/blog-assets/stories/story_9.json",
         "https://ai-learning.io/assets/icons/Ninja-thumbnail-128x128.png",
         "https://ai-learning.io/assets/icons/Ninja-thumbnail-144x144.png",
         "https://ai-learning.io/assets/icons/Ninja-thumbnail-152x152.png",
@@ -80,7 +81,7 @@
     "https://ai-learning.io/assets/about-me-assets/about-me.json": "e70fab4353657abed797a7b7c80e6cbc6c3d90df",
     "https://ai-learning.io/assets/background/art-background-backlit.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
     "https://ai-learning.io/assets/blog-assets/images/story_4/first-post-welcome.png": "892651a948c991765c06e3674e7a2192ebb37fed",
-    "https://ai-learning.io/assets/blog-assets/index.json": "0b53c74535b5eb3b50e7d98a58f39a39dbef010c",
+    "https://ai-learning.io/assets/blog-assets/index.json": "587f4e987a353e2ee6160eec839ac35d1fc67cd9",
     "https://ai-learning.io/assets/blog-assets/stories/story_1.json": "df8c716d7c36f1304cfb47ed32f3163c8e43935e",
     "https://ai-learning.io/assets/blog-assets/stories/story_2.json": "3124b50dc7d0e92f9349bf5ad6bac23f9aede2d9",
     "https://ai-learning.io/assets/blog-assets/stories/story_3.json": "4b7d84f1193aaccb5544e4d5c7463ffd672ae944",
@@ -89,6 +90,7 @@
     "https://ai-learning.io/assets/blog-assets/stories/story_6.json": "7c5ec9637e019d020bf59e566c97a417bee82667",
     "https://ai-learning.io/assets/blog-assets/stories/story_7.json": "eedd60dc007769e72664dbc7ea7c2fedbbfa2242",
     "https://ai-learning.io/assets/blog-assets/stories/story_8.json": "39f921133aa551b44f24099446faecb5f5c257c4",
+    "https://ai-learning.io/assets/blog-assets/stories/story_9.json": "9c18339b68c1009587a5dae09cded8e425172549",
     "https://ai-learning.io/assets/icons/Ninja-thumbnail-128x128.png": "22beb0c7e68ecc8e8655f8c81af6c607393e81fe",
     "https://ai-learning.io/assets/icons/Ninja-thumbnail-144x144.png": "3c24977efe6ea2030b12a7d16ac0dbdeca898c44",
     "https://ai-learning.io/assets/icons/Ninja-thumbnail-152x152.png": "0de698f83a98c67e73ad4291dbc96ec9ad9f00af",

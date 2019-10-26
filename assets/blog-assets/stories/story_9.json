@@ -1,0 +1,40 @@
+{
+    "index": 9,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "10/26/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Day 3 (5/375) (1/15)",
+    "description": "Looked over the Intro to Reinforcement Learning by Richard Sutton",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Day 4: (Review)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Reviewed Multi-armed Bandits"
+        },
+        {
+            "type": "text",
+            "paragraph": "Reviewed Finite Markov Decision"
+        },
+        {
+            "type": "text",
+            "paragraph": "Reviewed Dynamic Programming"
+        },
+        {
+            "type": "text",
+            "paragraph": "Reviewed Monte Carlo Methods"
+        },
+        {
+            "type": "text",
+            "paragraph": "Reviewed Temporal-Difference Learning"
+        },
+        {
+            "type": "text",
+            "paragraph": "Looked into Approximations"
+        }
+    ]
+}
