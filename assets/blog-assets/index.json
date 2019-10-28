@@ -1,6 +1,17 @@
 {
-    "total_index": "9",
+    "total_index": "10",
     "story_library": {
+        "10": [
+            {
+                "title": "Day 6 (6/375) (1/15)",
+                "index_value": 10,
+                "date": "10/27/2019",
+                "description": "So many things to learn!",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
         "9": [
             {
                 "title": "Day 5 (5/375) (1/15)",
