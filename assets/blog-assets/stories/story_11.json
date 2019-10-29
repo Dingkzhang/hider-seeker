@@ -1,0 +1,32 @@
+{
+    "index": 11,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "10/28/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Day 7 (7/375) (1/15)",
+    "description": "Review review review grrr!",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Day 5: (Review/Research)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Looked into Eligibility Traces"
+        },
+        {
+            "type": "text",
+            "paragraph": "Looked into Gunicorn for application server"
+        },
+        {
+            "type": "text",
+            "paragraph": "Looked into FLASK Backend for Python"
+        },
+        {
+            "type": "text",
+            "paragraph": "Looked into Heroku and PostgreSQL"
+        }
+    ]
+}
