@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572310938703,
+  "timestamp": 1572408808964,
   "index": "https://ai-learning.io/index.html",
   "assetGroups": [
     {
@@ -35,6 +35,7 @@
         "https://ai-learning.io/assets/blog-assets/stories/story_1.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_10.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_11.json",
+        "https://ai-learning.io/assets/blog-assets/stories/story_12.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_2.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_3.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_4.json",
@@ -83,10 +84,11 @@
     "https://ai-learning.io/assets/about-me-assets/about-me.json": "e70fab4353657abed797a7b7c80e6cbc6c3d90df",
     "https://ai-learning.io/assets/background/art-background-backlit.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
     "https://ai-learning.io/assets/blog-assets/images/story_4/first-post-welcome.png": "892651a948c991765c06e3674e7a2192ebb37fed",
-    "https://ai-learning.io/assets/blog-assets/index.json": "b67306f2f6971f27deb60007358ce15a69987359",
+    "https://ai-learning.io/assets/blog-assets/index.json": "9449a7810e45ca358798d612dcf31b79e5a0b823",
     "https://ai-learning.io/assets/blog-assets/stories/story_1.json": "df8c716d7c36f1304cfb47ed32f3163c8e43935e",
     "https://ai-learning.io/assets/blog-assets/stories/story_10.json": "2ade278590c98ace6d97c7cf5216ef7d0722edd2",
     "https://ai-learning.io/assets/blog-assets/stories/story_11.json": "0b6a8a6a8e82ea935a65b1cca3e834ef039eefa7",
+    "https://ai-learning.io/assets/blog-assets/stories/story_12.json": "814415c3718edfcf058cb524e5ba36daf7dd663e",
     "https://ai-learning.io/assets/blog-assets/stories/story_2.json": "3124b50dc7d0e92f9349bf5ad6bac23f9aede2d9",
     "https://ai-learning.io/assets/blog-assets/stories/story_3.json": "4b7d84f1193aaccb5544e4d5c7463ffd672ae944",
     "https://ai-learning.io/assets/blog-assets/stories/story_4.json": "ecbedf8d690136fd16262a1fefd9d5dc9084e145",

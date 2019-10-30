@@ -1,0 +1,28 @@
+{
+    "index": 12,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "10/29/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Day 8 (8/375) (1/15)",
+    "description": "Setting up a rest api for backend calls",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Day 5: (Review/Research)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Downloaded Flask and Gunicorn for backend"
+        },
+        {
+            "type": "text",
+            "paragraph": "Deployed backend onto Heroku Server"
+        },
+        {
+            "type": "text",
+            "paragraph": "Looked up database deployment on Heroku"
+        }
+    ]
+}
