@@ -1,6 +1,17 @@
 {
-    "total_index": "11",
+    "total_index": "13",
     "story_library": {
+        "13": [
+            {
+                "title": "Day 9 (9/375) (1/15)",
+                "index_value": 12,
+                "date": "10/30/2019",
+                "description": "Updating the backend Django?",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
         "12": [
             {
                 "title": "Day 8 (8/375) (1/15)",
