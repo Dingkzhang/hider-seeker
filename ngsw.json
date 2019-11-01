@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572494305788,
+  "timestamp": 1572579860593,
   "index": "https://ai-learning.io/index.html",
   "assetGroups": [
     {
@@ -37,6 +37,7 @@
         "https://ai-learning.io/assets/blog-assets/stories/story_11.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_12.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_13.json",
+        "https://ai-learning.io/assets/blog-assets/stories/story_14.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_2.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_3.json",
         "https://ai-learning.io/assets/blog-assets/stories/story_4.json",
@@ -85,12 +86,13 @@
     "https://ai-learning.io/assets/about-me-assets/about-me.json": "e70fab4353657abed797a7b7c80e6cbc6c3d90df",
     "https://ai-learning.io/assets/background/art-background-backlit.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
     "https://ai-learning.io/assets/blog-assets/images/story_4/first-post-welcome.png": "892651a948c991765c06e3674e7a2192ebb37fed",
-    "https://ai-learning.io/assets/blog-assets/index.json": "73114a9c3b77c166ea52265558114fa5f0e3a135",
+    "https://ai-learning.io/assets/blog-assets/index.json": "8540c8841d726476a308d597c92166afc402c37e",
     "https://ai-learning.io/assets/blog-assets/stories/story_1.json": "df8c716d7c36f1304cfb47ed32f3163c8e43935e",
     "https://ai-learning.io/assets/blog-assets/stories/story_10.json": "2ade278590c98ace6d97c7cf5216ef7d0722edd2",
     "https://ai-learning.io/assets/blog-assets/stories/story_11.json": "e0aaf20bc8407c4132aacdcf17de723a2b4c8086",
     "https://ai-learning.io/assets/blog-assets/stories/story_12.json": "dcfa6b1228be08ae8355eae389c85d03033c6d1c",
     "https://ai-learning.io/assets/blog-assets/stories/story_13.json": "18ebbbe48efd0395eb84bb0426f5d9430fe97404",
+    "https://ai-learning.io/assets/blog-assets/stories/story_14.json": "b1bb3930088d6e3211f0be813c85ee06a28fe4db",
     "https://ai-learning.io/assets/blog-assets/stories/story_2.json": "3124b50dc7d0e92f9349bf5ad6bac23f9aede2d9",
     "https://ai-learning.io/assets/blog-assets/stories/story_3.json": "4b7d84f1193aaccb5544e4d5c7463ffd672ae944",
     "https://ai-learning.io/assets/blog-assets/stories/story_4.json": "ecbedf8d690136fd16262a1fefd9d5dc9084e145",
