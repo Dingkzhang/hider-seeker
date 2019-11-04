@@ -1,6 +1,17 @@
 {
-    "total_index": "15",
+    "total_index": "16",
     "story_library": {
+        "16": [
+            {
+                "title": "Day 12/13 (12 & 13/375) (1/15)",
+                "index_value": 16,
+                "date": "11/03/2019",
+                "description": "Looking at the Django Python Structure for Project Setup",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
         "15": [
             {
                 "title": "Day 11 (11/375) (1/15)",
