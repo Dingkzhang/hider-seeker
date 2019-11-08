@@ -1,0 +1,20 @@
+{
+    "index": 15,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "11/01/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Day 11 (11/375) (1/15)",
+    "description": "Learning about Django backend!",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Day 11: (Research/Planning/Setup)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Setting up Django backend on Heroku."
+        }
+    ]
+}

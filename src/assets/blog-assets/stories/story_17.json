@@ -1,0 +1,48 @@
+{
+    "index": 17,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "11/06/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Day 14/15/16 (14, 15, & 16/375) (1/15)",
+    "description": "Learning the different api calls for Django",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Day 14: (Planning/Setup)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Reviewed a couple of demo applications for Django Setup."
+        },
+        {
+            "type": "text",
+            "paragraph": "Read up on how Postgresql worked for Django."
+        },
+        {
+            "type": "text",
+            "paragraph": "Day 15: (Planning/Setup)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Connected and published Postgresql to Django up."
+        },
+        {
+            "type": "text",
+            "paragraph": "Uploaded Django application to Heroku with database in working shape."
+        },
+        {
+            "type": "text",
+            "paragraph": "Day 16: (Planning)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Read up on Django CRUD operations."
+        },
+        {
+            "type": "text",
+            "paragraph": "Downloaded Postman for testing"
+        }
+    ]
+}

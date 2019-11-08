@@ -1,0 +1,52 @@
+{
+    "index": 6,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "10/23/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Day 1/Day 2 (1-2/375) (1/15)",
+    "description": "Keeping myself on task with the boring stuff.",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Day 1: (Planning)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Re-started my site"
+        },
+        {
+            "type": "text",
+            "paragraph": "Bought new URL (ai-learning.io)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Fixed some minor display issues regarding the site"
+        },
+        {
+            "type": "text",
+            "paragraph": "Day 2: (Planning)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Created a simple roadmap for each section"
+        },
+        {
+            "type": "text",
+            "paragraph": "Downloaded flashcards regarding reinforcement learning onto my phone"
+        },
+        {
+            "type": "text",
+            "paragraph": "Looked at some blogging pages for future reference"
+        },
+        {
+            "type": "text",
+            "paragraph": "Renamed site header and app name to 'ai-Learning'"
+        },
+        {
+            "type": "text",
+            "paragraph": "Looked up RLDM2019 conference (Definitely will be going in 2021!)"
+        }
+    ]
+}

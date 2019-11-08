@@ -2,34 +2,72 @@
     "index": 4,
     "is_hider": "false",
     "is_seeker": "true",
-    "date": "05/20/2019",
+    "date": "10/23/2019",
     "hider_index_value": "null",
     "seeker_index_value": "1",
-    "title": "First Post & What's to Come",
-    "description": "The rantings of an inexperienced blog poster.",
+    "title": "Current Roadmap (1st iteration)",
+    "description": "If there's a place you got to go, I'm the one you need to know.",
     "main_info": [
         {
             "type": "text",
-            "paragraph": "A formal intro to this site would seem very bland. I'll make this section short enough so you won't lull over how generic this post will be. I'm Ding, I go by Ding, Dingy, or Dingyboy as my friends would call me. I'm a freelancer which is to say that I quit my job as a front-end software developer and now I'm working on some of my personal projects."
-        },
-        {
-            "type": "img",
-            "img": "assets/blog-assets/images/story_4/first-post-welcome.png"
-        },
-        
-        {
-            "type": "text",
-            "paragraph": "So, what is the plan now Ding?"
+            "paragraph": "Section 1 (10/22/19): Planning, Review, and Setup"
         },
         {
             "type": "text",
-            "paragraph": "Good question. Graduate school is high on the priority list and I'll be applying in the coming Fall. In the meantime, I'll be building my portfolio and showcasing/ no-shame bragging on my website."
+            "paragraph": "Section 2 (11/16/19): Dropping Fruit Game with Experience Replay and Deep Q-Learning"
         },
         {
             "type": "text",
-            "paragraph": "All right, short and sweet like I said. Now, I've never been good with farewells so... That'll do for now, pig."
+            "paragraph": "Section 3 (12/11/19): RL with Convolutional Neural Network (Project TBD)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 4 (01/05/20): RL with Recurrent Neural Network (Project TBD)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 5 (01/30/20): RL with Asynchronous Advantage Actor-Critic A3C (Project TBD)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 6 (02/25/20): RL with Long-Short Term Memory Neural Network (Project TBD)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 7 (03/21/20): Dive into Genetic Algorithms (Project TBD)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 8 (04/15/20): RL with OpenAI (Project TBD)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 9 (05/10/20): RL with PyTorch (Project TBD)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 10 (06/04/20): RL with TensorFlow (Project TBD)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 11 (06/29/20): RL with Gameboy Emulators (Project TBD)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 12 (07/24/20): Social RL (Project TBD)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 13 (08/18/20): RL with Unreal Engine (Project TBD)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 14 (09/12/20): Fixing Site and Submitting Graduate School Applications"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 15 (10/07/20): Fixing Site and Submitting Graduate School Applications"
         }
-
 
     ]
 }

@@ -1,0 +1,30 @@
+{
+    "index": 16,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "11/03/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Day 12/13 (12 & 13/375) (1/15)",
+    "description": "Looking at the Django Python Structure for Project Setup",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Day 12: (Research/Planning/Setup)"
+        },
+
+        {
+            "type": "text",
+            "paragraph": "Studied guides on how to setup Django application."
+        },
+
+        {
+            "type": "text",
+            "paragraph": "Day 13: (Research/Planning/Setup)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Looked up Heroku setup and compared between two Django guides on how to do setup."
+        }
+    ]
+}

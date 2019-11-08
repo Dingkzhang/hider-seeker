@@ -1,48 +1,203 @@
 {
-    "total_index": "4",
+    "total_index": "18",
     "story_library": {
+        "18": [
+            {
+                "title": "Day 17 (17/375) (1/15)",
+                "index_value": 18,
+                "date": "11/07/2019",
+                "description": "Connected the frontend and backend together with an api call!",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "17": [
+            {
+                "title": "Day 14/15/16 (14, 15, & 16/375) (1/15)",
+                "index_value": 17,
+                "date": "11/06/2019",
+                "description": "Learning the different api calls for Django",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "16": [
+            {
+                "title": "Day 12/13 (12 & 13/375) (1/15)",
+                "index_value": 16,
+                "date": "11/03/2019",
+                "description": "Looking at the Django Python Structure for Project Setup",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "15": [
+            {
+                "title": "Day 11 (11/375) (1/15)",
+                "index_value": 15,
+                "date": "11/01/2019",
+                "description": "Learning about Django backend!",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "14": [
+            {
+                "title": "Day 10 (10/375) (1/15)",
+                "index_value": 14,
+                "date": "10/31/2019",
+                "description": "Happy Halloween everyone!",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "13": [
+            {
+                "title": "Day 9 (9/375) (1/15)",
+                "index_value": 13,
+                "date": "10/30/2019",
+                "description": "Updating the backend Django?",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "12": [
+            {
+                "title": "Day 8 (8/375) (1/15)",
+                "index_value": 12,
+                "date": "10/29/2019",
+                "description": "Setting up a rest api for backend calls",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "11": [
+            {
+                "title": "Day 7 (7/375) (1/15)",
+                "index_value": 11,
+                "date": "10/28/2019",
+                "description": "Review review review grrr!",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "10": [
+            {
+                "title": "Day 6 (6/375) (1/15)",
+                "index_value": 10,
+                "date": "10/27/2019",
+                "description": "So many things to learn!",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "9": [
+            {
+                "title": "Day 5 (5/375) (1/15)",
+                "index_value": 9,
+                "date": "10/26/2019",
+                "description": "Looked over the Intro to Reinforcement Learning by Richard Sutton",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "8": [
+            {
+                "title": "Day 4 (4/375) (1/15)",
+                "index_value": 8,
+                "date": "10/25/2019",
+                "description": "Reviewing some more things",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "7": [
+            {
+                "title": "Day 3 (3/375) (1/15)",
+                "index_value": 7,
+                "date": "10/24/2019",
+                "description": "Back to Basics",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "6": [
+            {
+                "title": "Day 1/Day 2 (1-2/375) (1/15)",
+                "index_value": 6,
+                "date": "10/23/2019",
+                "description": "Keeping myself on task with the boring stuff.",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+        "5": [
+            {
+                "title": "Sprint 1 TODO List",
+                "index_value": 5,
+                "date": "10/23/2019",
+                "description": "Planning, Review, and Setup",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],  
         "4": [
             {
-                "title": "First Post & What's to Come",
+                "title": "Current Roadmap (1st iteration)",
                 "index_value": 4,
+                "date": "10/23/2019",
+                "description": "If there's a place you got to go, I'm the one you need to know.",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],     
+        "3": [
+            {
+                "title": "Sprint 1 - Planning, Review, and Setup",
+                "index_value": 3,
+                "date": "10/22/2019",
+                "description": "Everyone needs a map for without a map where will you go?",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
+        "2": [
+            {
+                "title": "The Starting Line",
+                "index_value": 2,
+                "date": "10/22/2019",
+                "description": "Ready Set Start.",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
+
+        "1": [
+            {
+                "title": "First Post & What's to Come",
+                "index_value": 1,
                 "date": "05/20/2019",
                 "description": "An introduction to the rantings of an inexperienced blog poster.",
                 "hider_index_value": "null",
                 "seeker_index_value": "2",
                 "image_thumbnail": "assets/blog-assets/images/story_4/first-post-welcome.png"
-            }
-        ],
-        "3": [
-            {
-                "title": "Story 3",
-                "index_value": 3,
-                "date": "04/30/2019",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque vulputate ligula, vitae placerat nulla sollicitudin sed. Duis ultricies vitae ipsum et tempor. Nam pharetra, justo a bibendum volutpat, neque massa luctus erat, auctor sagittis lectus nulla auctor metus. In pellentesque dictum lacus et semper. Maecenas lacinia ipsum nec purus interdum tempor. Duis eros nulla, vehicula nec est vitae, sollicitudin dictum sapien. Quisque imperdiet consequat mi non auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut tempus leo.",
-                "hider_index_value": "null",
-                "seeker_index_value": "2",
-                "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba2.jpg"
-            }
-        ],
-        "2": [
-            {
-                "title": "Story 2",
-                "index_value": 2,
-                "date": "04/25/2019",
-                "description": "Blah blah blah",
-                "hider_index_value": "null",
-                "seeker_index_value": "1",
-                "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
-            }
-        ],
-        "1": [
-            {
-                "title": "Story 1",
-                "index_value": 1,
-                "date": "04/24/2019",
-                "description": "La la la",
-                "hider_index_value": "1",
-                "seeker_index_value": "null",
-                "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
             }
         ]
     }

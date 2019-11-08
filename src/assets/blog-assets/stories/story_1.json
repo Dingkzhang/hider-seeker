@@ -1,28 +1,33 @@
 {
     "index": 1,
-    "is_hider": "true",
-    "is_seeker": "false",
-    "date": "04/24/2019",
-    "hider_index_value": "1",
-    "seeker_index_value": "null",
-    "title": "Story 1",
-    "description": "Placeholder description",
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "05/20/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "First Post & What's to Come",
+    "description": "The rantings of an inexperienced blog poster.",
     "main_info": [
         {
-            "type": "img",
-            "img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
-        },
-        {
             "type": "text",
-            "paragraph": "Aliquam a quam vitae risus elementum pharetra eget vitae diam. Aliquam diam metus, dapibus sed sem eget, tempor maximus dolor. Nunc pretium et magna pellentesque vulputate. Vestibulum vitae tellus ac ipsum consectetur aliquam. Vestibulum id diam mollis, vehicula odio sit amet, feugiat tortor. Curabitur auctor, nunc sed auctor sagittis, enim odio sagittis lectus, id venenatis eros dui sed augue. Praesent gravida justo vel scelerisque venenatis. Vivamus pretium, turpis vel suscipit vestibulum, magna elit porttitor justo, id fringilla purus augue vitae nisi. Mauris quis eros vestibulum, sollicitudin erat eu, fermentum ex. Pellentesque id erat facilisis, tempus lectus tempor, vestibulum risus. Nullam non pretium massa, et maximus tortor. Aenean posuere sagittis dolor at dictum."
+            "paragraph": "A formal intro to this site would seem very bland. I'll make this section short enough so you won't lull over how generic this post will be. I'm Ding, I go by Ding, Dingy, or Dingyboy as my friends would call me. I'm a freelancer which is to say that I quit my job as a front-end software developer and now I'm working on some of my personal projects."
         },
         {
             "type": "img",
-            "img": "https://material.angular.io/assets/img/examples/shiba2.jpg"
+            "img": "assets/blog-assets/images/story_4/first-post-welcome.png"
+        },
+        
+        {
+            "type": "text",
+            "paragraph": "So, what is the plan now Ding?"
         },
         {
             "type": "text",
-            "paragraph": "Suspendisse laoreet iaculis odio, eu fringilla urna iaculis non. Vestibulum faucibus, neque sed fringilla mattis, nibh diam dapibus purus, eu dapibus lacus ante non nulla. Vivamus tempus elementum velit, commodo imperdiet elit ultrices vitae. Cras volutpat mauris eget diam laoreet condimentum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent eu augue eget magna euismod pretium vel et eros. Curabitur sed purus sodales, commodo nunc sed, efficitur dui. Etiam tincidunt nec tellus at posuere. In hac habitasse platea dictumst. Maecenas porta scelerisque leo, vel mollis arcu luctus ut. Ut facilisis, ipsum condimentum tempor laoreet, quam dui vulputate orci, vitae imperdiet orci nisl quis urna. Nunc ut dui blandit, maximus libero vitae, pulvinar sem. Aenean pellentesque elit ac ligula placerat finibus."
+            "paragraph": "Good question. Graduate school is high on the priority list and I'll be applying in the coming Fall. In the meantime, I'll be building my portfolio and showcasing/ no-shame bragging on my website."
+        },
+        {
+            "type": "text",
+            "paragraph": "All right, short and sweet like I said. Now, I've never been good with farewells so... That'll do for now, pig."
         }
     ]
 }
