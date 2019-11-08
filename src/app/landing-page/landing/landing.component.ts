@@ -24,6 +24,8 @@ export class LandingComponent implements OnInit {
   portfolioInfo;
   latestPortfolioInfo;
 
+  isImageThumbnail = false;
+
   constructor(
     private http: HttpClient,
     private jsonConversion: JsonConversionService,
@@ -41,6 +43,10 @@ export class LandingComponent implements OnInit {
       const blogLength = this.blogInfo.length;
       this.latestBlogInfo = this.blogInfo[blogLength - 1];
       console.log(this.latestBlogInfo);
+
+      if (this.latestBlogInfo.image_thumbnail != "") {
+        this.isImageThumbnail = true
+      }
     });
   }
 

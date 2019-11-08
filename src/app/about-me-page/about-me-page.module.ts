@@ -10,7 +10,7 @@ import { AngularMaterialsModule } from '../shared/angular-materials/angular-mate
   imports: [
     CommonModule,
     AboutMePageRoutingModule,
-    AngularMaterialsModule
+    AngularMaterialsModule,
   ]
 })
 export class AboutMePageModule { }

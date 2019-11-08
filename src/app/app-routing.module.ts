@@ -6,7 +6,7 @@ const routes: Routes = [
   { path: 'landing', loadChildren: './landing-page/landing-page.module#LandingPageModule' },
   { path: 'aboutMe', loadChildren: './about-me-page/about-me-page.module#AboutMePageModule' },
   { path: 'portfolioLanding', loadChildren: './portfolio-page/portfolio-page.module#PortfolioPageModule' },
-  { path: 'blogLanding', loadChildren: './blog-page/blog-page.module#BlogPageModule' }
+  { path: 'blogLanding', loadChildren: './blog-page/blog-page.module#BlogPageModule' },
 ];
 
 @NgModule({

@@ -10,7 +10,9 @@
     <h3>Latest Blog Post</h3>
     <h3> {{ latestBlogInfo.title }} </h3>
     <h4> {{ latestBlogInfo.date }}</h4>
-    <img src="{{latestBlogInfo.image_thumbnail}}" width="100%" height="100%">
+    <div *ngIf="">
+      <img src="{{latestBlogInfo.image_thumbnail}}" width="100%" height="100%">
+    </div>
     <p>{{ latestBlogInfo.description }}
       <button mat-button class="read-button" routerLink="/blogLanding">
         <i class="fab fa-readme"></i> Read More

@@ -13,7 +13,7 @@ import { AngularAnimationsModule } from './shared/angular-animations/angular-ani
 import { AngularMaterialsModule } from './shared/angular-materials/angular-materials.module';
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
   ],
   imports: [
     BrowserModule,
