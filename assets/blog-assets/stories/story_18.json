@@ -1,0 +1,20 @@
+{
+    "index": 18,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "11/07/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Day 17 (17/375) (1/15)",
+    "description": "Connected the frontend and backend together with an api call!",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Day 17: (Planning/Setup)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Successfully connected frontend and backend calls together. Definitely a great day! Ha ha :)"
+        }
+    ]
+}

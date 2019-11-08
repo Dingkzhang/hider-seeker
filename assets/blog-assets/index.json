@@ -1,10 +1,21 @@
 {
-    "total_index": "17",
+    "total_index": "18",
     "story_library": {
+        "18": [
+            {
+                "title": "Day 17 (17/375) (1/15)",
+                "index_value": 18,
+                "date": "11/07/2019",
+                "description": "Connected the frontend and backend together with an api call!",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
         "17": [
             {
                 "title": "Day 14/15/16 (14, 15, & 16/375) (1/15)",
-                "index_value": 16,
+                "index_value": 17,
                 "date": "11/06/2019",
                 "description": "Learning the different api calls for Django",
                 "hider_index_value": "null",
