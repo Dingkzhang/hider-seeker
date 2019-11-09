@@ -1,6 +1,19 @@
 {
-    "total_index": "18",
+    "total_index": "19",
     "story_library": {
+
+        "19": [
+            {
+                "title": "Day 18/19 (18 & 19/375) (1/15)",
+                "index_value": 19,
+                "date": "11/09/2019",
+                "description": "Updates and learning about Django",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ], 
+
         "18": [
             {
                 "title": "Day 17 (17/375) (1/15)",
