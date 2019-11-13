@@ -1,0 +1,24 @@
+{
+    "index": 21,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "11/12/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Day 22 (22/375) (1/15)",
+    "description": "Last day of Reading Django Documentation",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Day 22: Mascot Creation"
+        },
+        {
+            "type": "text",
+            "paragraph": "Read through the documentation on Django."
+        },
+        {
+            "type": "text",
+            "paragraph": "Figured out how to view database on local."
+        }
+    ]
+}
