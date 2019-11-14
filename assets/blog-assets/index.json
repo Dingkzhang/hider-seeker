@@ -1,6 +1,17 @@
 {
-    "total_index": "21",
+    "total_index": "22",
     "story_library": {
+        "22": [
+            {
+                "title": "Day 23 (23/375) (1/15)",
+                "index_value": 22,
+                "date": "11/13/2019",
+                "description": "Planning for Website Design",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
         "21": [
             {
                 "title": "Day 22 (22/375) (1/15)",
