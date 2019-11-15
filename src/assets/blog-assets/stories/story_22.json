@@ -1,0 +1,20 @@
+{
+    "index": 22,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "11/13/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Day 23 (23/375) (1/15)",
+    "description": "Planning for Website Design",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Day 23: Website Planning"
+        },
+        {
+            "type": "text",
+            "paragraph": "Did some brainstorming on what my site should look like."
+        }
+    ]
+}

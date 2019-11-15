@@ -1,0 +1,33 @@
+{
+    "index": 19,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "11/09/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Day 18/19 (18 & 19/375) (1/15)",
+    "description": "Updates and learning about Django",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Day 18: (Studying Django Api Calls)"
+        },
+        {
+            "type": "text",
+            "paragraph": "Looked into Django model, view, urls, and serializers."
+        },
+        {
+            "type": "text",
+            "paragraph": "Day 19: Updates and more Django"
+        },
+        {
+            "type": "text",
+            "paragraph": "Hey guys, so the original plan was to finish the planning and setup for the website to host my projects. After taking into consideration the amount of time I spend right now, I figured that it would take much longer to build a better site. I am going to update the plan and have the second sprint be focused on writing features for my site. For the rest of this sprint, I will be figuring out what API calls and functions that I will need in order to successfully communicate between my frontend and backend."
+        },
+        {
+            "type": "text",
+            "paragraph": "So anyways, what I'm going to do today is I will be looking into API calls for my site and coming up with ideas to restructure it."
+        }
+
+    ]
+}

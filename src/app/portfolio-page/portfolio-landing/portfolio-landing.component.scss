@@ -1,5 +1,5 @@
 .portfolio-content {
-    max-width: 500px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -31,6 +31,12 @@
 
 .view-button {
     float:right;
+}
+
+mat-card {
+    background: #ff0320;
+    max-height: 100px;
+    margin: auto;
 }
 
 mat-card-title {

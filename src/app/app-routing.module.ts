@@ -7,6 +7,8 @@ const routes: Routes = [
   { path: 'aboutMe', loadChildren: './about-me-page/about-me-page.module#AboutMePageModule' },
   { path: 'portfolioLanding', loadChildren: './portfolio-page/portfolio-page.module#PortfolioPageModule' },
   { path: 'blogLanding', loadChildren: './blog-page/blog-page.module#BlogPageModule' },
+  { path: 'calendarLanding', loadChildren: './calendar-page/calendar-page.module#CalendarPageModule'}
+
 ];
 
 @NgModule({
