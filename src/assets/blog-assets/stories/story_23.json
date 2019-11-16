@@ -19,6 +19,10 @@
         {
             "type": "text",
             "paragraph": "Re-formatted the design of the website."
+        },
+        {
+            "type": "text",
+            "paragraph": "Updated menu navigation to be compatible in mobile mode."
         }
     ]
 }

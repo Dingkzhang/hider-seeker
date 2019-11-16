@@ -15,3 +15,21 @@
     margin: auto;
     max-width: 500px;
 }
+
+.mobile-view {
+
+    display: none;
+
+    @media all and (max-width: 768px) {
+        display: inline;
+    }
+}
+
+.pc-view {
+    
+    display: inline;
+    @media all and (max-width: 768px){
+        display: none;
+    }
+
+}
