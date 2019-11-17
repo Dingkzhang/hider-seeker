@@ -1,6 +1,17 @@
 {
-    "total_index": "24",
+    "total_index": "25",
     "story_library": {
+        "25": [
+            {
+                "title": "Day 26/27 (26 & 27/375) (2/15)",
+                "index_value": 25,
+                "date": "11/17/2019",
+                "description": "Calendar & Spicy Colors",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
         "24": [
             {
                 "title": "Day 25 (25/375) (1/15)",
