@@ -3,6 +3,8 @@
     "date": "05/29/2019",
     "title": "Project 5",
     "description": "Placeholder description",
+    "background_color": "#BB0F4B",
+    "text_color": "#ffffff",
     "main_info": [
         {
             "type": "img",
