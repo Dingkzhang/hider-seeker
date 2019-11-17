@@ -1,32 +1,55 @@
 <div class="landing-content">
   <div>
     <h4>
-      Hello, Hider here and I want to welcome everyone to my website. I will be posting about my stories and projects here. Feel
-      free to check it out.
+      Hello, Hider here and I want to welcome everyone to my website. I will be
+      posting about my stories and projects here. Feel free to check it out.
     </h4>
+  </div>
+
+  <div *ngIf="latestCalendarInfo !== null && latestCalendarInfo !== undefined">
+    <h3>Current Calendar</h3>
+    <h3>
+      <p>
+        {{ latestCalendarInfo.month_string }} {{ latestCalendarInfo.year }}
+        <button mat-button class="read-button" routerLink="/calendarLanding">
+          <i class="far fa-calendar-alt"></i> View Calendar
+        </button>
+      </p>
+    </h3>
   </div>
 
   <div *ngIf="latestBlogInfo !== null && latestBlogInfo !== undefined">
     <h3>Latest Blog Post</h3>
-    <h3> {{ latestBlogInfo.title }} </h3>
-    <h4> {{ latestBlogInfo.date }}</h4>
+    <h3>{{ latestBlogInfo.title }}</h3>
+    <h4>{{ latestBlogInfo.date }}</h4>
     <div *ngIf="">
-      <img src="{{latestBlogInfo.image_thumbnail}}" width="100%" height="100%">
+      <img
+        src="{{ latestBlogInfo.image_thumbnail }}"
+        width="100%"
+        height="100%"
+      />
     </div>
-    <p>{{ latestBlogInfo.description }}
+    <p>
+      {{ latestBlogInfo.description }}
       <button mat-button class="read-button" routerLink="/blogLanding">
         <i class="fab fa-readme"></i> Read More
       </button>
     </p>
   </div>
 
-  <div *ngIf="latestPortfolioInfo !== null && latestPortfolioInfo !== undefined">
+  <div
+    *ngIf="latestPortfolioInfo !== null && latestPortfolioInfo !== undefined"
+  >
     <h3>Latest Portfolio Project</h3>
-    <h3> {{ latestPortfolioInfo.title }} </h3>
-    <h4> {{ latestPortfolioInfo.date }} {{ latestPortfolioInfo.subtitle }}
-    </h4>
-    <img src="{{latestPortfolioInfo.image_thumbnail}}" width="100%" height="100%">
-    <p> {{ latestPortfolioInfo.description }}
+    <h3>{{ latestPortfolioInfo.title }}</h3>
+    <h4>{{ latestPortfolioInfo.date }} {{ latestPortfolioInfo.subtitle }}</h4>
+    <img
+      src="{{ latestPortfolioInfo.image_thumbnail }}"
+      width="100%"
+      height="100%"
+    />
+    <p>
+      {{ latestPortfolioInfo.description }}
       <button mat-button class="read-button" routerLink="/portfolioLanding">
         <i class="fab fa-readme"></i> Read More
       </button>

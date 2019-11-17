@@ -1,78 +1,83 @@
 .portfolio-content {
-    max-width: 1000px;
-    margin: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 
-    :hover {
-        opacity: 0.5;
-    }
+  :hover {
+    opacity: 0.9;
+    z-index: 9;
+  }
 
-    @media(hover:none){
-   
-    }
+  @media (hover: none) {
+  }
 }
 
 .portfolio-button {
-    width:100%;
+  width: 100%;
 }
 
 .portfolio-header {
-    width: 100%;
+  width: 100%;
 }
 
 .image-thumbnail {
-    display:block;
-    height: 150px;
-    width: auto;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
 }
 
 .view-button {
-    float:right;
+  float: right;
 }
 
 mat-card {
-    background: #ff0320;
-    max-height: 100px;
-    margin: auto;
+  max-height: 100px;
+  margin: auto;
 }
 
 mat-card-title {
-    margin: auto;
+  margin: auto;
 }
 
 mat-card-header-text {
-    margin: auto;
+  margin: auto;
+}
+
+// panel class start
+
+::ng-deep .custom-dialog-content .mat-dialog-container {
+  background:none;
+}
+
+.dialog-panel {
+    z-index:1001;
 }
 
 .dialog-actions {
-    float:right;
+  float: right;
 }
 
 .prev-button {
-    position: fixed;
-    float: left;
-    left: 0%;
-    height:100%;
-    z-index: 99;
-    
-    @media all and (max-width: 675px) {
-        /* put your css styles in here */
-        opacity: 0.5;
-    };
+  position: fixed;
+  float: left;
+  left: 0%;
+  height: 100%;
+  z-index: 99;
+
+  @media all and (max-width: 675px) {
+    /* put your css styles in here */
+    opacity: 0.5;
+  }
 }
 
 .next-button {
-    position: fixed;
-    float: right;
-    right: 0%;
-    height:100%;
-    z-index: 99;
+  position: fixed;
+  float: right;
+  right: 0%;
+  height: 100%;
+  z-index: 99;
 
-    @media all and (max-width: 675px) {
-        /* put your css styles in here */
-        opacity: 0.5;
-    };
+  @media all and (max-width: 675px) {
+    /* put your css styles in here */
+    opacity: 0.5;
+  }
 }

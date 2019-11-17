@@ -27,7 +27,6 @@ export class BlogLandingComponent implements OnInit {
     if (this.blogIndexSubscription && !this.blogIndexSubscription.closed) {
       this.blogIndexSubscription.unsubscribe();
     }
-
     if (this.blogInfoSubscription && !this.blogInfoSubscription.closed) {
       this.blogInfoSubscription.unsubscribe();
     }
