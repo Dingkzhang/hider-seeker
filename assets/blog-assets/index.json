@@ -1,6 +1,17 @@
 {
-    "total_index": "25",
+    "total_index": "26",
     "story_library": {
+        "26": [
+            {
+                "title": "Day 28 (28/375) (2/15)",
+                "index_value": 26,
+                "date": "11/18/2019",
+                "description": "Calendar and Making Mistakes",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
         "25": [
             {
                 "title": "Day 26/27 (26 & 27/375) (2/15)",
