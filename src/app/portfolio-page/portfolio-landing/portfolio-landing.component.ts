@@ -202,7 +202,7 @@ export class PortfolioDialog {
   constructor(
     private paragraphConversion: ParagraphConversionService,
     public portfolioDialogRef: MatDialogRef<PortfolioDialog>,
-    @Inject(MAT_DIALOG_DATA) public data: PorfolioData
+    @Inject(MAT_DIALOG_DATA) public data: PortfolioData
   ) {
     console.log(data);
     this.setupPortfolioData(data);
@@ -219,4 +219,7 @@ export class PortfolioDialog {
   }
 }
 
-export interface PorfolioData {}
+export interface PortfolioData {
+  'background_color':string;
+  'text_color':string;
+}

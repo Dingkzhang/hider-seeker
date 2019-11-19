@@ -6,11 +6,11 @@
     </h4>
   </div>
 
-  <div *ngIf="latestCalendarInfo !== null && latestCalendarInfo !== undefined">
+  <div *ngIf="calendarIndex !== null && calendarIndex !== undefined">
     <h3>Current Calendar</h3>
     <h3>
       <p>
-        {{ latestCalendarInfo.month_string }} {{ latestCalendarInfo.year }}
+        {{ calendarIndex.current_month_string }} {{ calendarIndex.current_year }}
         <button mat-button class="read-button" routerLink="/calendarLanding">
           <i class="far fa-calendar-alt"></i> View Calendar
         </button>

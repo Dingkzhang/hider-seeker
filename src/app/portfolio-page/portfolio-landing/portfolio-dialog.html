@@ -9,7 +9,7 @@
     <h1 mat-dialog-title class="title-info">{{data.title}}</h1>
     <div  mat-dialog-content>
       {{data.date}} : {{data.description}}
-      <div class="test-class" [ngStyle]="{'background-color': data.background_color, 'color': data.text_color}" *ngFor="let info of mainInfoData">
+      <div class="test-class" *ngFor="let info of mainInfoData">
         <p *ngIf="info.type === 'text'">
           {{info.paragraph}}
         </p>

@@ -1,20 +1,48 @@
 {
     "total_index": "2",
+    "current_year": 2019,
+    "current_month": 11,
+    "current_month_string": "November",
+
     "calendar_library": {
-        "2": [
+        "2020": [
             {
-                "year": "2019",
-                "month_int": "11",
-                "month_string": "November",
-                "image_thumbnail": ""
+                "11": [
+                    {
+                        "year": "2020",
+                        "month_int": "11",
+                        "month_string": "November",
+                        "image_thumbnail": ""
+                    }
+                ],
+                "10": [
+                    {
+                        "year": "2020",
+                        "month_int": "10",
+                        "month_string": "October",
+                        "image_thumbnail": ""
+                    }
+                ]
             }
         ],
-        "1": [
+        "2019": [
             {
-                "year": "2019",
-                "month_int": "10",
-                "month_string": "October",
-                "image_thumbnail": ""
+                "11": [
+                    {
+                        "year": "2019",
+                        "month_int": "11",
+                        "month_string": "November",
+                        "image_thumbnail": ""
+                    }
+                ],
+                "10": [
+                    {
+                        "year": "2019",
+                        "month_int": "10",
+                        "month_string": "October",
+                        "image_thumbnail": ""
+                    }
+                ]
             }
         ]
     }

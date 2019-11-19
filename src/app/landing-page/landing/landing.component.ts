@@ -25,8 +25,6 @@ export class LandingComponent implements OnInit {
   latestPortfolioInfo;
 
   calendarIndex;
-  calendarInfo;
-  latestCalendarInfo;
 
   isImageThumbnail = false;
 
@@ -84,13 +82,6 @@ export class LandingComponent implements OnInit {
   private setupCalendarIndex() {
     this.calendarIndexSubscription = this.getCalendarIndex().subscribe(data => {
       this.calendarIndex = data;
-      this.calendarInfo = this.paragraphConversion.convertParagraphArray(
-        this.calendarIndex.calendar_library
-      )
-      const calendarLength = this.calendarInfo.length;
-      this.latestCalendarInfo = this.calendarInfo[calendarLength -1];
-      console.log(this.latestCalendarInfo);
-
     });
   }
 
@@ -112,9 +103,11 @@ export class LandingComponent implements OnInit {
       this.portfolioIndexSubscription.unsubscribe();
     }
 
-    if (this.calendarIndexSubscription && !this.calendarIndexSubscription.closed){
+    if (
+      this.calendarIndexSubscription &&
+      !this.calendarIndexSubscription.closed
+    ) {
       this.calendarIndexSubscription.unsubscribe();
     }
-
   }
 }
