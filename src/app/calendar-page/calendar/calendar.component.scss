@@ -1,4 +1,21 @@
 .calendar-content {
-    max-width: 1000px;
-    margin: auto;
+  margin: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.zoom {
+  transition: all 0.2s ease-in-out;
+  margin: 0 auto;
+  z-index: 90
+}
+
+.zoom:hover {
+  background-color: green;
+  opacity: 0.5;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(3);
 }

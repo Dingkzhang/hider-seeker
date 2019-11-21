@@ -1,4 +1,68 @@
+<div *ngIf="calendarIndexJson !== null;">{{currentMonthString}} {{currentYear}}</div>
 <div class="calendar-content">
-  calendar works!
-  <button mat-button>Test Button</button>
+  <mat-grid-list cols="7" rowHeight="2:1">
+    <mat-grid-tile class="zoom">Sunday</mat-grid-tile>
+    <mat-grid-tile class="zoom">Monday</mat-grid-tile>
+    <mat-grid-tile class="zoom">Tuesday</mat-grid-tile>
+    <mat-grid-tile class="zoom">Wednesday</mat-grid-tile>
+    <mat-grid-tile class="zoom">Thursday</mat-grid-tile>
+    <mat-grid-tile class="zoom">Friday</mat-grid-tile>
+    <mat-grid-tile class="zoom">Saturday</mat-grid-tile>
+
+    <!-- use ngFor to create calendar structure -->
+    <!-- create a set of id that corresponds with date -->
+    <!-- pass id into mouseenter function to get information on that calendar date -->
+    <mat-grid-tile class="zoom" (mouseenter)="calltest(1); changeText = true;" (mouseleave)="changeText = false;">
+
+      <span *ngIf = "!changeText">1</span>
+      <span *ngIf = "changeText">show</span>
+    </mat-grid-tile>
+
+    <mat-grid-tile class="zoom" (mouseenter)="calltest(2)">2</mat-grid-tile>
+    <mat-grid-tile class="zoom">3</mat-grid-tile>
+    <mat-grid-tile class="zoom">4</mat-grid-tile>
+    <mat-grid-tile class="zoom">5</mat-grid-tile>
+    <mat-grid-tile class="zoom">6</mat-grid-tile>
+    <mat-grid-tile class="zoom">7</mat-grid-tile>
+
+    <mat-grid-tile class="zoom">8</mat-grid-tile>
+    <mat-grid-tile class="zoom">9</mat-grid-tile>
+    <mat-grid-tile class="zoom">10</mat-grid-tile>
+    <mat-grid-tile class="zoom">11</mat-grid-tile>
+    <mat-grid-tile class="zoom">12</mat-grid-tile>
+    <mat-grid-tile class="zoom">13</mat-grid-tile>
+    <mat-grid-tile class="zoom">14</mat-grid-tile>
+
+    <mat-grid-tile class="zoom">15</mat-grid-tile>
+    <mat-grid-tile class="zoom">16</mat-grid-tile>
+    <mat-grid-tile class="zoom">17</mat-grid-tile>
+    <mat-grid-tile class="zoom">18</mat-grid-tile>
+    <mat-grid-tile class="zoom">19</mat-grid-tile>
+    <mat-grid-tile class="zoom">20</mat-grid-tile>
+    <mat-grid-tile class="zoom">21</mat-grid-tile>
+
+    <mat-grid-tile class="zoom">22</mat-grid-tile>
+    <mat-grid-tile class="zoom">23</mat-grid-tile>
+    <mat-grid-tile class="zoom">24</mat-grid-tile>
+    <mat-grid-tile class="zoom">25</mat-grid-tile>
+    <mat-grid-tile class="zoom">26</mat-grid-tile>
+    <mat-grid-tile class="zoom">27</mat-grid-tile>
+    <mat-grid-tile class="zoom">28</mat-grid-tile>
+
+    <mat-grid-tile class="zoom">29</mat-grid-tile>
+    <mat-grid-tile class="zoom">30</mat-grid-tile>
+    <mat-grid-tile class="zoom">31</mat-grid-tile>
+    <mat-grid-tile class="zoom"></mat-grid-tile>
+    <mat-grid-tile class="zoom"></mat-grid-tile>
+    <mat-grid-tile class="zoom"></mat-grid-tile>
+    <mat-grid-tile class="zoom"></mat-grid-tile>
+
+    <mat-grid-tile></mat-grid-tile>
+    <mat-grid-tile></mat-grid-tile>
+    <mat-grid-tile></mat-grid-tile>
+    <mat-grid-tile></mat-grid-tile>
+    <mat-grid-tile></mat-grid-tile>
+    <mat-grid-tile></mat-grid-tile>
+    <mat-grid-tile></mat-grid-tile>
+  </mat-grid-list>
 </div>
