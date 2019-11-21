@@ -375,4 +375,6 @@ THE SOFTWARE.
 
 @angular/material/menu
 
+@angular/material/grid-list
+
 @angular/material/card

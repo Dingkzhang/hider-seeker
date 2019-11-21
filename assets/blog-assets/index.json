@@ -1,6 +1,17 @@
 {
-    "total_index": "26",
+    "total_index": "27",
     "story_library": {
+        "27": [
+            {
+                "title": "Day 29/30 (29 & 30/375) (2/15)",
+                "index_value": 27,
+                "date": "11/20/2019",
+                "description": "Calendar Setup, functions and Tweaking",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
         "26": [
             {
                 "title": "Day 28 (28/375) (2/15)",
