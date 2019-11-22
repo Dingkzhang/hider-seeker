@@ -8,7 +8,7 @@ import { HttpClient } from "@angular/common/http";
 import { Observable } from "rxjs";
 import { Subscription } from "rxjs";
 
-import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from "@angular/material";
+import { MatDialog, MatDialogRef, MAT_DIALOG_DATA } from "@angular/material/dialog";
 
 import { JsonConversionService } from "../../services/json-conversion-service/json-conversion.service";
 import { ParagraphConversionService } from "../../services/paragraph-conversion-service/paragraph-conversion.service";
