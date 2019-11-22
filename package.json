@@ -19,7 +19,7 @@
     "@angular/forms": "~8.3.19",
     "@angular/material": "^8.2.3",
     "@angular/material-moment-adapter": "^8.2.3",
-    "@angular/platform-browser": "~8.3.19",
+    "@angular/platform-browser": "~8.2.14",
     "@angular/platform-browser-dynamic": "~8.3.19",
     "@angular/pwa": "^0.13.6",
     "@angular/router": "~8.3.19",
