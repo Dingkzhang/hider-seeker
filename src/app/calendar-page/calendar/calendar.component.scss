@@ -9,7 +9,7 @@
 .zoom {
   transition: all 0.2s ease-in-out;
   margin: 0 auto;
-  z-index: 90
+  z-index: 90;
 }
 
 .zoom:hover {
@@ -18,4 +18,15 @@
   -ms-transform: scale(1.5); /* IE 9 */
   -webkit-transform: scale(1.5); /* Safari 3-8 */
   transform: scale(3);
+}
+
+::ng-deep .mat-calendar-body-cell-content {
+  color: black;
+}
+
+::ng-deep .mat-calendar-table-header {
+  color: black;
+}
+::ng-deep .mat-calendar-body-label {
+  color: black;
 }

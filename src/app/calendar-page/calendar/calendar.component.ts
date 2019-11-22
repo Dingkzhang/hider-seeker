@@ -1,8 +1,13 @@
-import { Component, OnInit } from "@angular/core";
+import { Component, OnInit, Output, EventEmitter, ViewChild, Renderer2, AfterViewInit } from '@angular/core';
 
 import { HttpClient } from "@angular/common/http";
 import { Observable } from "rxjs";
 import { Subscription } from "rxjs";
+
+  
+import { Moment } from 'moment';
+import * as moment from 'moment';
+import { MatCalendar } from '@angular/material';
 
 @Component({
   selector: "app-calendar",
@@ -10,8 +15,10 @@ import { Subscription } from "rxjs";
   styleUrls: ["./calendar.component.scss"]
 })
 export class CalendarComponent implements OnInit {
-
   changeText = null;
+  
+  @Output()
+  selectedDate = moment();
 
   currentYear = null;
   currentMonth = null;
@@ -28,6 +35,9 @@ export class CalendarComponent implements OnInit {
   constructor(private http: HttpClient) {
     this.setupCalendarIndex();
   }
+
+  @ViewChild('calendar', { static: true })
+  calendar: MatCalendar<Moment>;
 
   ngOnInit() {}
 
