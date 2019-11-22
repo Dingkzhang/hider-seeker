@@ -1,6 +1,17 @@
 {
-    "total_index": "27",
+    "total_index": "28",
     "story_library": {
+        "28": [
+            {
+                "title": "Day 31 (31/375) (2/15)",
+                "index_value": 28,
+                "date": "11/21/2019",
+                "description": "Angular 8 and Calendar Angular Material",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
         "27": [
             {
                 "title": "Day 29/30 (29 & 30/375) (2/15)",
