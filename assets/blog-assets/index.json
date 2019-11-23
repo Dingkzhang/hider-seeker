@@ -1,6 +1,17 @@
 {
-    "total_index": "28",
+    "total_index": "29",
     "story_library": {
+        "29": [
+            {
+                "title": "Day 32 (32/375) (2/15)",
+                "index_value": 29,
+                "date": "11/22/2019",
+                "description": "Binding and Response my Favorite!",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
         "28": [
             {
                 "title": "Day 31 (31/375) (2/15)",
