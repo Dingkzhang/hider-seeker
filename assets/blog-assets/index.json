@@ -1,6 +1,17 @@
 {
-    "total_index": "29",
+    "total_index": "30",
     "story_library": {
+        "30": [
+            {
+                "title": "Day 33/34 (33 & 34/375) (2/15)",
+                "index_value": 30,
+                "date": "11/24/2019",
+                "description": "Calendar Month Functionality Added :)",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
         "29": [
             {
                 "title": "Day 32 (32/375) (2/15)",

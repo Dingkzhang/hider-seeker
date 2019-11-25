@@ -7,12 +7,14 @@
         "2020": [
             {
                 "11": {
+                    "doesExist":true,
                     "year": "2020",
                     "month_int": "11",
                     "month_string": "November",
                     "image_thumbnail": ""
                 },
                 "10": {
+                    "doesExist":true,
                     "year": "2020",
                     "month_int": "10",
                     "month_string": "October",
@@ -23,15 +25,24 @@
         "2019": [
             {
                 "11": {
+                    "doesExist":true,
                     "year": "2019",
                     "month_int": "11",
                     "month_string": "November",
                     "image_thumbnail": ""
                 },
                 "10": {
+                    "doesExist":true,
                     "year": "2019",
                     "month_int": "10",
                     "month_string": "October",
+                    "image_thumbnail": ""
+                },
+                "9": {
+                    "doesExist": true,
+                    "year": "2019",
+                    "month_int": "9",
+                    "month_string": "September",
                     "image_thumbnail": ""
                 }
             }
