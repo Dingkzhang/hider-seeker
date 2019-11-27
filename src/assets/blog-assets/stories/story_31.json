@@ -35,6 +35,10 @@
         {
             "type": "text",
             "paragraph": "Fixed conditional statement to ensure data is being correctly checked."
+        },
+        {
+            "type": "text",
+            "paragraph": "Added function so user can click on same date multiple times to get pop-up."
         }
     ]
 }

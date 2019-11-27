@@ -101,6 +101,7 @@ export class CalendarComponent implements OnInit {
     private renderer: Renderer2,
     public dialog: MatDialog
   ) {
+    this.selectedDate = null;
     this.setupCalendarIndex();
   }
 
@@ -334,6 +335,8 @@ export class CalendarComponent implements OnInit {
 
     calendarDialogRef.afterClosed().subscribe(result => {
       console.log("dialog closed");
+      console.log(this.selectedDate);
+      this.selectedDate = null;
     })
   }
 
