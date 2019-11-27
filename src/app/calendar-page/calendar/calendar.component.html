@@ -1,4 +1,10 @@
 <!-- <div *ngIf="calendarIndexJson !== null;">{{currentMonthString}} {{currentYear}}</div> -->
 <div class="calendar-wrapper">
-  <mat-calendar #calendar [(selected)]="selectedDate"> </mat-calendar>
+  <mat-calendar
+    #calendar
+    [(selected)]="selectedDate"
+    (monthSelected)="monthSelected($event)"
+    (selectedChange)="dateChanged($event)"
+  >
+  </mat-calendar>
 </div>

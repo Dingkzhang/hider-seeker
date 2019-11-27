@@ -1,0 +1,419 @@
+{
+    "index": 1,
+    "month_int": "09",
+    "month_name": "September",
+    "year_int": "2019",
+    "total_days": "30",
+    "date_name_start": "Sunday",
+    "date_name_end": "Monday",
+    "calendar_info": [
+        {
+            "30": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "29": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "28": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "27": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "26": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "25": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "24": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "text",
+                        "paragraph": "Day 24: Tweaking Website"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Re-formatted the design of the website."
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Updated menu navigation to be compatible in mobile mode."
+                    }
+                ]
+            },
+            "23": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Re-formatted the design of the website."
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Updated menu navigation to be compatible in mobile mode."
+                    }
+                ]
+            },
+            "22": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "21": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "20": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "19": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "18": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "17": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "16": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "15": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "14": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "13": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "12": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "11": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "10": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "9": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "8": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "7": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "6": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "5": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "4": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "3": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "2": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            },
+            "1": {
+                "doesDataExist": true,
+                "main_info": [
+                    {
+                        "type": "title",
+                        "paragraph": "Placeholder text"
+                    },
+                    {
+                        "type": "text",
+                        "paragraph": "Added a calendar component to the website."
+                    }
+                ]
+            }
+        }
+    ]
+}
