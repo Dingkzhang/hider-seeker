@@ -6,29 +6,27 @@
     "total_days": "31",
     "date_name_start": "Tuesday",
     "date_name_end": "Thursday",
-    "calendar_info": [
-        {
-            "24": {
-                "doesDataExist": true,
-                "main_info": [
-                    {
-                        "type": "text",
-                        "paragraph": "Day 24: Tweaking Website"
-                    },
-                    {
-                        "type": "text",
-                        "paragraph": "Added a calendar component to the website."
-                    },
-                    {
-                        "type": "text",
-                        "paragraph": "Re-formatted the design of the website."
-                    },
-                    {
-                        "type": "text",
-                        "paragraph": "Updated menu navigation to be compatible in mobile mode."
-                    }
-                ]
-            }
+    "calendar_info": {
+        "24": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 24: Tweaking Website"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added a calendar component to the website."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Re-formatted the design of the website."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Updated menu navigation to be compatible in mobile mode."
+                }
+            ]
         }
-    ]
+    }
 }
