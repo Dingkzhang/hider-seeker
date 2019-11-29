@@ -2,51 +2,24 @@
     "index": 6,
     "is_hider": "false",
     "is_seeker": "true",
-    "date": "10/23/2019",
+    "date": "11/09/2019",
     "hider_index_value": "null",
     "seeker_index_value": "1",
-    "title": "Day 1/Day 2 (1-2/375) (1/15)",
-    "description": "Keeping myself on task with the boring stuff.",
+    "title": "Ending the first sprint. (Yay!)",
+    "description": "Updates and learning about Django",
     "main_info": [
         {
             "type": "text",
-            "paragraph": "Day 1: (Planning)"
+            "paragraph": "Updates and more Django"
         },
         {
             "type": "text",
-            "paragraph": "Re-started my site"
+            "paragraph": "Hey guys, so the original plan was to finish the planning and setup for the website to host my projects. After taking into consideration the amount of time I spend right now, I figured that it would take much longer to build a better site. I am going to update the plan and have the second sprint be focused on writing features for my site. For the rest of this sprint, I will be figuring out what API calls and functions that I will need in order to successfully communicate between my frontend and backend."
         },
         {
             "type": "text",
-            "paragraph": "Bought new URL (ai-learning.io)"
-        },
-        {
-            "type": "text",
-            "paragraph": "Fixed some minor display issues regarding the site"
-        },
-        {
-            "type": "text",
-            "paragraph": "Day 2: (Planning)"
-        },
-        {
-            "type": "text",
-            "paragraph": "Created a simple roadmap for each section"
-        },
-        {
-            "type": "text",
-            "paragraph": "Downloaded flashcards regarding reinforcement learning onto my phone"
-        },
-        {
-            "type": "text",
-            "paragraph": "Looked at some blogging pages for future reference"
-        },
-        {
-            "type": "text",
-            "paragraph": "Renamed site header and app name to 'ai-Learning'"
-        },
-        {
-            "type": "text",
-            "paragraph": "Looked up RLDM2019 conference (Definitely will be going in 2021!)"
+            "paragraph": "So anyways, what I'm going to do today is I will be looking into API calls for my site and coming up with ideas to restructure it."
         }
+
     ]
 }
