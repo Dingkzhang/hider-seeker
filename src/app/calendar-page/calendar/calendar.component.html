@@ -5,6 +5,8 @@
     [(selected)]="selectedDate"
     (monthSelected)="monthSelected($event)"
     (selectedChange)="dateChanged($event)"
+    [minDate]="minDate" 
+    [maxDate]="maxDate" 
   >
   </mat-calendar>
 </div>

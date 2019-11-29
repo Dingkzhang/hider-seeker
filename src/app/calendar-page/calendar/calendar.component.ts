@@ -39,8 +39,9 @@ export class CalendarComponent implements OnInit {
   selectedDate = moment();
   currentMilliMonth;
 
+  minDate = new Date("2019/10/22");
+  maxDate = new Date();
   currentDay = null;
-
   currentYear = null;
   currentMonth = null;
   currentCalendarIndex = null;
@@ -110,6 +111,8 @@ export class CalendarComponent implements OnInit {
 
   ngOnInit() {}
 
+
+  
   setupCalendarIndex() {
     this.calendarIndexSubscription = this.getCalendarIndex().subscribe(
       indexData => {

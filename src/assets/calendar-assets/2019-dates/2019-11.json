@@ -7,7 +7,269 @@
     "date_name_start": "Friday",
     "date_name_end": "Saturday",
     "calendar_info": {
-        "01": {
+        "28": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 38: Happy Turkey Day! (Moving more stuff.)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished moving data from the blog section to the calendar section."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Deleted repeat data from calendar."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added max/min calendar date."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Modified css for dates not applicable in calendar."
+                }
+            ]
+        },
+        "27": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 37: Finished Calendar Function"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Swapped data from the blog section to the calendar section."
+                }
+            ]
+        },
+        "26": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 36: Finished Calendar Function"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added dialog pop-up component to calendar."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added random message array and function call."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed conditional statement to ensure data is being correctly checked."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added function so user can click on same date multiple times to get pop-up."
+                }
+            ]
+        },
+        "25": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 35: Bugs on the Calendar"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed issue regarding json data not loading properly."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added checker to determine if data should be populated."
+                }
+            ]
+        },
+        "24": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 34: Fixed bugs and Dynamic calendar function issues"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added function call when hitting next and previous month button."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed bugs caused by selection and button hitting."
+                }
+            ]
+        },
+        "23": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 33: Function for Calling Dynamic Calendar Data"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added dynamic calendar call function when scrolling through pages."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added converter to convert milliseconds to actual calendar date."
+                }
+            ]
+        },
+        "22": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 32: Response to Dates"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added binding response to calendar."
+                }
+            ]
+        },
+        "21": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 31: Upgrade to 8!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Upgraded site to Angular 8."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Found out there was a calendar module in angular material."
+                },
+                {
+                    "type": "text",
+                    "paragraph":"Added Calendar Module to calendar page."
+                }
+            ]
+        },
+        "20": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph":"Day 30: Creating Calendar Functions"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added functions to call json value to the calendar"
+                }
+            ]
+        },
+        "19": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 29: Into the Hover Feature"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added hover feature to the calendar."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added mat-grid-tile from angular material to represent calendar"
+                }
+            ]
+        },
+        "18": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 28: Setting up JSON structure for Calendar"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked into which Angular Material would be best suited for a calendar."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Setup Calendar Index Json."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Screwed up calendar index and made it unnecessarily too complicated. :("
+                }
+            ]
+        },
+        "17": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 27: Spicy Colors"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added a color for each portfolio display."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added a color for each portfolio item."
+                }
+            ]
+        },
+        "16": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 26: Need a Calendar Please."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added a calendar section for the site."
+        
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Enlarged width of display for multiple components."
+        
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added mobile icon display for menu navigation."
+        
+                }
+            ]
+        },
+        "15": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 25: End of the beginning."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "I added a portion of the calendar class onto the landing page."
+        
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Reflections..."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Need to understand that this is a long journey. Somewhere between a sprint and a marathon. You can do it Ding!"
+                }
+            ]
+        },
+        "14": {
             "doesDataExist": true,
             "main_info": [
                 {
@@ -25,6 +287,191 @@
                 {
                     "type": "text",
                     "paragraph": "Updated menu navigation to be compatible in mobile mode."
+                }
+            ]
+        },
+        "13": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 23: Website Planning"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Did some brainstorming on what my site should look like."
+                }
+            ]
+        },
+        "12": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 22: Mascot Creation"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read through the documentation on Django."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Figured out how to view database on local."
+                }
+            ]
+        },
+        "11": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 21: Studying Django"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Studied how the Django structure works and looked into the documentation."
+                }
+            ]
+        },
+        "10": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 20: Mascot Creation"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Designed a squid mascot using Inkscape."
+                }
+            ]
+        },
+        "09": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 19: Updates and more Django"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Hey guys, so the original plan was to finish the planning and setup for the website to host my projects. After taking into consideration the amount of time I spend right now, I figured that it would take much longer to build a better site. I am going to update the plan and have the second sprint be focused on writing features for my site. For the rest of this sprint, I will be figuring out what API calls and functions that I will need in order to successfully communicate between my frontend and backend."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "So anyways, what I'm going to do today is I will be looking into API calls for my site and coming up with ideas to restructure it."
+                }
+            ]
+        },
+        "08": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 18: (Studying Django Api Calls)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked into Django model, view, urls, and serializers."
+                }
+            ]
+        },
+        "07": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 17: (Planning/Setup)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Successfully connected frontend and backend calls together. Definitely a great day! Ha ha :)"
+                }
+            ]
+        },
+        "06": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 16: (Planning)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read up on Django CRUD operations."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Downloaded Postman for testing"
+                }
+            ]
+        },
+        "05": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 15: (Planning/Setup)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Connected and published Postgresql to Django up."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Uploaded Django application to Heroku with database in working shape."
+                }
+            ]
+        },
+        "04": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 14: (Planning/Setup)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Reviewed a couple of demo applications for Django Setup."
+                }
+            ]
+        },
+        "03": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 13: (Research/Planning/Setup)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked up Heroku setup and compared between two Django guides on how to do setup."
+                }
+            ]
+        },
+        "02": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 12: (Research/Planning/Setup)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Studied guides on how to setup Django application."
+                }
+            ]
+        },
+        "01": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 11: (Research/Planning/Setup)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Setting up Django backend on Heroku."
                 }
             ]
         }
