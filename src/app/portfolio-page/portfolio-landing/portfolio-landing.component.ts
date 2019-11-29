@@ -23,7 +23,7 @@ export class PortfolioLandingComponent implements OnInit {
   projectLibraryData;
   begDisplayIndex;
   endDisplayIndex;
-  indexDisplayRange = 5;
+  indexDisplayRange = 4;
   displayData;
   selectedProjectData;
 

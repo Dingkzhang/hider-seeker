@@ -29,6 +29,14 @@
                 {
                     "type": "text",
                     "paragraph": "Modified css for dates not applicable in calendar."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked up complementary colors for websites."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added css to highlight current day."
                 }
             ]
         },
