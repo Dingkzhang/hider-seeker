@@ -7,6 +7,35 @@
     "date_name_start": "Friday",
     "date_name_end": "Saturday",
     "calendar_info": {
+        "29": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 39: Design Color, Website Layout, and Font Color"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Researched design color for a sleek modern website. (Dark Blue/Purple #111c30, Dark Pink Makeup #9a4d55, Comfortable Couch Beige #80756b)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked up website layout and the plan is to use a square tiled look for navigating the site."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "For font-family, I am going to be using Oswald + Cardo."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Took pictures of site in order to archive it to compare and reflect differences for later usage."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Created new branch in order to preserve layout of old site in case I need to revert."
+                }
+            ]
+        },
         "28": {
             "doesDataExist": true,
             "main_info": [

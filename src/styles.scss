@@ -3,21 +3,14 @@
 
 body {
     background-image: url("./assets/background/art-background-backlit.jpg");
+    font-family: 'Cardo', serif;
+
 }
 
-// mat-dialog-container{
-//     opacity: 1;
-//     background-color: #123123;
-// }
-
-// .mat-dialog-container{
-//     opacity: 1;
-//     background-color: #123123;
-// }
-
-// .custom-dialog-content .mat-dialog-container {
-//     background-color: #123123;
-// }
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+   }
 
 // need to use this to hide second scroll bar
 .ng-star-inserted .mat-dialog-content {
