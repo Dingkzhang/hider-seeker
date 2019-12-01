@@ -1,18 +1,65 @@
 {
     "Questions": {
         "Question_1": "What is this site?",
-        "Question_2": "What is up with the name?",
-        "Question_3": "Who are you?",
-        "Question_4": "What do you do?",
-        "Question_5": "What are your goals?",
-        "Question_6": "What are your hobbies?"
+        "Question_2": "Who are you?"
     },
     "Answers": {
         "Answer_1": "This is my personal site used for blogging and to display the projects that I've been working on.",
-        "Answer_2": "I picked the name in order to be more honest with myself. As a human being, I feel that I've always been wanting to be better than what I am now, but I've always been unable to take that next step. I'm going to stop avoiding/procrastinating the challenges that I need to face in order to achieve my goals.",
-        "Answer_3": "I go by Ding or Dingie on the internet. I'm just a programmer who is trying to pursue the realm of machine learning and artifical intelligence.",
-        "Answer_4": "My day to day is spent learning about programming and honing this craft.",
-        "Answer_5": "I want to be proficient in the field of machine learning. To be able to create and build projects from scratch that will be beneficial to the people I know.",
-        "Answer_6": "In my spare time, I enjoy playing League of Legends. As for something outside of the computer, I love ice-skating and hiking."
+        "Answer_2": "I go by Ding or Dingie on the internet. I am a programmer who is passionate in studying decision-making and understanding behavior."
+    },
+    "Goals": {
+        "Goal_1": "Prepare Portfolio for College Admission",
+        "Goal_2": "Run a Marathon/Obtain Optimal Running Weight",
+        "Goal_3": "Prepare the outline for my book on Decision-Making",
+        "Goal_4": "Reach/Stay in Grandmaster tier in League of Legends for Season 10"
+    },
+    "Goal_Answer": {
+        "Goal_1_Answer": {
+            "1": "Section 1 (10/22/19): Planning, Review, and Setup (Completed)",
+            "2": "Section 2 (11/16/19): Improve on Website features and re-design layout",
+            "3": "Section 3 (12/11/20): Research/Practice what it takes to be a successful Phd Candidate",
+            "4": "Section 4 (01/05/19): Dropping Fruit Game with Experience Replay and Deep Q-Learning (Turn based)",
+            "5": "Section 5 (01/30/20): RL with Convolutional Neural Network",
+            "6": "Section 6 (02/25/20): RL with Asynchronous Advantage Actor-Critic A3C",
+            "7": "Section 7 (03/21/20): RL with Recurrent Neural Network (TBD)/Long-Short Term Memory Neural Network",
+            "8": "Section 8 (04/15/20): Dive into Genetic Algorithm",
+            "9": "Section 9 (05/10/20): RL with TensorFlow/PyTorch/OpenAI(TBD)",
+            "10": "Section 10 (06/04/20): RL in Robotics",
+            "11": "Section 11 (06/29/20): RL with Gameboy Emulators",
+            "12": "Section 12 (07/24/20): Social RL",
+            "13": "Section 13 (08/18/20): RL with Unreal Engine",
+            "14": "Section 14 (09/12/20): Fixing Site and Submitting Graduate School Applications",
+            "15": "Section 15 (10/07/20): Fixing Site and Submitting Graduate School Applications"
+        },
+        "Goal_2_Answer": {
+            "1": "11/30/2019: Current Run: 5 km, Current Weight: 163 lb",
+            "2": "12/31/2019: Run Goal: 10 km, Weight Goal: 157 lb",
+            "3": "01/31/2020: Run Goal: 15 km, Weight Goal: 152 lb",
+            "4": "02/29/2020: Run Goal: 20 km, Weight Goal: 147 lb",
+            "5": "03/01/2020: Race Sign Up Day",
+            "6": "03/31/2020: Run Goal: 30 km, Weight Goal: 142 lb",
+            "7": "04/30/2020: Run Goal: 35 km, Weight Goal: 137 lb",
+            "8": "05/23/2020: Race Day"
+        },
+        "Goal_3_Answer": {
+            "1": "Research how to become a better writer",
+            "2": "List out the core concepts for the book",
+            "3": "Write a synopsis of each concept in the book",
+            "4": "Research each individual topic",
+            "5": "Create a chapter template detailing the location/flow of each chapter",
+            "6": "Study fallacies and errors in human judgement",
+            "7": "Complete 1 chapter (rough draft)"
+            
+        },
+        "Goal_4_Answer": {
+            "1": "Consistently hit Diamond 1 across multiple accounts",
+            "2": "Reach Diamond 1 50 league points",
+            "3": "Reach Master Promos (Diamond 1 100 league points)",
+            "4": "Reach Masters",
+            "5": "Consistently be able to stay in Masters",
+            "6": "Reach halfway between Masters and Grandmasters",
+            "7": "Reach Grandmasters",
+            "8": "Consistently be able to stay in Grandmasters"
+        }
     }
 }
