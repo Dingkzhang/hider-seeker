@@ -1,35 +1,39 @@
 .mat-drawer-container {
-    min-height: 38px;
+  min-height: 38px;
 }
 
-// .nav-content {
-//     max-width: 500px;
-//     margin: auto;
-// }
+.nav-content {
+    top: 0;
+}
 
 .nav-menu {
-    float: right;
+  float: right;
 }
 
 .banner-title {
-    margin: auto;
-    max-width: 500px;
+  margin: auto;
+  max-width: 500px;
 }
 
 .mobile-view {
+  display: none;
 
-    display: none;
-
-    @media all and (max-width: 768px) {
-        display: inline;
-    }
+  @media all and (max-width: 768px) {
+    display: inline;
+  }
 }
 
 .pc-view {
-    
-    display: inline;
-    @media all and (max-width: 768px){
-        display: none;
-    }
+  display: inline;
+  @media all and (max-width: 768px) {
+    display: none;
+  }
+}
 
+.sticky {
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+  z-index: 10;
+  width: 100%;
 }

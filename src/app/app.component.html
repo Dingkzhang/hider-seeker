@@ -1,10 +1,95 @@
-<div class="banner-title">
+<!-- <div class="banner-title">
   <img src="../assets/title-assets//Ninja-main-title-500x140.png" width="100%" height="100%">
-</div>
+</div> -->
 
-<div class="nav-content">
-  <mat-drawer-container autosize>
-    <mat-drawer #mainMenu mode="side" position='end'>
+<h1>AI-Learning I/O</h1>
+
+<div class="nav-content" [class.sticky]="sticky" #stickyMenu>
+  <mat-toolbar #mainMenu>
+    <button
+      class="pc-view"
+      mat-button
+      (click)="mainMenu.toggle()"
+      routerLink="/landing"
+    >
+      Home
+    </button>
+    <button
+      class="pc-view"
+      mat-button
+      (click)="mainMenu.toggle()"
+      routerLink="/aboutMe"
+    >
+      About
+    </button>
+    <button
+      class="pc-view"
+      mat-button
+      (click)="mainMenu.toggle()"
+      routerLink="/calendarLanding"
+    >
+      Calendar
+    </button>
+    <button
+      class="pc-view"
+      mat-button
+      (click)="mainMenu.toggle()"
+      routerLink="/blogLanding"
+    >
+      Blog
+    </button>
+    <button
+      class="pc-view"
+      mat-button
+      (click)="mainMenu.toggle()"
+      routerLink="/portfolioLanding"
+    >
+      Portfolio
+    </button>
+
+    <button
+      class="mobile-view"
+      mat-button
+      (click)="mainMenu.toggle()"
+      routerLink="/landing"
+    >
+      <i class="fas fa-home"></i>
+    </button>
+    <button
+      class="mobile-view"
+      mat-button
+      (click)="mainMenu.toggle()"
+      routerLink="/aboutMe"
+    >
+      <i class="far fa-address-card"></i>
+    </button>
+    <button
+      class="mobile-view"
+      mat-button
+      (click)="mainMenu.toggle()"
+      routerLink="/calendarLanding"
+    >
+      <i class="far fa-calendar-alt"></i>
+    </button>
+    <button
+      class="mobile-view"
+      mat-button
+      (click)="mainMenu.toggle()"
+      routerLink="/blogLanding"
+    >
+      <i class="fas fa-comment-alt"></i>
+    </button>
+    <button
+      class="mobile-view"
+      mat-button
+      (click)="mainMenu.toggle()"
+      routerLink="/portfolioLanding"
+    >
+      <i class="fas fa-folder-open"></i>
+    </button>
+  </mat-toolbar>
+  <!-- <mat-drawer-container autosize>
+    <mat-drawer #mainMenu mode="side" position='end' >
       <button class="pc-view" mat-button (click)="mainMenu.toggle()" routerLink="/landing">Home</button>
       <button class="pc-view" mat-button (click)="mainMenu.toggle()" routerLink="/aboutMe">About</button>
       <button class="pc-view" mat-button (click)="mainMenu.toggle()" routerLink="/calendarLanding">Calendar</button>
@@ -25,7 +110,7 @@
       </button>
     </div>
 
-  </mat-drawer-container>
+  </mat-drawer-container> -->
 </div>
 
 <router-outlet></router-outlet>

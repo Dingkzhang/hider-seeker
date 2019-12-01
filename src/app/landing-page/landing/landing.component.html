@@ -1,16 +1,10 @@
 <div class="landing-content">
-  <div>
-    <h4>
-      Hello, Hider here and I want to welcome everyone to my website. I will be
-      posting about my stories and projects here. Feel free to check it out.
-    </h4>
-  </div>
-
   <div *ngIf="calendarIndex !== null && calendarIndex !== undefined">
     <h3>Current Calendar</h3>
     <h3>
       <p>
-        {{ calendarIndex.current_month_string }} {{ calendarIndex.current_year }}
+        {{ calendarIndex.current_month_string }}
+        {{ calendarIndex.current_year }}
         <button mat-button class="read-button" routerLink="/calendarLanding">
           <i class="far fa-calendar-alt"></i> View Calendar
         </button>
