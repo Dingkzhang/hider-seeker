@@ -7,6 +7,19 @@
     "date_name_start": "Friday",
     "date_name_end": "Saturday",
     "calendar_info": {
+        "30": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 40: About Page Goals Added"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added goals in the About-Page in detail."
+                }
+            ]
+        },
         "29": {
             "doesDataExist": true,
             "main_info": [

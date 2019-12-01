@@ -12,10 +12,12 @@ export class AboutMeComponent implements OnInit {
   showFiller = false;
   aboutMeQuestions = aboutMeAsset.default.Questions;
   aboutMeAnswers = aboutMeAsset.default.Answers;
-
+  aboutMeGoals = aboutMeAsset.default.Goals;
+  aboutMeGoalAnswers = aboutMeAsset.default.Goal_Answer;
   constructor(public restApi: RestApiService, public router: Router) {
     this.restApi.getMovies().subscribe(data => {
       console.log(data);
+      console.log(this.aboutMeGoalAnswers.Goal_1_Answer);
     });
   }
 
