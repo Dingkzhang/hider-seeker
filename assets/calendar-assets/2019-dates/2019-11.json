@@ -17,6 +17,10 @@
                 {
                     "type": "text",
                     "paragraph": "Added goals in the About-Page in detail."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Changed the menu navigation to allow it to stay in view even when scrolling."
                 }
             ]
         },
