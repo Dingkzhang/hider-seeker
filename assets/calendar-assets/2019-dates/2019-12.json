@@ -5,6 +5,19 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "03": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 43: Make it more 'about me'"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed zoomed in issue when navigating to the site."
+                }
+            ]
+        },
         "02": {
             "doesDataExist": true,
             "main_info": [
