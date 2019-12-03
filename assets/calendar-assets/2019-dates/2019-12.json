@@ -15,6 +15,14 @@
                 {
                     "type": "text",
                     "paragraph": "Customized the landing page with more professional look"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed scrolling for landing page"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Resolved min-width mobile display issue"
                 }
             ]
         },
