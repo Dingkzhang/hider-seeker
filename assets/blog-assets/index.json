@@ -3,10 +3,10 @@
     "story_library": {
         "6": [
             {
-                "title": "Day 18/19 (18 & 19/375) (1/15)",
+                "title": "Backend with Django",
                 "index_value": 6,
                 "date": "11/09/2019",
-                "description": "Updates and learning about Django",
+                "description": "Incorporating API calls with Django and Python",
                 "hider_index_value": "null",
                 "seeker_index_value": "2",
                 "image_thumbnail": ""
