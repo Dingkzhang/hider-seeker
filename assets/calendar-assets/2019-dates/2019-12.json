@@ -5,6 +5,23 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "04": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 44: Finished the rough draft story"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished the story for about me."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished the about me page layout."
+                }
+            ]
+        },
         "03": {
             "doesDataExist": true,
             "main_info": [
@@ -15,6 +32,14 @@
                 {
                     "type": "text",
                     "paragraph": "Fixed zoomed in issue when navigating to the site."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Started a rough draft story for the about me page."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 4.08 miles in 47:02 minutes."
                 }
             ]
         },
