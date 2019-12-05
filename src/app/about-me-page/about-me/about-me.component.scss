@@ -1,9 +1,53 @@
-.about-content {
-    max-width: 1000px;
-    margin: auto;
+.about-container {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  min-width: 1000px;
+  margin: auto;
+}
+
+.about-title-container {
+  display: grid;
+  text-align: center;
+  background-color: #c77a82d6;
+}
+.about-title {
+  font-size: 100px;
 }
 
 .completed-content {
-    text-decoration: line-through;
-    color: red;
+  text-decoration: line-through;
+  color: red;
+}
+
+.blurb-content {
+  display: grid;
+  font-size: 30px;
+  background-color: #f1eefb;
+}
+
+.blurb-info {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.goal-title-container {
+  display: grid;
+  text-align: center;
+  background-color: #c77a82d6;
+}
+.goal-title {
+  font-size: 100px;
+}
+
+.goal-container {
+  background-color: #f1eefb;
+}
+.goal-content {
+  display: grid;
+  font-size: 30px;
+
+  margin: auto;
+  width: 60%;
+  padding: 10px;
 }

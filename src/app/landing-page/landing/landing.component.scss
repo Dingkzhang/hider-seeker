@@ -1,8 +1,62 @@
 .landing-content {
-    max-width: 1000px;
-    margin: auto;
+  // max-width: 1000px;
+  min-width: 1000px;
+  margin: auto;
+
+  position: absolute;
+  left: 0px;
+  right: 0px;
+
 }
 
-.read-button {
-    float:right;
+.title-container {
+  display: grid;
+  width: 100%;
+  height: 500px;
+  background-color: #f1eefb;
+}
+
+.title-text {
+  font-size: 125px;
+}
+
+.about-container {
+  display: grid;
+  width: 100%;
+  height: 500px;
+  background-color: #c77a82d6;
+}
+.about-text {
+    text-align: center;
+}
+
+.calendar-container {
+  display: grid;
+  width: 100%;
+  height: 500px;
+  background-color: #8aafa7;
+}
+.main-text {
+  font-size: 200px;
+  text-align: center;
+  margin-block-end: 50px;
+  margin-block-start: 100px;
+}
+
+.month-text {
+  text-align: center;
+}
+
+.blog-container {
+    display: grid;
+    width: 100%;
+    height: 500px;
+    background-color: #ddc8b2;
+}
+
+.portfolio-container {
+    display: grid;
+    width: 100%;
+    height: 500px;
+    background-color: #646886;
 }

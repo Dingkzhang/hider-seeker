@@ -1,11 +1,12 @@
 {
-    "total_index": "2",
+    "total_index": "3",
     "current_year": 2019,
-    "current_month": 11,
-    "current_month_string": "November",
+    "current_month": 12,
+    "current_month_string": "December",
     "calendar_library": {
         "2020": [
             {
+                
                 "11": {
                     "doesExist":true,
                     "year": "2020",
@@ -24,6 +25,13 @@
         ],
         "2019": [
             {
+                "12": {
+                    "doesExist":true,
+                    "year": "2019",
+                    "month_int": "12",
+                    "month_string": "December",
+                    "image_thumbnail": ""
+                },
                 "11": {
                     "doesExist":true,
                     "year": "2019",

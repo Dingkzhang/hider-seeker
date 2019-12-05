@@ -1,11 +1,12 @@
 {
-    "Questions": {
-        "Question_1": "What is this site?",
-        "Question_2": "Who are you?"
-    },
-    "Answers": {
-        "Answer_1": "This is my personal site used for blogging and to display the projects that I've been working on.",
-        "Answer_2": "I go by Ding or Dingie on the internet. I am a programmer who is passionate in studying decision-making and understanding behavior."
+    "Blurbs": {
+        "Blurb_1": "Hey, nice to have you here. Since you’ve stumbled upon this page, I feel quite obligated to share a little about myself. I am the tour guide of this website. You can call me Dingie and the first stop in the About Me Station is, of course, my hobbies. Storytime!",
+        "Blurb_2": "Decisions. Decisions! Decisions?",
+        "Blurb_3": "Should I drive onto the yellow brick road or continue on the railroaded track? Dingie ponders to himself while steering the imaginary train to Nowhereland. To our protagonist, the railway offers security, comfort, and familiarity from the many vexing dangerous of the unknown road. However, the existing safety net has made the boy dull in action and stagnant in possibilities. And with a release of air from his impatient lungs, he screams out to the world, jerking the steering wheel onto the dusty path.",
+        "Blurb_4": "Along the trail, a myriad of encounters presents itself in front of our champion. To resolve each challenge, the boy combines a dash of creativity with a blend of past experiences. And he pulls from himself, a sword of action to cut through the swath of conflict. Resolution after resolution, bad and good, our character eventually reaches the end of his journey. With his head turned back behind him, he smiles at the long winding road and wonders how he even reached this point.",
+        "Blurb_5": "And of course, with every journey, there is a treasure for our hero. Dingie leaps from the tall train and plunges himself in front of the chest. Opening the chest, he finds inside a dingy doll, a pair of weights, a chisel, and a wrinkled map. The items are not the typical kind of goods for an adventurer, but still a find with innumerable value.",
+        "Blurb_6": "Picking up the dingy doll, Dingie scrubs it with his hand but to no avail. The toy, permanently blemished by the constraints of grandfather time. With a sign, he slips the object into his tool belt and picks up the pair of weights. One weight in each hand, the boy assesses the uneven set with a furrowing brow. He picks up the chisel from the ground and beings to shape the malleable metal. After a considerable amount of time, he beats the extra pieces off of his pants and lets it fall upon the ground. He holds the weights once more in each hand and a serene sensation wells within him. Perfectly balanced, as all things should be. Putting them aside, Dingie grabs the scroll. On its pages, a yellow meandering route coupled alongside faint railroad lines. He traces his finger across the path he had just taken. At the end of the line, a little footnote glistens before his eyes. Wrong-way, please try again.",
+        "Blurb_7": "End."
     },
     "Goals": {
         "Goal_1": "Prepare Portfolio for College Admission",

@@ -40,6 +40,11 @@ export class LandingComponent implements OnInit {
     console.log(this.latestBlogInfo);
   }
 
+  scrollToTop() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+
   private setupBlogIndex() {
     this.blogIndexSubscription = this.getBlogIndex().subscribe(data => {
       this.blogIndex = data;

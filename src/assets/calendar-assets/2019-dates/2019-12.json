@@ -1,0 +1,97 @@
+{
+    "index": 3,
+    "month_int": "12",
+    "month_name": "December",
+    "year_int": "2019",
+    "total_days": "31",
+    "calendar_info": {
+        "04": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 44: Finished the rough draft story"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished the story for about me."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished the about me page layout."
+                }
+            ]
+        },
+        "03": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 43: Make it more 'about me'"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed zoomed in issue when navigating to the site."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Started a rough draft story for the about me page."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 4.08 miles in 47:02 minutes."
+                }
+            ]
+        },
+        "02": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 42: New Landing page new Dingie!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Customized the landing page with more professional look"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed scrolling for landing page"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Resolved min-width mobile display issue"
+                }
+            ]
+        },
+        "01": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 41: Remodeling Site Navigation"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Created moving header that scrolls with the user"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed calendar bug where calendar data was not showing"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed issue where calendar dialog conflicted with new header scrolling function"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Resolved issue where header was expanding when scrolling"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished new header setup, font color, and design (Need to change background color)"
+                }
+            ]
+        }
+    }
+}

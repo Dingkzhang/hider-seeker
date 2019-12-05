@@ -1,63 +1,80 @@
-<div class="about-content">
-  <h1>About</h1>
+<div class="about-container">
+  <div class="about-title-container">
+    <button mat-button>
+      <h1 class="about-title">About</h1>
+    </button>
+  </div>
+  <div class="blurb-content">
+    <p class="blurb-info">{{ aboutMeAnswers.Blurb_1 }}</p>
+    <p class="blurb-info">{{ aboutMeAnswers.Blurb_2 }}</p>
+    <p class="blurb-info">{{ aboutMeAnswers.Blurb_3 }}</p>
+    <p class="blurb-info">{{ aboutMeAnswers.Blurb_4 }}</p>
+    <p class="blurb-info">{{ aboutMeAnswers.Blurb_5 }}</p>
+    <p class="blurb-info">{{ aboutMeAnswers.Blurb_6 }}</p>
+    <p class="blurb-info">{{ aboutMeAnswers.Blurb_7 }}</p>
+  </div>
 
-  <h3>{{ aboutMeQuestions.Question_1 }}</h3>
-  <p>{{ aboutMeAnswers.Answer_1 }}</p>
+  <div class="goal-container">
+    <div class="goal-title-container">
+      <button mat-button>
+        <h1 class="goal-title">Goals for 2020</h1>
+      </button>
+    </div>
 
-  <h3>{{ aboutMeQuestions.Question_2 }}</h3>
-  <p>{{ aboutMeAnswers.Answer_2 }}</p>
-</div>
+    <div class="goal-content">
+      <h1>1. {{ aboutMeGoals.Goal_1 }}</h1>
 
-<div class="about-content">
-  <h1>Goals for 2020</h1>
-  <h3>1. {{ aboutMeGoals.Goal_1 }}</h3>
+      <span class="completed-content">
+        <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[1] }}</p>
+      </span>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[2] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[3] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[4] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[5] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[6] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[7] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[8] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[9] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[10] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[11] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[12] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[13] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[14] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[15] }}</p>
+    </div>
+    <div class="goal-content">
+      <h1>2. {{ aboutMeGoals.Goal_2 }}</h1>
 
-  <span class="completed-content">
-    <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[1] }}</p>
-  </span>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[2] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[3] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[4] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[5] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[6] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[7] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[8] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[9] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[10] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[11] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[12] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[13] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[14] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_1_Answer[15] }}</p>
-
-  <h3>2. {{ aboutMeGoals.Goal_2 }}</h3>
-
-  <span class="completed-content">
-    <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[1] }}</p>
-  </span>
-  <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[2] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[3] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[4] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[5] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[6] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[7] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[8] }}</p>
-
-  <h3>3. {{ aboutMeGoals.Goal_3 }}</h3>
-  <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[1] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[2] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[3] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[4] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[5] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[6] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[7] }}</p>
-
-  <h3>4. {{ aboutMeGoals.Goal_4 }}</h3>
-  <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[1] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[2] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[3] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[4] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[5] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[6] }}</p>
-  <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[7] }}</p>
+      <span class="completed-content">
+        <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[1] }}</p>
+      </span>
+      <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[2] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[3] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[4] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[5] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[6] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[7] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_2_Answer[8] }}</p>
+    </div>
+    <div class="goal-content">
+      <h1>3. {{ aboutMeGoals.Goal_3 }}</h1>
+      <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[1] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[2] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[3] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[4] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[5] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[6] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_3_Answer[7] }}</p>
+    </div>
+    <div class="goal-content">
+      <h1>4. {{ aboutMeGoals.Goal_4 }}</h1>
+      <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[1] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[2] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[3] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[4] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[5] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[6] }}</p>
+      <p>• {{ aboutMeGoalAnswers.Goal_4_Answer[7] }}</p>
+    </div>
+  </div>
 </div>

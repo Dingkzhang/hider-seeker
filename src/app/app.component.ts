@@ -17,7 +17,12 @@ export class AppComponent {
     }
   }
 
-  @ViewChild("stickyMenu", {static: false}) menuElement: ElementRef;
+  scrollToTop() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+
+  @ViewChild("stickyMenu", { static: false }) menuElement: ElementRef;
 
   headerPosition: any;
   sticky: boolean = false;

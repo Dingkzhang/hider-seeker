@@ -10,8 +10,7 @@ import { RestApiService } from "../../shared/rest-api.service";
 })
 export class AboutMeComponent implements OnInit {
   showFiller = false;
-  aboutMeQuestions = aboutMeAsset.default.Questions;
-  aboutMeAnswers = aboutMeAsset.default.Answers;
+  aboutMeAnswers = aboutMeAsset.default.Blurbs;
   aboutMeGoals = aboutMeAsset.default.Goals;
   aboutMeGoalAnswers = aboutMeAsset.default.Goal_Answer;
   constructor(public restApi: RestApiService, public router: Router) {

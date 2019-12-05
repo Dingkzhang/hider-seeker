@@ -2,9 +2,9 @@
 @import "~@angular/material/prebuilt-themes/purple-green.css";
 
 body {
-    background-image: url("./assets/background/art-background-backlit.jpg");
+    // background-image: url("./assets/background/art-background-backlit.jpg");
     font-family: 'Cardo', serif;
-
+    min-width:1000px;
 }
 
 h1, h2, h3, h4, h5, h6 {

@@ -1,5 +1,4 @@
-.portfolio-content {
-  max-width: 1000px;
+.portfolio-dialog-content {
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -11,14 +10,6 @@
 
   @media (hover: none) {
   }
-}
-
-.portfolio-button {
-  width: 100%;
-}
-
-.portfolio-header {
-  width: 100%;
 }
 
 .image-thumbnail {
@@ -45,11 +36,11 @@ mat-card-header-text {
 // panel class start
 
 ::ng-deep .custom-dialog-content .mat-dialog-container {
-  background:none;
+  background: none;
 }
 
 .dialog-panel {
-    z-index:1001;
+  z-index: 1001;
 }
 
 .dialog-actions {

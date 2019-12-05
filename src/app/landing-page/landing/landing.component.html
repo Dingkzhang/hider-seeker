@@ -1,52 +1,71 @@
 <div class="landing-content">
-  <div *ngIf="calendarIndex !== null && calendarIndex !== undefined">
-    <h3>Current Calendar</h3>
-    <h3>
-      <p>
-        {{ calendarIndex.current_month_string }}
-        {{ calendarIndex.current_year }}
-        <button mat-button class="read-button" routerLink="/calendarLanding">
-          <i class="far fa-calendar-alt"></i> View Calendar
-        </button>
-      </p>
-    </h3>
+  <div class="title-container">
+    <button mat-button>
+      <h1 class="title-text">
+        AI-Learning I/O
+      </h1>
+    </button>
   </div>
 
-  <div *ngIf="latestBlogInfo !== null && latestBlogInfo !== undefined">
-    <h3>Latest Blog Post</h3>
-    <h3>{{ latestBlogInfo.title }}</h3>
-    <h4>{{ latestBlogInfo.date }}</h4>
-    <div *ngIf="">
-      <img
-        src="{{ latestBlogInfo.image_thumbnail }}"
-        width="100%"
-        height="100%"
-      />
-    </div>
-    <p>
-      {{ latestBlogInfo.description }}
-      <button mat-button class="read-button" routerLink="/blogLanding">
-        <i class="fab fa-readme"></i> Read More
-      </button>
-    </p>
+  <div class="about-container">
+    <button mat-button routerLink="/aboutMe" (click)="scrollToTop()">
+      <h1 class="main-text">
+        About
+        <i class="fas fa-caret-right"></i>
+      </h1>
+      <h1 class="about-text">Me Me Me!</h1>
+    </button>
+  </div>
+
+  <div
+    *ngIf="calendarIndex !== null && calendarIndex !== undefined"
+    class="calendar-container"
+  >
+    <button mat-button routerLink="/calendarLanding" (click)="scrollToTop();">
+      <h1 class="main-text">
+        Calendar
+        <i class="fas fa-caret-right"></i>
+      </h1>
+
+      <h1 class="month-text">
+        {{ calendarIndex.current_month_string }}
+        {{ calendarIndex.current_year }}
+      </h1>
+    </button>
+  </div>
+
+  <div
+    *ngIf="latestBlogInfo !== null && latestBlogInfo !== undefined"
+    class="blog-container"
+  >
+    <button mat-button routerLink="/blogLanding" (click)="scrollToTop();">
+      <h1 class="main-text">
+        Blog
+        <i class="fas fa-caret-right"></i>
+      </h1>
+      <h1>
+        {{ latestBlogInfo.date }}:
+        {{ latestBlogInfo.title }}
+      </h1>
+      <h1>
+        {{ latestBlogInfo.description }}
+      </h1>
+    </button>
   </div>
 
   <div
     *ngIf="latestPortfolioInfo !== null && latestPortfolioInfo !== undefined"
+    class="portfolio-container"
   >
-    <h3>Latest Portfolio Project</h3>
-    <h3>{{ latestPortfolioInfo.title }}</h3>
-    <h4>{{ latestPortfolioInfo.date }} {{ latestPortfolioInfo.subtitle }}</h4>
-    <img
-      src="{{ latestPortfolioInfo.image_thumbnail }}"
-      width="100%"
-      height="100%"
-    />
-    <p>
-      {{ latestPortfolioInfo.description }}
-      <button mat-button class="read-button" routerLink="/portfolioLanding">
-        <i class="fab fa-readme"></i> Read More
-      </button>
-    </p>
+    <button mat-button routerLink="/portfolioLanding" (click)="scrollToTop();">
+      <h1 class="main-text">
+        Portfolio
+        <i class="fas fa-caret-right"></i>
+      </h1>
+      <h1>{{ latestPortfolioInfo.date }}: {{ latestPortfolioInfo.title }}</h1>
+      <h1>
+        {{ latestPortfolioInfo.subtitle }}
+      </h1>
+    </button>
   </div>
 </div>
