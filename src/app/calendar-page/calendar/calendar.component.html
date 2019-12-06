@@ -1,12 +1,20 @@
 <!-- <div *ngIf="calendarIndexJson !== null;">{{currentMonthString}} {{currentYear}}</div> -->
-<div class="calendar-wrapper">
-  <mat-calendar
-    #calendar
-    [(selected)]="selectedDate"
-    (monthSelected)="monthSelected($event)"
-    (selectedChange)="dateChanged($event)"
-    [minDate]="minDate" 
-    [maxDate]="maxDate" 
-  >
-  </mat-calendar>
+
+<div class="calendar-container">
+  <div class="calendar-title-container">
+    <button mat-button>
+      <h1 class="calendar-title">Task Calendar</h1>
+    </button>
+  </div>
+  <div class="calendar-wrapper">
+    <mat-calendar
+      #calendar
+      [(selected)]="selectedDate"
+      (monthSelected)="monthSelected($event)"
+      (selectedChange)="dateChanged($event)"
+      [minDate]="minDate"
+      [maxDate]="maxDate"
+    >
+    </mat-calendar>
+  </div>
 </div>

@@ -1,6 +1,28 @@
+.calendar-container {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  min-width: 1000px;
+  margin: auto;
+  background-color: #f1eefb;
+}
+
+.calendar-title-container {
+  display: grid;
+  text-align: center;
+  background-color: #8aafa7;
+}
+
+.calendar-title {
+  font-size: 100px;
+}
+
 .calendar-wrapper {
   margin: auto;
   text-align: center;
+  display:grid;
+  width: 90%;
+  padding: 10px;
 }
 * {
   box-sizing: border-box;
@@ -13,7 +35,7 @@
 }
 
 .zoom:hover {
-  background-color: green;
+  background-color: #8aafa7;
   opacity: 0.5;
   -ms-transform: scale(1.5); /* IE 9 */
   -webkit-transform: scale(1.5); /* Safari 3-8 */
@@ -29,16 +51,23 @@
 }
 ::ng-deep .mat-calendar-body-label {
   color: black;
+  font-size: 50px;
 }
 
-::ng-deep .mat-calendar-body-disabled>.mat-calendar-body-cell-content:not(.mat-calendar-body-selected) {
+::ng-deep .mat-calendar-table-header tr th {
+  font-size: 50px;
+}
+
+::ng-deep
+  .mat-calendar-body-disabled
+  > .mat-calendar-body-cell-content:not(.mat-calendar-body-selected) {
   /* color: rgba(255,255,255,.5); */
   text-decoration: line-through;
-  color: red;
+  color: grey;
 }
 
 ::ng-deep .mat-calendar-body-selected {
-  background-color: green;
+  background-color: #8aafa7;
   color: #fff;
 }
 
@@ -49,4 +78,18 @@
 
 ::ng-deep .cdk-global-scrollblock {
   position: static;
+}
+
+::ng-deep .mat-calendar-period-button {
+  font-size: 50px;
+  display: grid;
+}
+
+::ng-deep .mat-calendar-body {
+  font-size: 50px;
+}
+
+// 
+::ng-deep .mat-dialog-container {
+  background-color: #8aafa7;
 }
