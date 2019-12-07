@@ -5,6 +5,19 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "06": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 46: Tiny Text and Wrapping up Calendar"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Commented out meta viewport. It was too restrictive in displaying."
+                }
+            ]
+        },
         "05": {
             "doesDataExist": true,
             "main_info": [
