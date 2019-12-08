@@ -5,6 +5,19 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "07": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 47: The 5 mile run"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5.09 miles in 58:20 minutes."
+                }
+            ]
+        },
         "06": {
             "doesDataExist": true,
             "main_info": [
