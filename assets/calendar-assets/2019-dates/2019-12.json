@@ -5,6 +5,23 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "08": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 48: Modifying the BLOG"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added blog header to the site."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Changing 'most recent' and 'browse vault' button display."
+                }
+            ]
+        },
         "07": {
             "doesDataExist": true,
             "main_info": [
