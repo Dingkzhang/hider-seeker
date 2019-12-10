@@ -5,6 +5,23 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "09": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 49: Wrapping up the Site"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed calendar navigation arrows."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Re-vamped blog layout."
+                }
+            ]
+        },
         "08": {
             "doesDataExist": true,
             "main_info": [
