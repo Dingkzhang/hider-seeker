@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1575950482523,
+  "timestamp": 1575950914172,
   "index": "https://ai-learning.io/index.html",
   "assetGroups": [
     {
@@ -8,7 +8,7 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://ai-learning.io/10.a42bc9531768132d6d95.js",
+        "https://ai-learning.io/10.1e64b709e55f0c96a16f.js",
         "https://ai-learning.io/6.757ce5f7f3802f682c71.js",
         "https://ai-learning.io/7.cc7078e78a4b2151a1dc.js",
         "https://ai-learning.io/8.4b56cc0f4d1730ca540f.js",
@@ -19,7 +19,7 @@
         "https://ai-learning.io/main.c987c58aadfd3aa7086e.js",
         "https://ai-learning.io/polyfills-es5.57bbf0b1919a7f52c907.js",
         "https://ai-learning.io/polyfills.d0ebd5c09feadd583ae6.js",
-        "https://ai-learning.io/runtime.d8a2ecd1f8a79bce11ef.js",
+        "https://ai-learning.io/runtime.1cf2aeb1560a9c91c23f.js",
         "https://ai-learning.io/styles.74b337982e635420395c.css"
       ],
       "patterns": []
@@ -79,7 +79,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://ai-learning.io/10.a42bc9531768132d6d95.js": "8362ff3a6324944448969abd016b65a069ad991d",
+    "https://ai-learning.io/10.1e64b709e55f0c96a16f.js": "89f57c6d403ecd210d589d2542b478c6b7f66e61",
     "https://ai-learning.io/6.757ce5f7f3802f682c71.js": "59cd1af1c9309777b1d4ad85c23b393ccd27f3da",
     "https://ai-learning.io/7.cc7078e78a4b2151a1dc.js": "3150b0183bf439be7210fc51f85e1e9e31088c8c",
     "https://ai-learning.io/8.4b56cc0f4d1730ca540f.js": "5f0e995a230ff5c0e6d1c7436303ab130e0828f0",
@@ -97,7 +97,7 @@
     "https://ai-learning.io/assets/blog-assets/stories/story_6.json": "15fea4a3d8ef00c0a60348db8e479b160609cfe8",
     "https://ai-learning.io/assets/calendar-assets/2019-dates/2019-10.json": "49f21c025aea253cb9ff32115c75e7856ba84049",
     "https://ai-learning.io/assets/calendar-assets/2019-dates/2019-11.json": "4dd29d87d73ca0ea82c8c70947794caff12f819c",
-    "https://ai-learning.io/assets/calendar-assets/2019-dates/2019-12.json": "c8f47b8125f561f963f52510a4696404030ec023",
+    "https://ai-learning.io/assets/calendar-assets/2019-dates/2019-12.json": "f2f691eed0aaea7eedba1d2656c869cb228ca46c",
     "https://ai-learning.io/assets/calendar-assets/2019-dates/2019-9.json": "6c2e8b86c0d2e94304b37257f2b2d8b1da043e1c",
     "https://ai-learning.io/assets/calendar-assets/2020-dates/2020-10.json": "a3e270834bdfd490415ef2388d5e602be1511876",
     "https://ai-learning.io/assets/calendar-assets/2020-dates/2020-11.json": "5f2c903a6f0f20ad2a5874ca2188fd0149dc9385",
@@ -130,11 +130,11 @@
     "https://ai-learning.io/assets/portfolio-assets/projects/project_8.json": "750496adeb2380a8dda931467452f67f2a64da2b",
     "https://ai-learning.io/assets/title-assets/Ninja-main-title-500x140.png": "55787622596ee3800b7b836bb27b8c5a6ef15625",
     "https://ai-learning.io/common.4b968ebfb59b6579bcb4.js": "362442f8f048b123d889983064cad2dc0edd17ca",
-    "https://ai-learning.io/index.html": "87ac4d5d105a92b2ec49e6b9803e38a89a1137b2",
+    "https://ai-learning.io/index.html": "67cdb944a9ba16f14f141543bdc1f4e746ac82f6",
     "https://ai-learning.io/main.c987c58aadfd3aa7086e.js": "31acf135b032168f4bf254e0e03ca83f9f2953b5",
     "https://ai-learning.io/polyfills-es5.57bbf0b1919a7f52c907.js": "e4071d832c3633f6312dae2dc5927a631dd60566",
     "https://ai-learning.io/polyfills.d0ebd5c09feadd583ae6.js": "f8022fcf27702cb52aa4781d6e692c86fb0d8a4c",
-    "https://ai-learning.io/runtime.d8a2ecd1f8a79bce11ef.js": "903b421c525cedc7f27b64f7a8629aa0f5a3afc1",
+    "https://ai-learning.io/runtime.1cf2aeb1560a9c91c23f.js": "a4957749217213ceb3b7173474f21ec48c33f0c5",
     "https://ai-learning.io/styles.74b337982e635420395c.css": "21606dc843886000ef5ac000192c1f8ab96772e3"
   },
   "navigationUrls": [
