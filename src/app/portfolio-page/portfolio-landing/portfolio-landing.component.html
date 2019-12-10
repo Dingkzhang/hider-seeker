@@ -1,4 +1,11 @@
-<div *ngIf="projectLibraryData !== null">
+<div class="portfolio-container">
+    <div class="portfolio-title-container">
+        <button mat-button>
+          <h1 class="portfolio-title">Portfolio</h1>
+        </button>
+      </div>
+
+  <div *ngIf="projectLibraryData !== null">
     <button
       mat-button
       class="prev-button"
@@ -36,4 +43,4 @@
       <!-- </button> -->
     </div>
   </div>
-  
+</div>

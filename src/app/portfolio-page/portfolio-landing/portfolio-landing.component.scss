@@ -1,3 +1,9 @@
+.portfolio-container {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+}
 .portfolio-dialog-content {
   margin: auto;
   margin-top: 20px;
@@ -10,6 +16,16 @@
 
   @media (hover: none) {
   }
+}
+
+.portfolio-title-container {
+  display: grid;
+  text-align: center;
+  background-color: #646886;
+}
+
+.portfolio-title {
+  font-size: 100px;
 }
 
 .image-thumbnail {
@@ -31,6 +47,10 @@ mat-card-title {
 
 mat-card-header-text {
   margin: auto;
+}
+
+mat-card-subtitle {
+  color: black;
 }
 
 // panel class start
