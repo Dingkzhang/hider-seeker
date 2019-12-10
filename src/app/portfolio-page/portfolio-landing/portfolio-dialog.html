@@ -1,4 +1,5 @@
-<div class= "custom-dialog-content mat-dialog-container"
+<div
+  class="custom-dialog-content mat-dialog-container"
   [ngStyle]="{'background-color': data.background_color, 'color': data.text_color}"
 >
   <div mat-dialog-actions class="dialog-actions"></div>
@@ -6,10 +7,13 @@
     <button class="close-button" mat-button (click)="onCloseClick()">
       <i class="fas fa-times"></i>
     </button>
-    <h1 mat-dialog-title class="title-info">{{data.title}}</h1>
-    <div  mat-dialog-content>
-      {{data.date}} : {{data.description}}
-      <div class="test-class" *ngFor="let info of mainInfoData">
+    <h1 mat-dialog-title class="dialog-title-info">{{data.title}}</h1>
+    <div mat-dialog-content>
+      <span class="dialog-description-info">
+        {{data.date}} : {{data.description}}
+      </span>
+
+      <div class="dialog-container" *ngFor="let info of mainInfoData">
         <p *ngIf="info.type === 'text'">
           {{info.paragraph}}
         </p>
