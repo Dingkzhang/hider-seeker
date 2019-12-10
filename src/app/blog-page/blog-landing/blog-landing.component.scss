@@ -1,31 +1,76 @@
-.prev-button {
-    position: fixed;
-    float: left;
-    left: 0%;
-    height:100%;
+.blog-container {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  min-width: 1000px;
+  margin: auto;
+  min-height: 1000px;
+}
 
-    @media all and (max-width: 675px) {
-        /* put your css styles in here */
-        opacity: 0.5;
-    };
+.blog-wrapper {
+  margin: auto;
+  text-align: center;
+  display: grid;
+  width: 90%;
+  padding: 10px;
+}
+
+.blog-title-container {
+  display: grid;
+  text-align: center;
+  background-color: #ddc8b2;
+}
+
+.blog-title {
+  font-size: 100px;
+}
+
+.blog-nav-button {
+  width: 50%;
+}
+
+.prev-button {
+  position: fixed;
+  float: left;
+  left: 0%;
+  height: 100%;
+
+  @media all and (max-width: 675px) {
+    /* put your css styles in here */
+    opacity: 0.5;
+  }
 }
 
 .next-button {
-    position: fixed;
-    float: right;
-    right: 0%;
-    height:100%;
+  position: fixed;
+  float: right;
+  right: 0%;
+  height: 100%;
 
-    @media all and (max-width: 675px) {
-        /* put your css styles in here */
-        opacity: 0.5;
-    };
+  @media all and (max-width: 675px) {
+    /* put your css styles in here */
+    opacity: 0.5;
+  }
 }
 
 .title-info {
-    text-align: center;
+  text-align: center;
 }
 
 .close-button.mat-button {
-    float:right;
+  float: right;
+}
+
+::ng-deep .mat-menu-panel {
+  background: #ddc8b2;
+}
+
+::ng-deep button.mat-menu-item {
+  width: 100%;
+  text-align: center;
+  color: black;
+}
+
+.paragraph-content {
+  text-align: justify;
 }

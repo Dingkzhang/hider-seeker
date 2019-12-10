@@ -5,6 +5,49 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "08": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 48: Modifying the BLOG"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added blog header to the site."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Changing 'most recent' and 'browse vault' button display."
+                }
+            ]
+        },
+        "07": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 47: The 5 mile run"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5.09 miles in 58:20 minutes."
+                }
+            ]
+        },
+        "06": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 46: Tiny Text and Wrapping up Calendar"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Commented out meta viewport. It was too restrictive in displaying."
+                }
+            ]
+        },
         "05": {
             "doesDataExist": true,
             "main_info": [
