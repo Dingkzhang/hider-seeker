@@ -1,14 +1,26 @@
 {
-    "total_index": "7",
+    "total_index": "8",
     "project_library": {
+        "8": [
+            {
+                "title": "Image Generation Based on Sound Wave Propagation",
+                "subtitle": "Capturing AI decision with falling numeric values",
+                "index_value": "8",
+                "date": "08/22/2019",
+                "background_color": "#8aafa7",
+                "text_color": "black",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque vulputate ligula, vitae placerat nulla sollicitudin sed. Duis ultricies vitae ipsum et tempor. Nam pharetra, justo a bibendum volutpat, neque massa luctus erat, auctor sagittis lectus nulla auctor metus. In pellentesque dictum lacus et semper. Maecenas lacinia ipsum nec purus interdum tempor. Duis eros nulla, vehicula nec est vitae, sollicitudin dictum sapien. Quisque imperdiet consequat mi non auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut tempus leo.",
+                "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
+            }
+        ],
         "7": [
             {
                 "title": "Dropping Fruit Reinforcement Learning Simulation",
                 "subtitle": "Capturing AI decision with falling numeric values",
                 "index_value": "7",
                 "date": "08/22/2019",
-                "background_color": "#7A9403",
-                "text_color": "#ffffff",
+                "background_color": "#c77a82d6",
+                "text_color": "black",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pellentesque vulputate ligula, vitae placerat nulla sollicitudin sed. Duis ultricies vitae ipsum et tempor. Nam pharetra, justo a bibendum volutpat, neque massa luctus erat, auctor sagittis lectus nulla auctor metus. In pellentesque dictum lacus et semper. Maecenas lacinia ipsum nec purus interdum tempor. Duis eros nulla, vehicula nec est vitae, sollicitudin dictum sapien. Quisque imperdiet consequat mi non auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec ut tempus leo.",
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
             }
@@ -19,8 +31,8 @@
                 "subtitle": "subtitle temp",
                 "index_value": "6",
                 "date": "08/22/2019",
-                "background_color": "#E79D0A",
-                "text_color": "#ffffff",
+                "background_color": "#f1eefb",
+                "text_color": "black",
                 "description": "La la la",
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
             }
@@ -31,8 +43,8 @@
                 "subtitle": "subtitle temp",
                 "index_value": "5",
                 "date": "07/22/2019",
-                "background_color": "#BB0F4B",
-                "text_color": "#ffffff",
+                "background_color": "#646886",
+                "text_color": "black",
                 "description": "La la la",
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
             }
@@ -43,8 +55,8 @@
                 "subtitle": "subtitle temp",
                 "index_value": "4",
                 "date": "06/22/2019",
-                "background_color": "#5C0465",
-                "text_color": "#ffffff",
+                "background_color": "#ddc8b2",
+                "text_color": "black",
                 "description": "La la la",
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
             }
@@ -55,8 +67,8 @@
                 "subtitle": "Used to determine how to assign numerical values to text.",
                 "index_value": "3",
                 "date": "05/22/2019",
-                "background_color": "#58bb7e",
-                "text_color": "#ffffff",
+                "background_color": "#8aafa7",
+                "text_color": "black",
                 "description": "Blah blah blah",
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
             }
@@ -67,8 +79,8 @@
                 "subtitle": "To determine percentage chance of UFC fighter winning the match.",
                 "index_value": "2",
                 "date": "04/22/2019",
-                "background_color": "#FF5733",
-                "text_color": "#ffffff",
+                "background_color": "#c77a82d6",
+                "text_color": "black",
                 "description": "Ha ha ha",
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba2.jpg"
             }
@@ -79,8 +91,8 @@
                 "subtitle": "subtitle temp",
                 "index_value": "1",
                 "date": "03/22/2019",
-                "background_color": "#3380FF",
-                "text_color": "#ffffff",
+                "background_color": "#f1eefb",
+                "text_color": "black",
                 "description": "La la la",
                 "image_thumbnail": "https://material.angular.io/assets/img/examples/shiba1.jpg"
             }

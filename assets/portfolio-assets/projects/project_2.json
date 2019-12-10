@@ -3,8 +3,8 @@
     "date": "05/12/2019",
     "title": "Project DDD",
     "description": "Placeholder description",
-    "background_color": "#FF5733",
-    "text_color": "#ffffff",
+    "background_color": "#c77a82d6",
+    "text_color": "black",
     "main_info": [
         {
             "type": "img",

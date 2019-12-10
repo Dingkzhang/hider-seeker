@@ -3,8 +3,8 @@
     "date": "05/29/2019",
     "title": "Project XD",
     "description": "Placeholder description",
-    "background_color": "#58bb7e",
-    "text_color": "#ffffff",
+    "background_color": "#8aafa7",
+    "text_color": "black",
     "main_info": [
         {
             "type": "text",

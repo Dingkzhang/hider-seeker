@@ -3,8 +3,8 @@
     "date": "04/29/2019",
     "title": "Project XCS",
     "description": "Placeholder description",
-    "background_color": "#3380FF",
-    "text_color": "#ffffff",
+    "background_color": "#f1eefb",
+    "text_color": "black",
     "main_info": [
         {
             "type": "text",
