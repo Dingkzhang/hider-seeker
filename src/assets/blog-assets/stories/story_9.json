@@ -22,19 +22,15 @@
         },
         {
             "type": "text",
+            "paragraph": "Get a better understanding of the mathmatical notations in research papers"
+        },
+        {
+            "type": "text",
             "paragraph": "Learn how to write research papers"
         },
         {
             "type": "text",
-            "paragraph": "Establish a baseline in argumentative logic"
-        },
-        {
-            "type": "text",
-            "paragraph": "Study fallacies and be able to apply different kinds of fallacies in everyday life"
-        },
-        {
-            "type": "text",
-            "paragraph": "Create a collection of research papers to read"
+            "paragraph": "Create a collection of research papers/AI articles to read"
         },
         {
             "type": "text",
@@ -42,7 +38,7 @@
         },
         {
             "type": "text",
-            "paragraph": "Read one research paper everyday"
+            "paragraph": "Read one article on AI technology everyday"
         }
     ]
 }
