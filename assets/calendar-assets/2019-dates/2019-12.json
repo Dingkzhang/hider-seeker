@@ -5,6 +5,31 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "10": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 50: Reflections from Sprint 2"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added blog entry with reflections of sprint 2"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Updated iteration page in about and posted an update in the blog section"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added stories for sprint 3"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 4.35 miles in 47:20 minutes"
+                }
+            ]
+        },
         "09": {
             "doesDataExist": true,
             "main_info": [

@@ -1,0 +1,76 @@
+{
+    "index": 8,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "12/10/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Sprint Iterations V3",
+    "description": "Update on roadmap for the year",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Added reading AI research paper to the third sprint and shifted everything else down. Combined PyTorch/Tensorflow into one section."
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 1 (10/22/19): Planning, Review, and Setup"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 2 (11/16/19): Re-designing Website Layout"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 3 (12/11/19): Research into current AI, Logic, and Grammar"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 4 (01/05/20): Dropping Fruit Game with Experience Replay and Deep Q-Learning"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 5 (01/30/20): RL with Convolutional Neural Network"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 6 (02/25/20): RL with Asynchronous Advantage Actor-Critic A3C"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 7 (03/21/20): RL with Long-Short Term Memory/Recurrent Neural Network"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 8 (04/15/20): Dive into Genetic Algorithms"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 9 (05/10/20): RL with OpenAI"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 10 (06/04/20): RL with PyTorch/TensorFlow"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 11 (06/29/20): RL with Gameboy Emulators"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 12 (07/24/20): Social RL"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 13 (08/18/20): RL with Unreal Engine"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 14 (09/12/20): Fixing Site and Submitting Graduate School Applications"
+        },
+        {
+            "type": "text",
+            "paragraph": "Section 15 (10/07/20): Fixing Site and Submitting Graduate School Applications"
+        }
+    ]
+}

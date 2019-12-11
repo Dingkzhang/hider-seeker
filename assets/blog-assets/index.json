@@ -1,6 +1,39 @@
 {
-    "total_index": "6",
+    "total_index": "9",
     "story_library": {
+        "9": [
+            {
+                "title": "Sprint 3: Reeeee-search",
+                "index_value": 9,
+                "date": "12/10/2019",
+                "description": "Research, Grammar, and Logic",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
+        "8": [
+            {
+                "title": "Sprint Iterations V3",
+                "index_value": 8,
+                "date": "12/10/2019",
+                "description": "Update on roadmap for the year",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
+        "7": [
+            {
+                "title": "Reflection 2",
+                "index_value": 7,
+                "date": "12/10/2019",
+                "description": "Reflection 2: Website completed, time for Reeeee-search.",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
         "6": [
             {
                 "title": "Backend with Django",
@@ -36,7 +69,7 @@
         ],
         "3": [
             {
-                "title": "Sprint 1 - Planning, Review, and Setup",
+                "title": "Sprint 1: Planning, Review, and Setup",
                 "index_value": 3,
                 "date": "10/22/2019",
                 "description": "Everyone needs a map for without a map where will you go?",
