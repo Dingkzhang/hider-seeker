@@ -1,0 +1,124 @@
+{
+    "index": 7,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "12/10/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Reflection 2",
+    "description": "The website is done! Time for Reeeee-search",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Goal: Prepare Portfolio for College Admission"
+        },
+        {
+            "type": "text",
+            "paragraph": "What is going well:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I was able to finish the simple design I wanted for my website. I like the color scheme and the header for my site."
+        },
+        {
+            "type": "text",
+            "paragraph": "What can be improved:"
+        },
+        {
+            "type": "text",
+            "paragraph": "Some of the CSS and typescript felt a bit rushed. I feel like there are better ways to modify the CSS to get what I want it to do. Also, I went the lazy route for calculating what month I am currently on. I used the average days of a month when flipping between the months. This solution will work the next couple of centuries but frowny face!"
+        },
+        {
+            "type": "text",
+            "paragraph": "What went wrong:"
+        },
+        {
+            "type": "text",
+            "paragraph": "There were a few nights where I had to stay up and grind a bit to figure out what was happening with my CSS. One of the things that frustrated me the most was when I was upgrading from Angular 7 to 8 and broke a lot of the dependencies. I had compilation issues and was angry at myself for not understanding the process."
+        },
+        {
+            "type": "text",
+            "paragraph": "Goal: Run a Marathon/Obtain Optimal Running Weight "
+        },
+        {
+            "type": "text",
+            "paragraph": "What is going well:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I can confidently say that I am on track. The current plan is to run X, X+1, X+2 kilometers each week on Tuesday, Thursday, and Saturday, respectively. At the end of the week, I would increment next week's run by X=X+1 and see how far I can go with this. As of today, I am currently on the 7 Km week and just finished running 7 km. Very proud of myself."
+        },
+        {
+            "type": "text",
+            "paragraph": "What can be improved:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I get hungry pretty often these days. Should be eating around 1000 calories before going to the gym running. Also, being light-headed is not a good sign even when trying to lose weight. I need to eat earlier for lunch to give it more time to digest."
+        },
+        {
+            "type": "text",
+            "paragraph": "What went wrong:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I need to limit the amount of food intake before going on a run."
+        },
+        {
+            "type": "text",
+            "paragraph": "Goal: Prepare the Outline for my Book on Decision-Making"
+        },
+        {
+            "type": "text",
+            "paragraph": "What is going well:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I added a few topics that I would want to write about in my notes. Listing out the core concepts is going pretty nicely."
+        },
+        {
+            "type": "text",
+            "paragraph": "What can be improved:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I need to improve my writing to achieve success."
+        },
+        {
+            "type": "text",
+            "paragraph": "What went wrong:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I need to dedicate more time to writing my thoughts out."
+        },
+        {
+            "type": "text",
+            "paragraph": "Goal: Reach/Stay in Grandmaster Tier in League of Legends for Season 10"
+        },
+        {
+            "type": "text",
+            "paragraph": "What is going well:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I played in the clash tournament and won the tier 2 division. I had a lot of fun playing with friends."
+        },
+        {
+            "type": "text",
+            "paragraph": "What can be improved:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I’m not putting in the time to learn the pre-season changes. I need to play more ranked games to get my skill back up to D1 status. Also, I am having trouble playing out the team fights."
+        },
+        {
+            "type": "text",
+            "paragraph": "What went wrong:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I need to put in more time to accomplish my goal for next season."
+        }
+    ]
+}

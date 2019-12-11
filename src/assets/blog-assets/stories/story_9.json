@@ -1,0 +1,48 @@
+{
+    "index": 9,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "12/10/2019",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Sprint 3: Reeeee-search",
+    "description": "Research, Grammar, and Logic",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Stories:"
+        },
+        {
+            "type": "text",
+            "paragraph": "Learn what it takes to become a researcher/phd candidate"
+        },
+        {
+            "type": "text",
+            "paragraph": "Learn how to read research papers"
+        },
+        {
+            "type": "text",
+            "paragraph": "Learn how to write research papers"
+        },
+        {
+            "type": "text",
+            "paragraph": "Establish a baseline in argumentative logic"
+        },
+        {
+            "type": "text",
+            "paragraph": "Study fallacies and be able to apply different kinds of fallacies in everyday life"
+        },
+        {
+            "type": "text",
+            "paragraph": "Create a collection of research papers to read"
+        },
+        {
+            "type": "text",
+            "paragraph": "Read one article from aldaily.com everyday"
+        },
+        {
+            "type": "text",
+            "paragraph": "Read one research paper everyday"
+        }
+    ]
+}
