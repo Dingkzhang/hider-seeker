@@ -5,6 +5,47 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "11": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 51: First day of Sprint 3"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Philosopher of the Human by Johnny Lyons (12/10/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Vladimir Nabokov’s Fighting Spirit by Jennifer Wilson (12/10/2019) "
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Walter Benjamin's Last Work by Samantha Rose Hill (12/09/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read On His Holiness's Service by Catherine Fletcher (12/10/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read articles online on how to read research papers"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Found sources online such as Google Scholar and arXiv to look for more research papers to read"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Found abstract pdf for the 2019 Reinforcement Learning and Decision Making Conference (Will be going in 2021!)"
+                }
+            ]
+        },
         "10": {
             "doesDataExist": true,
             "main_info": [
