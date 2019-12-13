@@ -30,6 +30,10 @@
                 },
                 {
                     "type": "text",
+                    "paragraph":"Read Open AI Five Dota2 Competition"
+                },
+                {
+                    "type": "text",
                     "paragraph": "Read How I Became a Machine Learning Practitioner by Greg Brockman (07/30/2019) (Very inspiring)"
                 }
             ]
