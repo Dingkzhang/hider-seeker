@@ -5,12 +5,45 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "12": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 52: Starcraft, Hide N Seek, and literature"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read a couple more guides on how to read science papers. Main idea, gist of paper, deep dive!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Finally Getting Somewhere by Jonathan Lynn (12/12/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Educating Rembrandt by Sue Prideaux (12/11/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Emergent Tool Use from Multi-agent Interaction (09/17/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph":"Read Open AI Five Dota2 Competition"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read How I Became a Machine Learning Practitioner by Greg Brockman (07/30/2019) (Very inspiring)"
+                }
+            ]
+        },
         "11": {
             "doesDataExist": true,
             "main_info": [
                 {
                     "type": "text",
-                    "paragraph": "Day 51: First day of Sprint 3"
+                    "paragraph": "Day 51: Starting out Strong"
                 },
                 {
                     "type": "text",
