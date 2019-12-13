@@ -14,7 +14,11 @@
                 },
                 {
                     "type": "text",
-                    "paragraph": "Read a couple more guides on how to read science papers. Main idea, gist of paper, deep dive!"
+                    "paragraph": "Read a couple more guides on how to read science papers. 1. Understand main idea, 2. Get gist of paper, 3. deep dive!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Watched Serral vs AlphaStar games."
                 },
                 {
                     "type": "text",
