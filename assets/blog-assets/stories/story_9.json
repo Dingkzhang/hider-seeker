@@ -14,15 +14,7 @@
         },
         {
             "type": "text",
-            "paragraph": "Learn what it takes to become a researcher/phd candidate"
-        },
-        {
-            "type": "text",
             "paragraph": "Learn how to read research papers"
-        },
-        {
-            "type": "text",
-            "paragraph": "Get a better understanding of the mathmatical notations in research papers"
         },
         {
             "type": "text",
@@ -30,15 +22,23 @@
         },
         {
             "type": "text",
+            "paragraph": "Learn what it takes to become a researcher/phd candidate"
+        },
+        {
+            "type": "text",
+            "paragraph": "Get a better understanding of the mathmatical notations in research papers"
+        },
+        {
+            "type": "text",
             "paragraph": "Create a collection of research papers/AI articles to read"
         },
         {
             "type": "text",
-            "paragraph": "Read one article from aldaily.com everyday"
+            "paragraph": "Read at least 1 literary article everyday"
         },
         {
             "type": "text",
-            "paragraph": "Read one article on AI technology everyday"
+            "paragraph": "Read at least 1 article on AI technology everyday (Do 2 research paper deep dives every week)"
         }
     ]
 }

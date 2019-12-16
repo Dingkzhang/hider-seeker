@@ -5,6 +5,72 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "15": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 53: Taking an easy day to recover"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Is there a Crisis of Truth by Steven Shapin (12/02/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read How we make complex decisions by Anne Trafton (05/16/2019)"
+                },
+                {
+                    "type" : "text",
+                    "paragraph" : "Read Why Self-Esteem Hurts Learning But Self-Confidence Does the Opposite by Saga Briggs (12/15/2019)"
+                }
+            ]
+        },
+        "14": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 52: Not letting yesterday get to me"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Unmerited by Nichloas Lemann (January/February 2020 Foreign Affairs)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The crimes of Jean Genet by John Gray (12/11/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Updated Sprint 3 blog post with 2 deep dives on research papers every week."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Re-read How to Read a Paper by S. Kehsav (06/26/2012)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Learning Dexterous In-hand Manipulation by OpenAI (01/18/2019) (3rd Pass)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Did a first and second pass on Proximal Policy Optimization Algorithsm (08/28/2017) (Difficult to understand)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read PPO Overivew by OpenAI(07/20/2017) (Difficult to understand)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Won tier 1 clash tourney in League of Legends. Yay!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5.60 miles in 1:08:29"
+                }
+            ]
+        },
         "13": {
             "doesDataExist": true,
             "main_info": [
@@ -31,6 +97,10 @@
                 {
                     "type": "text",
                     "paragraph": "Finished watching Serral vs AlphaStar"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Played 1 ranked game. (BOT: Xayah Loss D4 Elo)"
                 }
             ]
         },
