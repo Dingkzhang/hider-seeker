@@ -5,6 +5,31 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "16": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 54: Reading some Decision-making articles"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The 7 Habits of Highly Effective People Summary on QuickMBA"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "A 'Mic Drop' on a Theory of Language Evolution by Rachel Gutman (12/12/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Curious Case of the U.S. Government's Influence on 20th-Century Design by Nikil Saval (12/11/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on The Hanabi Challenge: A New Frontier for AI Research (12/06/2019)"
+                }
+            ]
+        },
         "15": {
             "doesDataExist": true,
             "main_info": [
