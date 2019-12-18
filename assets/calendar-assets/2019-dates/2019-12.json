@@ -5,6 +5,51 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "17": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 55: Recurrent Neural Networks and Papers"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Seeing Ourselves in a Chimpanzee's Art by Tim Keane (12/14/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read House Style by Edward Sorel (12/14/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Letter from President Trump to Nancy Pelosi by Donald Trump (12/17/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Tackling Climate Change with Machine Learning (11/05/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning (06/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Recurrent Neural Networks Tutorial, Part 1 - Introduction to RNNs by WildML (09/17/2015)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Recurrent Neural Networks Tutorial, Part 2 - Implementing a RNN with Python, Numpy, and Theano by WildML (09/30/2015) (Need to re-read this one)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read How Recurrent Neural Networks Work by Simeon Kostadinov (09/02/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Understadning the Recurrent Neural Network by Amit Shekhar (04/14/2018)"
+                }
+            ]
+        },
         "16": {
             "doesDataExist": true,
             "main_info": [
