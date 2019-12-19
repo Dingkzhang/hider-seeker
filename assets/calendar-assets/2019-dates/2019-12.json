@@ -5,6 +5,35 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "18": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 56: Moved my Habaneros to Pots, Presidential Impeachment, More Papers"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on The Hanabi Challenge: A New Frontier for AI Research (12/06/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1nd pass on Theory of Minds: Understanding Behavior in Groups Through Inverse Planning (01/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1nd pass on People Teach with Rewards and Punishments as Communication not Reinforcements (12/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1nd pass on Convergent Actor Critic by Humans (2016)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Art of Dying by Peter Schjeldahl (12/16/2019)"
+                }
+            ]
+        },
         "17": {
             "doesDataExist": true,
             "main_info": [
@@ -47,6 +76,10 @@
                 {
                     "type": "text",
                     "paragraph": "Read Understanding the Recurrent Neural Network by Amit Shekhar (04/14/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5.07 miles in 52:04"
                 }
             ]
         },
