@@ -5,6 +5,51 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "19": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 57: Car Research and Research Papers"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1nd pass on Dopamine: A Research Framework for Deep Reinforcement Learning (12/14/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1nd pass on Rainbow: Combining Improvements in Deep Reinforcement Learning (10/06/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning (06/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Digusting New Campus Novel by Kristina Quynn (12/16/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Thomas Mann In America by Elizabeth Powers (12/05/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Bodily Curiosities by Joseph Epstein (Intended Release: 01/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Throw your Testicles by Tom Shippey (12/19/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read How Kendall Jenner Became the Patron Saint of Alternative Literature by Andrea Whittle (12/17/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5.78 miles in 01:07:02"
+                }
+            ]
+        },
         "18": {
             "doesDataExist": true,
             "main_info": [
@@ -124,8 +169,8 @@
                     "paragraph": "Read How we make complex decisions by Anne Trafton (05/16/2019)"
                 },
                 {
-                    "type" : "text",
-                    "paragraph" : "Read Why Self-Esteem Hurts Learning But Self-Confidence Does the Opposite by Saga Briggs (12/15/2019)"
+                    "type": "text",
+                    "paragraph": "Read Why Self-Esteem Hurts Learning But Self-Confidence Does the Opposite by Saga Briggs (12/15/2019)"
                 }
             ]
         },
@@ -236,7 +281,7 @@
                 },
                 {
                     "type": "text",
-                    "paragraph":"Read Open AI Five Dota2 Competition"
+                    "paragraph": "Read Open AI Five Dota2 Competition"
                 },
                 {
                     "type": "text",
