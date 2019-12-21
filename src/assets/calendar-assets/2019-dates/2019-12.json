@@ -5,6 +5,299 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "21": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 59: Hanabi Paper. (Board games yay!)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Nationalist Anthems by Sudip Bose (12/02/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Model Based Reinforcement Learning for Atari (06/11/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Personalized Education at Scale (09/24/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "3rd pass on The Hanabi Challenge: A New Frontier for AI Research (12/06/2019)"
+                }
+            ]
+        },
+        "20": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 58: Read About the Buddha and some Science Fiction Literature"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Who was the Buddha by Sam Dresser (12/17/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Science Fiction's Wonderful Mistakes by Scott Bradfield (12/16/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Efficient Exploration through Bayesian Deep Q-Networks (09/06/2019)"
+                }
+            ]
+        },
+        "19": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 57: Car Research and Research Papers"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1nd pass on Dopamine: A Research Framework for Deep Reinforcement Learning (12/14/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1nd pass on Rainbow: Combining Improvements in Deep Reinforcement Learning (10/06/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning (06/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Digusting New Campus Novel by Kristina Quynn (12/16/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Thomas Mann In America by Elizabeth Powers (12/05/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Bodily Curiosities by Joseph Epstein (Intended Release: 01/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Throw your Testicles by Tom Shippey (12/19/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read How Kendall Jenner Became the Patron Saint of Alternative Literature by Andrea Whittle (12/17/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5.78 miles in 01:07:02"
+                }
+            ]
+        },
+        "18": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 56: Moved my Habaneros to Pots, Presidential Impeachment, More Papers"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on The Hanabi Challenge: A New Frontier for AI Research (12/06/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1nd pass on Theory of Minds: Understanding Behavior in Groups Through Inverse Planning (01/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1nd pass on People Teach with Rewards and Punishments as Communication not Reinforcements (12/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1nd pass on Convergent Actor Critic by Humans (2016)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Art of Dying by Peter Schjeldahl (12/16/2019)"
+                }
+            ]
+        },
+        "17": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 55: Recurrent Neural Networks and Papers"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Seeing Ourselves in a Chimpanzee's Art by Tim Keane (12/14/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read House Style by Edward Sorel (12/14/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Letter from President Trump to Nancy Pelosi by Donald Trump (12/17/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Tackling Climate Change with Machine Learning (11/05/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning (06/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Recurrent Neural Networks Tutorial, Part 1 - Introduction to RNNs by WildML (09/17/2015)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Recurrent Neural Networks Tutorial, Part 2 - Implementing a RNN with Python, Numpy, and Theano by WildML (09/30/2015) (Need to re-read this one)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read How Recurrent Neural Networks Work by Simeon Kostadinov (09/02/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Understanding the Recurrent Neural Network by Amit Shekhar (04/14/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5.07 miles in 52:04"
+                }
+            ]
+        },
+        "16": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 54: Reading some Decision-making articles"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The 7 Habits of Highly Effective People Summary on QuickMBA"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "A 'Mic Drop' on a Theory of Language Evolution by Rachel Gutman (12/12/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Curious Case of the U.S. Government's Influence on 20th-Century Design by Nikil Saval (12/11/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on The Hanabi Challenge: A New Frontier for AI Research (12/06/2019)"
+                }
+            ]
+        },
+        "15": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 53: Taking an easy day to recover"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Is there a Crisis of Truth by Steven Shapin (12/02/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read How we make complex decisions by Anne Trafton (05/16/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Why Self-Esteem Hurts Learning But Self-Confidence Does the Opposite by Saga Briggs (12/15/2019)"
+                }
+            ]
+        },
+        "14": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 52: Not letting yesterday get to me"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Unmerited by Nichloas Lemann (January/February 2020 Foreign Affairs)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The crimes of Jean Genet by John Gray (12/11/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Updated Sprint 3 blog post with 2 deep dives on research papers every week."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Re-read How to Read a Paper by S. Kehsav (06/26/2012)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Learning Dexterous In-hand Manipulation by OpenAI (01/18/2019) (3rd Pass)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Did a first and second pass on Proximal Policy Optimization Algorithsm (08/28/2017) (Difficult to understand)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read PPO Overivew by OpenAI(07/20/2017) (Difficult to understand)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Won tier 1 clash tourney in League of Legends. Yay!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5.60 miles in 1:08:29"
+                }
+            ]
+        },
+        "13": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 52: Feeling a bit blue today"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Divine Medicine by George Scialabba (12/12/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Revelation and Return: Sixty Years of Grace Paley’s The Little Disturbances of Man by Justin Taylor (12/11/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Learning Dexterity from OpenAI (07/30/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Learning Dexterity In-Hand Manipulation (Pass I and II) (07/30/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished watching Serral vs AlphaStar"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Played 1 ranked game. (BOT: Xayah Loss D4 Elo)"
+                }
+            ]
+        },
         "12": {
             "doesDataExist": true,
             "main_info": [
@@ -34,11 +327,19 @@
                 },
                 {
                     "type": "text",
-                    "paragraph":"Read Open AI Five Dota2 Competition"
+                    "paragraph": "Read Open AI Five Dota2 Competition"
                 },
                 {
                     "type": "text",
                     "paragraph": "Read How I Became a Machine Learning Practitioner by Greg Brockman (07/30/2019) (Very inspiring)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Played 1 ranked game. (BOT: Tristana Win D4 Elo)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5 miles in 47:00 minutes"
                 }
             ]
         },
@@ -80,6 +381,10 @@
                 {
                     "type": "text",
                     "paragraph": "Found abstract pdf for the 2019 Reinforcement Learning and Decision Making Conference (Will be going in 2021!)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Played 1 ranked game. (SUPPORT: Nautilus Win D4 Elo)"
                 }
             ]
         },
