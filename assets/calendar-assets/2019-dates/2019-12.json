@@ -5,6 +5,52 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "21": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 59: Hanabi Paper. (Board games yay!)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Nationalist Anthems by Sudip Bose (12/02/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Model Based Reinforcement Learning for Atari (06/11/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Personalized Education at Scale (09/24/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "3rd pass on The Hanabi Challenge: A New Frontier for AI Research (12/06/2019)"
+                }
+            ]
+        },
+        "20": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 58: Read About the Buddha and some Science Fiction Literature"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Who was the Buddha by Sam Dresser (12/17/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Science Fiction's Wonderful Mistakes by Scott Bradfield (12/16/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Efficient Exploration through Bayesian Deep Q-Networks (09/06/2019)"
+                }
+            ]
+        },
         "19": {
             "doesDataExist": true,
             "main_info": [
