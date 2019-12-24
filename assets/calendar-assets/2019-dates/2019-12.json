@@ -5,6 +5,51 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "23": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 61: A lot of reading today. Good job Ding"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Sound and the Story, Exploring the World of Paradise Lost by Philip Pullman (12/10/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Penguin Book of Oulipo Review - writing, a User's Manual by Tony White (12/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Using Reward Machines for High-Level Task Specification and Decomposition in Reinforcement Learning (Missing Date)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Replay Comes of Age by David J. Foster (2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Personalized HeartSteps: A Reinforcement Learning Algorithm for Optimizing Physcial Activity (09/08/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on The Emerging Neuroscience of Appetitive and Drug Cue Extinction in Humans by Anna B. Konova (06/26/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic (02/24/2014)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Distributional Reinforcement Learning with Quantile Regression (10/27/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Rainbow: Combining Improvements in Deep Reinforcement Learning (10/06/2017)"
+                }
+            ]
+        },
         "22": {
             "doesDataExist": true,
             "main_info": [
@@ -22,11 +67,11 @@
                 },
                 {
                     "type": "text",
-                    "paragraph": "Read Is Virtue Signalling a Perversion of Morality by Neil Levy (11/29/2019)"
+                    "paragraph": "Read Is Virtue Signaling a Perversion of Morality by Neil Levy (11/29/2019)"
                 },
                 {
                     "type": "text",
-                    "paragraph": "3rd pass onSocial Influence as Intrinsic Motivation for Multi-Agent Deep RL (06/18/2019)"
+                    "paragraph": "3rd pass on Social Influence as Intrinsic Motivation for Multi-Agent Deep RL (06/18/2019)"
                 },
                 {
                     "type": "text",
