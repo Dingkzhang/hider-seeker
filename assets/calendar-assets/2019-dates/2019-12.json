@@ -5,6 +5,27 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "25": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 63: Merry Christmas Everyone :0"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Fire and Brimstone by Jillian Steinhauer (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Working Memory Contributions to Reinforcement Learning Impairments in Schizophrenia (10/08/2014)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Reviewed some deep reinforcement learning fundamentals from Deep Lizard (https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)"
+                },
+            ]
+        },
         "24": {
             "doesDataExist": true,
             "main_info": [
@@ -39,6 +60,10 @@
                 {
                     "type": "text",
                     "paragraph": "2nd pass on Theory of Minds: Understanding Behavior in Groups Through Inverse Planning (01/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Reviewed some simple reinforcement learning fundamentals from Deep Lizard (https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)"
                 },
                 {
                     "type": "text",
