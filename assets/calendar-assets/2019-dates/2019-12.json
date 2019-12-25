@@ -5,6 +5,47 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "24": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 62: Friends, Running, and Reading"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Strange Properties and Histories of the Magic Hat by Drake Stutesman (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Beholding Virginia Woolf Through the Women in Her Life by Claire Jarvis (12/20/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Most Scathing Reviews of 2019 by Book Marks (12/20/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on NeurIPS 2019 Competition (07/29/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Reinforcement Learning Models of Risky Choice and the Promotion of Risk-taking by Losses-disguised-as-wins in Rats (07/01/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Intrinsically Motivated Goal Exploration Processes with Automatic Curriculum Learning (08/07/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Theory of Minds: Understanding Behavior in Groups Through Inverse Planning (01/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5.65 miles in 1:01:50"
+                }
+            ]
+        },
         "23": {
             "doesDataExist": true,
             "main_info": [
