@@ -5,6 +5,43 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "26": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 64: After Christmas Car Shopping"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Field Guide toTyranny by Adam Gopnik (12/16/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read An Intimate Look at the Scandal that Tore Apart a Literary Power Couple by Trol Jollimore (12/19/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read review of Cold Warriors by John Mullan (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Striving for Simplicity in Off-Policy Deep Reinforcement Learning (10/01/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Off-Policy Deep Reinforcement Learning without Exploration (08/10/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Playing Atari with Deep Reinforcement Learning (12/19/2013)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 6.23 miles in 1:17:38"
+                }
+            ]
+        },
         "25": {
             "doesDataExist": true,
             "main_info": [
