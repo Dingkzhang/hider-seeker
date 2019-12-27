@@ -5,6 +5,27 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "27": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 65: Guess no more car shopping :o"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Problem with Letters of Recommendation by Agnes Callard (12/26/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Convergent Actor Critic by Humans (No Date Found)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Laid foundation for Dropping Fruit RL game. Starting Section 3 of roadmap a few days earlier than intended."
+                }
+            ]
+        },
         "26": {
             "doesDataExist": true,
             "main_info": [
@@ -35,6 +56,10 @@
                 {
                     "type": "text",
                     "paragraph": "1st pass on Playing Atari with Deep Reinforcement Learning (12/19/2013)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Reviewed my old titanic neural network project"
                 },
                 {
                     "type": "text",
