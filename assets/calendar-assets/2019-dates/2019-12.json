@@ -5,6 +5,60 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "29": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 67: Last day till I go back to work. (Wah!)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Cinema of Inadvertence, or Why I like Bad Movies by Phil Christman (Fall 2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "3rd pass on Rainbow: Combining Improvements in Deep Reinforcement Learning (10/06/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 7 miles in 1:31:15"
+                }
+            ]
+        },
+        "28": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 66: Church party and visiting some family friends"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Unpredictable Cactus by Emily Witt (To be Published in the London Review of Books on 01/02/2020) "
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The 2010s were supposed to bring the Ebook Evolution. It Never Quite Came. By Constance Grady (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Faulty Reward Functions in the Wild (12/21/2016)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Concrete AI Safety Problems (06/21/2016)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Discrete and Continuous Action Representation for Practical RL in Video Games (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "3rd pass on Personalized Education at Scale (09/24/2018)"
+                }
+            ]
+        },
         "27": {
             "doesDataExist": true,
             "main_info": [
