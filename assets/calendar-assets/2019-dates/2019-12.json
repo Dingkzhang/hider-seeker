@@ -5,6 +5,27 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "30": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 68: Looked through hours of recommended literature books... Bought 3 books on decision-making >.<"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Can Monoculture Survive the Algorithm by Kyle Chayka (I did not like this article. Felt all over the place.) (12/17/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "From The Big Short to Normal People: the books that defined the decade by Alex Clark (12/26/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Started reading Deep Reinforcement Learning by Yuxi Li (10/15/2018)"
+                }
+            ]
+        },
         "29": {
             "doesDataExist": true,
             "main_info": [
