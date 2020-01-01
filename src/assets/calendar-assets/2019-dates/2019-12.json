@@ -5,6 +5,308 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "31": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 69: Last day of the year hurray"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The jokes always saved us: humour in the time of Stalin by Jonathan WaterLow (12/11/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read A troll avant la lettre by Luke Warde (12/01/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Browsed through Deep Reinforcement Learning by Yuxi Li (10/15/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Worked on the Dropping Fruit Game (DQN). Created the initial functions and structure for the overall game"
+                }
+            ]
+        },
+        "30": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 68: Looked through hours of recommended literature books... Bought 3 books on decision-making >.<"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Can Monoculture Survive the Algorithm by Kyle Chayka (I did not like this article. Felt all over the place.) (12/17/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "From The Big Short to Normal People: the books that defined the decade by Alex Clark (12/26/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Started reading Deep Reinforcement Learning by Yuxi Li (10/15/2018)"
+                }
+            ]
+        },
+        "29": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 67: Last day till I go back to work. (Wah!)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Cinema of Inadvertence, or Why I like Bad Movies by Phil Christman (Fall 2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "3rd pass on Rainbow: Combining Improvements in Deep Reinforcement Learning (10/06/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 7 miles in 1:31:15"
+                }
+            ]
+        },
+        "28": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 66: Church party and visiting some family friends"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Unpredictable Cactus by Emily Witt (To be Published in the London Review of Books on 01/02/2020) "
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The 2010s were supposed to bring the Ebook Evolution. It Never Quite Came. By Constance Grady (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Faulty Reward Functions in the Wild (12/21/2016)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Concrete AI Safety Problems (06/21/2016)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Discrete and Continuous Action Representation for Practical RL in Video Games (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "3rd pass on Personalized Education at Scale (09/24/2018)"
+                }
+            ]
+        },
+        "27": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 65: Guess no more car shopping :o"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Problem with Letters of Recommendation by Agnes Callard (12/26/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Convergent Actor Critic by Humans (No Date Found)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Laid foundation for Dropping Fruit RL game. Starting Section 3 of roadmap a few days earlier than intended."
+                }
+            ]
+        },
+        "26": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 64: After Christmas Car Shopping"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Field Guide toTyranny by Adam Gopnik (12/16/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read An Intimate Look at the Scandal that Tore Apart a Literary Power Couple by Trol Jollimore (12/19/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read review of Cold Warriors by John Mullan (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Striving for Simplicity in Off-Policy Deep Reinforcement Learning (10/01/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Off-Policy Deep Reinforcement Learning without Exploration (08/10/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Playing Atari with Deep Reinforcement Learning (12/19/2013)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Reviewed my old titanic neural network project"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 6.23 miles in 1:17:38"
+                }
+            ]
+        },
+        "25": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 63: Merry Christmas Everyone :0"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Fire and Brimstone by Jillian Steinhauer (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Working Memory Contributions to Reinforcement Learning Impairments in Schizophrenia (10/08/2014)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Reviewed some deep reinforcement learning fundamentals from Deep Lizard (https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)"
+                }
+            ]
+        },
+        "24": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 62: Friends, Running, and Reading"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Strange Properties and Histories of the Magic Hat by Drake Stutesman (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Beholding Virginia Woolf Through the Women in Her Life by Claire Jarvis (12/20/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Most Scathing Reviews of 2019 by Book Marks (12/20/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on NeurIPS 2019 Competition (07/29/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Reinforcement Learning Models of Risky Choice and the Promotion of Risk-taking by Losses-disguised-as-wins in Rats (07/01/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Intrinsically Motivated Goal Exploration Processes with Automatic Curriculum Learning (08/07/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Theory of Minds: Understanding Behavior in Groups Through Inverse Planning (01/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Reviewed some simple reinforcement learning fundamentals from Deep Lizard (https://deeplizard.com/learn/playlist/PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5.65 miles in 1:01:50"
+                }
+            ]
+        },
+        "23": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 61: A lot of reading today. Good job Ding"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Sound and the Story, Exploring the World of Paradise Lost by Philip Pullman (12/10/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Penguin Book of Oulipo Review - writing, a User's Manual by Tony White (12/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Using Reward Machines for High-Level Task Specification and Decomposition in Reinforcement Learning (Missing Date)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Replay Comes of Age by David J. Foster (2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Personalized HeartSteps: A Reinforcement Learning Algorithm for Optimizing Physcial Activity (09/08/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on The Emerging Neuroscience of Appetitive and Drug Cue Extinction in Humans by Anna B. Konova (06/26/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Rational Use of Cognitive Resources: Levels of Analysis Between the Computational and the Algorithmic (02/24/2014)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Distributional Reinforcement Learning with Quantile Regression (10/27/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Rainbow: Combining Improvements in Deep Reinforcement Learning (10/06/2017)"
+                }
+            ]
+        },
+        "22": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 60: Christmas Present shopping and some research"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read New Book Claims Albert Camus was Murdered by the KGB by Alison Flood (12/05/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read What is to be Done About the Problem of Creepy Men by Heidi Matthews (11/15/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Is Virtue Signaling a Perversion of Morality by Neil Levy (11/29/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "3rd pass on Social Influence as Intrinsic Motivation for Multi-Agent Deep RL (06/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 6.23 miles in 1:11:47"
+                }
+            ]
+        },
         "21": {
             "doesDataExist": true,
             "main_info": [

@@ -1,0 +1,52 @@
+{
+    "index": 4,
+    "month_int": "01",
+    "month_name": "January",
+    "year_int": "2020",
+    "total_days": "31",
+    "date_name_start": "Wednesday",
+    "date_name_end": "Friday",
+    "calendar_info": {
+        "01": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 70: First day of 2020, Morning Run, and More Coding"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Homeless Radical by Jacob Hamburger, Daniel Steinmetz-Jenkins (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Historian of Moral Revolution by David Brooks (12/31/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Daffodils & Telephones Directories by Kevin Jackson (12/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on The Arcade Learning Environment: An Evaluation Platform for General Agents (06/21/2013)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Multi-Goal Reinforcement Learning: Challenging Robotics Environments and Request for Research (03/10/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on A Survey of Deep Reinforcement Learning in Video Games (12/26/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Worked on the Dropping Fruit Game"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 6.22 miles in 1:09:50"
+                }
+            ]
+        }
+    }
+}
