@@ -5,6 +5,31 @@
     "year_int": "2019",
     "total_days": "31",
     "calendar_info": {
+        "31": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 69: Last day of the year hurray"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The jokes always saved us: humour in the time of Stalin by Jonathan WaterLow (12/11/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read A troll avant la lettre by Luke Warde (12/01/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Browsed through Deep Reinforcement Learning by Yuxi Li (10/15/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Worked on the Dropping Fruit Game (DQN)"
+                }
+            ]
+        },
         "30": {
             "doesDataExist": true,
             "main_info": [
