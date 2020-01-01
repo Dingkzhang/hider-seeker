@@ -9,7 +9,7 @@
                 "01": {
                     "doesExist":true,
                     "year": "2020",
-                    "month_int": "01",
+                    "month_int": "1",
                     "month_string": "January",
                     "image_thumbnail": ""
                 }
