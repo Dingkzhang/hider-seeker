@@ -6,7 +6,7 @@
     "calendar_library": {
         "2020": [
             {
-                "01": {
+                "1": {
                     "doesExist":true,
                     "year": "2020",
                     "month_int": "1",
