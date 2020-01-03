@@ -7,12 +7,49 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "02": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 73: I misnumbered by 2 days!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Correct a Day: ## numbering error where I numbered 52, 52, 52, 53..."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Philosopher in the Ring by Steven Knepper (12/21/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Asian-American Canon Breakers by Hua Hsu (12/30/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read All About the Mankiewiczes by Terry Teachout (01/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "So it has been deleted! I actually can't get my code back after I tried pushing it to gitlab and I was seeing what would happen if I didn't set the ssh key. Deleted the folder where my code was located. :\\"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Graph Neural Netowrks: A Review of Methods and Applications (07/10/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Worked on Dropping Fruit game setup.py function"
+                }
+            ]
+        },
         "01": {
             "doesDataExist": true,
             "main_info": [
                 {
                     "type": "text",
-                    "paragraph": "Day 70: First day of 2020, Morning Run, and More Coding"
+                    "paragraph": "Day 72: First day of 2020, Morning Run, and More Coding"
                 },
                 {
                     "type": "text",
@@ -37,6 +74,22 @@
                 {
                     "type": "text",
                     "paragraph": "1st pass on A Survey of Deep Reinforcement Learning in Video Games (12/26/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Literally deleted my dropping fruit project using gitlab. Gone Forever! So dumb Ding AHHHHHHHH"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Created gitlab account/project and created virtual environment for python project"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Made new dropping fruit game folder and pushed to gitlab"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Re-wrote map_gen.py function for Dropping Fruit game"
                 },
                 {
                     "type": "text",
