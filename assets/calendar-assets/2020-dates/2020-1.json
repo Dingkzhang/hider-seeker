@@ -7,6 +7,39 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "03": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 74: Running like a sick man"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Rupi Kaur Is the Writer of the Decade by Rumaan Alam (12/23/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read How the 2010s Killed the Celebrity Gossip Machine By Anne Helen Peterson (12/26/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The world is not enough by Samuel Graydon (01/03/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Unifying Count-Based Exploration and Intrinsic Motivation (06/06/2016) (Math really was kinda confusing for me)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added way to store and read experience_replay in csv"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 2.80 miles in 30 minutes. Weighed 158.2 lbs! (Was not feeling well today) "
+                }
+            ]
+        },
         "02": {
             "doesDataExist": true,
             "main_info": [

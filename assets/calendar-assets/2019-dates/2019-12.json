@@ -27,7 +27,11 @@
                 {
                     "type": "text",
                     "paragraph": "Worked on the Dropping Fruit Game (DQN). Created the initial functions and structure for the overall game"
-                }
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Adjusted weight goals to match current trajectory."
+                },
             ]
         },
         "30": {
