@@ -1,6 +1,17 @@
 {
-    "total_index": "9",
+    "total_index": "10",
     "story_library": {
+        "10": [
+            {
+                "title": "Reflections for Sprint 3",
+                "index_value": 10,
+                "date": "01/05/2020",
+                "description": "Looking back on all the papers.",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
         "9": [
             {
                 "title": "Sprint 3: Reeeee-search",

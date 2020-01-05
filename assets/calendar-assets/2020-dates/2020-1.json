@@ -7,6 +7,31 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "04": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 75: Running like a champ"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read How Will History Books Remember the 2010s? by Politico Magazine (12/27/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "The Midlife Crisis of the American Restaurant Review by Theodore Gioia (12/31/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added reflections section for sprint 3"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Model Based Reinforcement Learning for Atari (06/11/2019)"
+                }
+            ]
+        },
         "03": {
             "doesDataExist": true,
             "main_info": [
@@ -49,7 +74,7 @@
                 },
                 {
                     "type": "text",
-                    "paragraph": "Correct a Day: ## numbering error where I numbered 52, 52, 52, 53..."
+                    "paragraph": "Correct a numbering error where I numbered 52, 52, 52, 53..."
                 },
                 {
                     "type": "text",

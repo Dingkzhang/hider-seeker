@@ -1,0 +1,67 @@
+{
+    "index": 10,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "01/05/2020",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Reflections for Sprint 3",
+    "description": "Looking back on all the papers.",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Goal: Prepare Portfolio for College Admission"
+        },
+        {
+            "type": "text",
+            "paragraph": "What is going well:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I went into the start of this sprint with hesitation. Now that I am here on the last day of Sprint  3, I feel pretty confident in reading papers. Overall, I'm proud of myself for sticking to my regiment of reading at least one paper a day."
+        },
+        {
+            "type": "text",
+            "paragraph": "What can be improved:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I need to work on understanding the math better and not shy away from long papers. Also, I need to slow down on my reading to absorb the information and make connections with how it relates to what I have learned already."
+        },
+        {
+            "type": "text",
+            "paragraph": "What went wrong:"
+        },
+        {
+            "type": "text",
+            "paragraph": "Nothing major went wrong this sprint."
+        },
+        {
+            "type": "text",
+            "paragraph": "Goal: Run a Marathon/Obtain Optimal Running Weight"
+        },
+        {
+            "type": "text",
+            "paragraph": "What is going well:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I hit my goal of 10 km by the end of the month."
+        },
+        {
+            "type": "text",
+            "paragraph": "What can be improved:"
+        },
+        {
+            "type": "text",
+            "paragraph": "Need to run faster overall."
+        },
+        {
+            "type": "text",
+            "paragraph": "What went wrong:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I felt a bit sick from running at the end of this weekend. It might be something I ate."
+    ]
+}
