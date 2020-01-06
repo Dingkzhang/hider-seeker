@@ -7,6 +7,51 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "05": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 76: Start of Sprint 4"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Who'd want to be friends with a robot? by Time Smith-Laing (06/22/2018) (Felt like the article itself was the bully.)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Mystery of Go, the Ancient Game that Computers Still Can't Win by Alan Levinovitz (05/12/2014)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read 'Like A God,' Google AI Beats Human Champ Of Notoriously Complex Go Game (05/23/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Playing Atari with Deep Reinforcement Learning (12/19/2013) (Good Starting point for Sprint 4)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished Reflections for Sprint 3."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added Sprint 4 Stories"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Worked on Defining the input nodes for Dropping Fruit Game"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5 miles in 1:01:36"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 2.5 miles in 28:53 (I gassed out hard after the first 5 miles and had to take a 5 minutes break.)"
+                }
+            ]
+        },
         "04": {
             "doesDataExist": true,
             "main_info": [

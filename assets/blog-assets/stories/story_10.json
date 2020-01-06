@@ -54,7 +54,7 @@
         },
         {
             "type": "text",
-            "paragraph": "Need to run faster overall."
+            "paragraph": "Need to run faster overall. Also, I need to eat less after running. I often go over my calorie limit (1700) after a long run and is the main reason why I am 1 lb over my goal."
         },
         {
             "type": "text",
@@ -63,5 +63,82 @@
         {
             "type": "text",
             "paragraph": "I felt a bit sick from running at the end of this weekend. It might be something I ate."
+        
+        },
+        {
+            "type": "text",
+            "paragraph": "Goal: Prepare the Outline for my Book on Decision-making"
+        },
+        {
+            "type": "text",
+            "paragraph": "What is going well:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I've entered a few more topics that I want to explore and write about for the book. Also, I've started reading books such as Algorithms to Live By: The Computer Science of Human Decisions, Thinking, Fast and Slow, and Outliers to understand people who have already written material regarding these topics."
+        },
+        {
+            "type": "text",
+            "paragraph": "What can be improved:"
+        },
+        {
+            "type": "text",
+            "paragraph": "Writing, writing, writing. I need to write more. Often, I've found myself just very hesitant to write. For Sprint 4, I'm going to write 250 words a day to slowly become a better writer."
+        },
+        {
+            "type": "text",
+            "paragraph": "What went wrong:"
+        },
+        {
+            "type": "text",
+            "paragraph": "Writing a draft for my book is currently the most neglected of the four goals. I will invest more time into this for the next Sprint."
+        
+        },
+        {
+            "type": "text",
+            "paragraph": "Reach/Stay in Grandmaster Tier in League of Legends for Season 10"
+        },
+        {
+            "type": "text",
+            "paragraph": "What is going well:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I played a couple of solo queue games since then. I've gotten better at not caring about losing and winning points after every game. After all, if you win through poor play, then are you really improving?"
+        },
+        {
+            "type": "text",
+            "paragraph": "What can be improved:"
+        },
+        {
+            "type": "text",
+            "paragraph": "I need to play more games solo and less with friends. I want to get better at this game. I hit the 0.27% (Diamond 1) percentile of players last season, but I know that I can still improve by a significant amount."
+        },
+        {
+            "type": "text",
+            "paragraph": "Current Percentile (D1): 0.27%"
+        },
+        {
+            "type": "text",
+            "paragraph": "Master Percentile:  0.15 %"
+        },
+        {
+            "type": "text",
+            "paragraph": "Grandmaster Percentile: 0.072 %"
+        },
+        {
+            "type": "text",
+            "paragraph": "I want to view the game as a long term goal and not be let down by a bad day of losses during my climb. I will be limiting myself to the 3/5 rule to prevent burnout. The 3/5 rule is a maximum limit of 3 games on weekdays and 5 games on weekends."
+        },
+        {
+            "type": "text",
+            "paragraph": "What went wrong:"
+        
+        },
+        {
+            "type": "text",
+            "paragraph": "Getting frustrated from time to time is one of my biggest hurdles as a competitive player."
+        
+        }
     ]
 }

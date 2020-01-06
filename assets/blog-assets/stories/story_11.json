@@ -1,0 +1,40 @@
+{
+    "index": 11,
+    "is_hider": "false",
+    "is_seeker": "true",
+    "date": "01/05/2020",
+    "hider_index_value": "null",
+    "seeker_index_value": "1",
+    "title": "Sprint 4: Dropping Fruit",
+    "description": "Dropping Fruit and Writing",
+    "main_info": [
+        {
+            "type": "text",
+            "paragraph": "Stories"
+        },
+        {
+            "type": "text",
+            "paragraph": "Read at least 1 research paper a day"
+        },
+        {
+            "type": "text",
+            "paragraph": "Read at least 1 literature paper a day"
+        },
+        {
+            "type": "text",
+            "paragraph": "Write 250 words a day to practice becoming a better writer"
+        },
+        {
+            "type": "text",
+            "paragraph": "Complete Dropping Fruit Game"
+        },
+        {
+            "type": "text",
+            "paragraph": "Test Dropping Fruit Game"
+        },
+        {
+            "type": "text",
+            "paragraph": "Document Dropping Fruit Game"
+        }
+    ]
+}

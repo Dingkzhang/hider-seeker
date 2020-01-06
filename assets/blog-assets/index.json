@@ -1,6 +1,17 @@
 {
-    "total_index": "10",
+    "total_index": "11",
     "story_library": {
+        "11": [
+            {
+                "title": "Sprint 4: Dropping Fruit",
+                "index_value": 10,
+                "date": "01/05/2020",
+                "description": "Dropping Fruit and Writing",
+                "hider_index_value": "null",
+                "seeker_index_value": "2",
+                "image_thumbnail": ""
+            }
+        ],
         "10": [
             {
                 "title": "Reflections for Sprint 3",
