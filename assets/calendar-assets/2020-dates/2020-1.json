@@ -7,6 +7,35 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "06": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 77: A blue day at work. :("
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The empty promises of Marie Kondo and the craze for minimalism by Kyle Chayka (01/06/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read What people get wrong about Bertrand Russell by Julian Baggini (12/31/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on A single layer artifical neural network with engineered bacteria (01/03/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Wrote the first 2 paragraphs of Chapter 1 Decision-Making"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added function to convert csv of past experience to experience replay array"
+                }
+            ]
+        },
         "05": {
             "doesDataExist": true,
             "main_info": [
