@@ -7,6 +7,36 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "07": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 78: Slow day at work. Fast run on the treadmill!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read It Had to be Her by Cathleen Schine (01/16/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Off-Policy Deep Reinforcement Learning without Exploration (08/10/2019) (Re-read this one)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Self-Learning Robot Using Real-Time Neural Networks (12/10/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Partially completed experience replay functions. Created human agent functions."
+                },
+                
+                {
+                    "type": "text",
+                    "paragraph": "Ran 7 miles in 1:02:53 (Nice.)"
+                }
+            ]
+        },
         "06": {
             "doesDataExist": true,
             "main_info": [

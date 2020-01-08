@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1578375906392,
+  "timestamp": 1578462793073,
   "index": "https://ai-learning.io/index.html",
   "assetGroups": [
     {
@@ -94,7 +94,7 @@
     "https://ai-learning.io/assets/about-me-assets/about-me.json": "8933fd6abcd35db67803965da404cef46ba9e9d4",
     "https://ai-learning.io/assets/background/art-background-backlit.jpg": "ee762a89c54f710ad3a2013f012630d4c5ba3707",
     "https://ai-learning.io/assets/blog-assets/images/story_4/first-post-welcome.png": "892651a948c991765c06e3674e7a2192ebb37fed",
-    "https://ai-learning.io/assets/blog-assets/index.json": "0cb3ef2e99e482bb99704350430a3d5446e13209",
+    "https://ai-learning.io/assets/blog-assets/index.json": "d23de65f4fde10468308e6efc77a9832c771ed2f",
     "https://ai-learning.io/assets/blog-assets/stories/story_1.json": "df8c716d7c36f1304cfb47ed32f3163c8e43935e",
     "https://ai-learning.io/assets/blog-assets/stories/story_10.json": "04468227886683571966e4f9b398dc7afebc2962",
     "https://ai-learning.io/assets/blog-assets/stories/story_11.json": "4cde3ed30af13834dc5661a2afef45a7627dce34",
@@ -110,7 +110,7 @@
     "https://ai-learning.io/assets/calendar-assets/2019-dates/2019-11.json": "4dd29d87d73ca0ea82c8c70947794caff12f819c",
     "https://ai-learning.io/assets/calendar-assets/2019-dates/2019-12.json": "0fe1c3663732626a256fd5aaf9b4b5f9b085257c",
     "https://ai-learning.io/assets/calendar-assets/2019-dates/2019-9.json": "6c2e8b86c0d2e94304b37257f2b2d8b1da043e1c",
-    "https://ai-learning.io/assets/calendar-assets/2020-dates/2020-1.json": "571998b7b24e9b2d09d9c977ef3aa6422a501e29",
+    "https://ai-learning.io/assets/calendar-assets/2020-dates/2020-1.json": "e2b01f978b289dbbed3bce74e047366b03228469",
     "https://ai-learning.io/assets/calendar-assets/2020-dates/2020-10.json": "a3e270834bdfd490415ef2388d5e602be1511876",
     "https://ai-learning.io/assets/calendar-assets/2020-dates/2020-11.json": "5f2c903a6f0f20ad2a5874ca2188fd0149dc9385",
     "https://ai-learning.io/assets/calendar-assets/2020-dates/2020-9.json": "cdec387dac984ce7ab7bb2cd3d77ba6f0afbaba9",
