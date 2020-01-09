@@ -7,6 +7,39 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "08": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 79: Keep at the project Ding"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Colossus Wears Tweed by Quinn Slobodian (Winter 2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Analyzing different types of activation functions in neural networks - which one to prefer? by Vikahraj Luhaniwal (05/07/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read GRU's and LSTM's by Kaushik Mani (02/17/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read some articles on how to write in present and past tense. (Man this is going to be tough pickle.)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Wrote a paragraph of a story. (Need a lot more practice.)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Wrote the action function for human.py (He/she can chose now!)"
+                }
+            ]
+        },
         "07": {
             "doesDataExist": true,
             "main_info": [
@@ -30,7 +63,6 @@
                     "type": "text",
                     "paragraph": "Partially completed experience replay functions. Created human agent functions."
                 },
-                
                 {
                     "type": "text",
                     "paragraph": "Ran 7 miles in 1:02:53 (Nice.)"
