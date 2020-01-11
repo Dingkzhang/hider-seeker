@@ -7,12 +7,41 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "10": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 81: Stretching and Print Functions"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Equality Conundrum by Joshua Rothman (01/06/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Intrinsic Motivations and Open-ended Learning by Gianluca Baldassarre (12/31/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Did an hour of aerobic exercise using the Nike Training App"
+                }, 
+                {
+                    "type": "text",
+                    "paragraph": "Converted reward value from int to float64."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added print functions for human.py for display purpose."
+                } 
+            ]
+        },
         "09": {
             "doesDataExist": true,
             "main_info": [
                 {
                     "type": "text",
-                    "paragraph": "Day 80: Ran out of steam oh no"
+                    "paragraph": "Day 80: Ran out of steam oh no. Finished main human.py functions."
                 },
                 {
                     "type": "text",
@@ -26,7 +55,7 @@
                     "type": "text",
                     "paragraph": "Ran out of steam today. Went to the gym and felt sick. Right leg didn't feel right. Going to take a day to recover."
                 },
-                                {
+                {
                     "type": "text",
                     "paragraph": "Finished main functions for human.py (Need to complete print statment for easier understanding. Need to complete memory_data.py to preserve experience)"
                 }
