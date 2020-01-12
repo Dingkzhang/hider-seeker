@@ -7,6 +7,31 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "11": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 82: Pineapple Fried Rice for Lunch and more Print FUNCTIONS!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read From the frontispiece to endpapers: the last word on the book by Ian Sansom (01/11/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The year the music died by Dominic Green (01/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Compression of Convolutional Neural Network for High Performance Image Matching Tasks on Mobile Devices (01/09/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Wrote function for consistent format for human.py."
+                }
+            ]
+        },
         "10": {
             "doesDataExist": true,
             "main_info": [
