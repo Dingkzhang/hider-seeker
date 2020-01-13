@@ -7,6 +7,35 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "12": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 82: Board Game Day and a 'Lab' Coat"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Remembering Elizabeth Wurtzel, a Proudly Difficult Person by Benjamin Wallace (01/09/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Augmented Replay Memory in Reinforcement Learning with Continuous Control (12/29/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Did an hour of exercise using the Nike Training App. Restarting the run on Tuesday. Recovering from long runs."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished core functionality for memory_data.py. Need to add max_capacity checker in the future."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Created main.exe to run program without python3."
+                }
+            ]
+        },
         "11": {
             "doesDataExist": true,
             "main_info": [
@@ -50,7 +79,7 @@
                 {
                     "type": "text",
                     "paragraph": "Did an hour of aerobic exercise using the Nike Training App"
-                }, 
+                },
                 {
                     "type": "text",
                     "paragraph": "Converted reward value from int to float64."
@@ -58,7 +87,7 @@
                 {
                     "type": "text",
                     "paragraph": "Added print functions for human.py for display purpose."
-                } 
+                }
             ]
         },
         "09": {
