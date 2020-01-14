@@ -7,12 +7,41 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "13": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 84: Documentation, League, and Books!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Why Historical Analogy Matters by Peter E. Gordon (01/07/2020) (Read liked this one. Good!)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Learning to Schedule Communication in Multi-Agent Reinforcement Learning (02/05/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added documentation/instructions on how to use human.py agent"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added input() for map_name and memory_name."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Bought Oyasumi Punpun collection. (YES)"
+                }
+            ]
+        },
         "12": {
             "doesDataExist": true,
             "main_info": [
                 {
                     "type": "text",
-                    "paragraph": "Day 82: Board Game Day and a 'Lab' Coat"
+                    "paragraph": "Day 83: Board Game Day and a 'Lab' Coat"
                 },
                 {
                     "type": "text",
