@@ -7,6 +7,135 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "18": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 89: Relaxing day today"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Who Wants to Play the Status Game? by Agnes Callard (01/16/2020) (Good Read)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Worked on writing input function for robot py"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Did some light workout in the morning"
+                }
+            ]
+        },
+        "17": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 88: Recovering from nauseous"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Certain Unflattering Truth by Holly Hayes (01/15/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (02/05/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ironed out some bugs in human.py"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Create a folder for robot py and started robot py development"
+                }
+            ]
+        },
+        "16": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 87: Zzz.... Felt sick in my stomach and gassed out at 8pm."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Need to sleep more. More running => More sleep."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Stella Atari 2600 Documentation"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Avicenna: The Leading Sage by Peter Adamson (01/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Playtested human py vision game"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished pre/post experiment questions"
+                }
+            ]
+        },
+        "15": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 86: Got the Oyasumi Punpun Collection"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read How College Became a Commodity by David Sessions (01/14/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on The Arcade Learning Environment: An Evaluation Platform for General Agents (06/21/2013) (Going to focus on convolutional neural network projects)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added I/O for robot py function"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Translated puzzle map into csv designs. Created questions to ask before/after experiment."
+                }
+            ]
+        },
+        "14": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 85: Received The Penguin Book of Oulipo :)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The radicalism of Randolph Bourne by Nikhil Pal Singh (01/08/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Using Natural Language for Reward Shaping in Reinforcement Learning"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 6.12 miles in 65:00"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 1.4 miles in 17:11 (I gassed out hard)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Planned dropping fruit maze to test decision-making."
+                }
+            ]
+        },
         "13": {
             "doesDataExist": true,
             "main_info": [
