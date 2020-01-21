@@ -7,6 +7,56 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "20": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 91: Stayed at home from work"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Roger Scruton: a profound but controversial thinker who conceded nothing to intellectual fashion by Julian Baggini (01/14/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Debauched, Sometimes Sublime Essays of D.H. Lawrence by Zachary Fine (01/16/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Learning to Communicate in Multi-Agent Reinforcement Learning: A Review (11/13/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished memory py functions"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Created neural network weights (Tanh Activation, 2 hidden layers, etc)"
+                }
+            ]
+        },
+        "19": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 90: Stuffy nose and feeling hot (In a bad way). Might be Sick..."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Selective Hearing by Huge Eakin (02/2020) (February Issue)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Robotic Grasp Manipulation Using Evolutionary Computing and Deep Reinforcement Learning (01/15/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished map saving function for robot py"
+                }
+            ]
+        },
         "18": {
             "doesDataExist": true,
             "main_info": [
@@ -25,6 +75,10 @@
                 {
                     "type": "text",
                     "paragraph": "Did some light workout in the morning"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Browsed through Victor Zhou's Convolutional Neural Network Guide for some tips."
                 }
             ]
         },
