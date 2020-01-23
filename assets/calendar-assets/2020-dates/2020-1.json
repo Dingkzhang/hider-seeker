@@ -7,6 +7,60 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "22": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 93: Watched Alpha Zero chess matches at home"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Philosophy of Anger by Agnes Callard (01/21/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Language Understanding for Text-based Games Using Deep Reinforcement Learning (09/11/2015)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Reinforcement Learning with Long Short-Term Memory (2002)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Completed action selection fucntions for robot py"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Low on energy. Lethargic >:("
+                }
+            ]
+        },
+        "21": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 92: Slept and watched some riddles :("
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Bringing Gaming to Life with AI and Deep Learning by Danny Lange (08/23/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Recurrent Gradient Temporal Difference Networks (2013)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Wrote the activation functions for the neural network"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Slow day today. I just want to not be sick!!"
+                }
+            ]
+        },
         "20": {
             "doesDataExist": true,
             "main_info": [
