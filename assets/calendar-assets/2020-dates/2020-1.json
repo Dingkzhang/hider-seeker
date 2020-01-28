@@ -7,6 +7,107 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "27": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 98: League climb day (Did not handle my emotions very well)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read 1st Chapter of The Mental Game of Poker by Jared Tendler"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Learning to Communicate in Multi-Agent Reinforcement Learning: A Review (11/13/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Worekd on store experience function in robot py"
+                }
+            ]
+        },
+        "26": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 97: Need to fix my emotional state/Letting stress get to me"
+                }
+            ]
+        },
+        "25": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 96: League climb day (Did not handle my emotions very well)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Smorgasbords Don't HAve Bottoms - Publishing in the 2010s (Winter/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "1st pass on Sparse Imitation Learning for Text Based Games with Combinatorial Action Spaces (12/10/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added reward and position field function"
+                }
+            ]
+        },
+        "24": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 95: Painting with friends"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read The Enemies of Writing by George Packer (01/23/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Fundamentals of Deep Learning – Introduction to Recurrent Neural Networks by Dishashree Gupta (12/07/2017)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added configure field function"
+                }
+            ]
+        },
+        "23": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 94: I am healthy again. Woohoooooo"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Rediscovering the Lost Power of Reading Aloud by Meghan Cox Gurdon (01/22/2020)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Re-Encountering Allan Bloom by Joseph Horowitz (01/19/2020) (Did not like this one.)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Introduction to Recurrent Neural Networks by Jeremy Jordan (06/09/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Introduction to Recurrent Neural Networks by Aishwarya (No Date)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Worked on configuration function for robot py"
+                }
+            ]
+        },
         "22": {
             "doesDataExist": true,
             "main_info": [
