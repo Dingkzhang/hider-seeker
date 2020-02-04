@@ -7,12 +7,100 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "31": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 102: Potluck with Co-workers yay! I made Guac :O"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Watched Training a Deep Q-Network by DeepLizard"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed some naming conventions"
+                }
+            ]
+        },
+        "30": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 101: Oof coworkers got into a mad lad showdown haha"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read 4th Chapter of The Mental Game of Poker by Jared Tendler"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read An intro to Advantage Actor Critic Methods by Thomas Simonini (07/26/2018)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Wrote code for batching the current state, next state, current position, next position"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 2.33 miles in 25:20"
+                }
+            ]
+        },
+        "29": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 100: Back to running and feeling better"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read 3rd Chapter of The Mental Game of Poker by Jared Tendler"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "I did something here, but I ended up writing something over it >:("
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Wrote code for forward propagation setup"
+                }
+            ]
+        },
+        "28": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 99: Slow start to fixing my mental state :)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read 2nd Chapter of The Mental Game of Poker by Jared Tendler"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "2nd pass on Hacking Google reCaptcha v3 using Reinforcement Learning (04/18/2019)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added counters to determine weight update, backpropagation, and decision-selection dercrementation"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 1.87 miles in 20:24"
+                }
+            ]
+        },
         "27": {
             "doesDataExist": true,
             "main_info": [
                 {
                     "type": "text",
-                    "paragraph": "Day 98: League climb day (Did not handle my emotions very well)"
+                    "paragraph": "Day 98: Screw talent, only hardwork and motivation"
                 },
                 {
                     "type": "text",
@@ -24,7 +112,7 @@
                 },
                 {
                     "type": "text",
-                    "paragraph": "Worekd on store experience function in robot py"
+                    "paragraph": "Worked on store experience function in robot py"
                 }
             ]
         },

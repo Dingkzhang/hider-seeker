@@ -1,0 +1,58 @@
+{
+    "index": 5,
+    "month_int": "02",
+    "month_name": "February",
+    "year_int": "2020",
+    "total_days": "29",
+    "date_name_start": "Wednesday",
+    "date_name_end": "Friday",
+    "calendar_info": {
+        "03": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 105: Focus Please"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Continued reading chapter 5 on The Mental Game of Pokwer by Jared Tendler"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read How to Become the Best Programmer in the World by Ohans Emmanuel"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Finished forward propagation and started working on cost function"
+                }
+            ]
+        },
+        "02": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 104: League of legends got to d3. :) Also, Must enter flow state for each and everyone of my goals >:("
+                }
+            ]
+        },
+        "01": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 103: Played a bunch of ranked games. Did not tilt. Good control good practice"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read the beginning sections of Chapter 5 on The Mental Game of Poker by Jared Tendler"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Corrected forward propagation function. Need to add cost function and backward propagation next"
+                }
+            ]
+        }
+    }
+}
