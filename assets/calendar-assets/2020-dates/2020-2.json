@@ -7,6 +7,31 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "04": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 106: Mistake tilt and in the ZONE (flow state)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Mistake Tile and injustice tilt (Chapter 5) on The Mental Game of Pokwer by Jared Tendler"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked at several articles on how to do back-propagation for deep q learning."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Wrote loss and cost function (mean squared error)"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 4.00 miles in 46:09"
+                }
+            ]
+        },
         "03": {
             "doesDataExist": true,
             "main_info": [
