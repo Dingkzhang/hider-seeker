@@ -7,6 +7,126 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "12": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 114: Fixing the divergence issue"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Wasn't really the learning rate that was the problem. I did make it smaller so it takes longer to diverge."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Don't have an experience limit right now. Might also be that the system is picking old data that it never gets rid of old experiences and that it interfering with learning."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Could potentially be the error function. The error is the sum to the power of 2 which will create huge errors. Not good for the system when it suddenly has to increment the weight by a huge amount. Another reason to get rid of old data that can cause variance."
+                }
+            ]
+        },
+        "11": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 113: Running fun fun"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Think learning rate might be too big. So I set it to 0.001"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Fixed issue where I was only using policy weights and not using target weights for next state."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran 5.80 miles in 65:00"
+                }
+            ]
+        },
+        "10": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 112: OMG its diverging >:("
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Writing back-propagation function. However, the function is diverging! Need to figure out the reason."
+                }
+            ]
+        },
+        "09": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 111: Didn't tilt very hard today. Good day :O"
+                }
+            ]
+        },
+        "08": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 110: Relaxed today and played league :)"
+                }
+            ]
+        },
+        "07": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 109: Working out the math"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Wrote out the back propagation math I need for each weight update."
+                }
+            ]
+        },
+        "06": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 108: Intimidated by NN >:()"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Learning how to map back propagation for Deep q Learning"
+                }
+            ]
+        },
+        "05": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 107: Working out back propagation equations"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Re-visited some more articles on back propagation."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Look at how other people handled activation functions and output layer"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Re-wrote code to use relu for 1st and 2nd hidden layer. Re-wrote code to use linear output instead of softmax for output layer."
+                }
+            ]
+        },
         "04": {
             "doesDataExist": true,
             "main_info": [
