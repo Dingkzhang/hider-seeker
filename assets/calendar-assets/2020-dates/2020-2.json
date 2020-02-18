@@ -7,6 +7,79 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "17": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 119: Flu A and Flu B woohoo"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added weight update for input to hidden layer. (Not 100% sure I did it correctly.) Increased number of hidden layer weights."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Results are still diverging. Need to figure out why.... Need to look up commmon DQN mistakes."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Definitely someting wrong with hidden layer and input layer weight updates. Need to look at the math again and figure out what I did wrong."
+                }
+            ]
+        },
+        "16": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 118: Practicing in league uwu"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Need to increase the weight size, implement weight update for input to hidden layer, and look up common DQN mistakes."
+                }
+            ]
+        },
+        "15": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 117: Back to being sick >:( and just playing some league today"
+                }
+            ]
+        },
+        "14": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 116: Valentine's Day"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "After adding function limit with relu activation function it seems to not diverge as much. However, after 50k iterations the error starts to increase again."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Changed to leaky relu which actually made the problem worse. Fuck. Still need to implment final layer of weight update..."
+                }
+            ]
+        },
+        "13": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 115: Limiting the experience_replay"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added function to limit experience_replay to 1000 experiences max."
+                }
+            ]
+        },
         "12": {
             "doesDataExist": true,
             "main_info": [
@@ -25,6 +98,10 @@
                 {
                     "type": "text",
                     "paragraph": "Could potentially be the error function. The error is the sum to the power of 2 which will create huge errors. Not good for the system when it suddenly has to increment the weight by a huge amount. Another reason to get rid of old data that can cause variance."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added weight update for hidden->hidden layer"
                 }
             ]
         },
