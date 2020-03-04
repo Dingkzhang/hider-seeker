@@ -1,10 +1,19 @@
 {
-    "total_index": "5",
+    "total_index": "6",
     "current_year": 2020,
-    "current_month": 2,
-    "current_month_string": "January",
+    "current_month": 3,
+    "current_month_string": "March",
     "calendar_library": {
         "2020": [
+            {
+                "3": {
+                    "doesExist":true,
+                    "year": "2020",
+                    "month_int": "3",
+                    "month_string": "March",
+                    "image_thumbnail": ""
+                }
+            },
             {
                 "2": {
                     "doesExist":true,

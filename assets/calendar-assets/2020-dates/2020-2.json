@@ -7,6 +7,214 @@
     "date_name_start": "Wednesday",
     "date_name_end": "Friday",
     "calendar_info": {
+        "29": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 131: Played some league "
+                }
+            ]
+        },
+        "28": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 130: Downloaded p-christ algorithms for reinforcement learning"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Goal is to spend the entire month of March getting familiar with PyTorch and the algorithms implmented by p-christ plus A2C and A3C. "
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Ran the cartpole problem from his code"
+                }
+            ]
+        },
+        "27": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 129: One of the best ways to learn is to look at what other people are doing!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked at PyTorch Neural Network Tutorial"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked at PyTorch Classifier tutorial"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked at PyTorch Data Parallelism tutorial"
+                }
+            ]
+        },
+        "26": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 128: Introduction to PyTorch"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Updated pyTorch to 1.4"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked at PyTorch Introduction tutorial"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked at PyTorch Autograd tutorial"
+                }
+            ]
+        },
+        "25": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 127: Adjusting decision boundary and changing activation function"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Slept at around 10:30 pm last night. Woke up at around 6 am. Body is feeling much better."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Changed the neural network from leaky relu to sigmoid. No changes really. It looks like it is converging very very slightly."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Moving on to the next endeavor. Can't spend another month on this. Sometimes failure is just a part of the process. I will be back :)"
+                }
+            ]
+        },
+        "24": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 126: Went to Maht Gaek with an old friend. We talked about AI and life."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Slept for 7.5 hours today. Feeling a lot better than before."
+                }
+            ]
+        },
+        "23": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 125: Relaxed today as well >:)"
+                }
+            ]
+        },
+        "22": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 124: Used today to relax"
+                }
+            ]
+        },
+        "21": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 123: Apologized to a co-worker for being a rude asshole"
+                }
+            ]
+        },
+        "20": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 122: Honestly it might be the input data"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Tweaked the weight update a final time."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Tried running with more vision."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "The current results are stable. However, they just oscillate in a parabolic path and it shows no sign of converging."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "The given input information might not be enough for the machine to tell."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Thinking of adding more input parameters... (Meaning features as inputs for the neural network to detect....)"
+                }
+            ]
+        },
+        "19": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 121: Looked up some tips and tweaked some parameters"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Double checked weights for input-hidden layer. Seems all right to me."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Lowered learning rate from 0.0005 to 0.00001. Prevents it from diverging."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Changed min and max reward from range (-5,5) to (-1,1). Seems to result in a smaller error."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "The error is not decreasing nor is it increasing. It seems that it is just oscillating between points. I have tried changing the sample size, experience replay size, and target weight update."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "It might just be that what I am capturing is not working. Need to reconsider if enough information is there for it to register the pattern. :("
+                }
+            ]
+        },
+        "18": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 120: Fixing the weights"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Rechecked the weight update equations. Fixed the hidden -> hidden layer weight update. Still need to do hidden -> input layer weight update fix."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Need to look up and understand common mistakes."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Did re-adjustments on batch_size and experience replay capacity. Seems that bigger batch size led to more stability? (No sure have to look into it)"
+                }
+            ]
+        },
         "17": {
             "doesDataExist": true,
             "main_info": [
