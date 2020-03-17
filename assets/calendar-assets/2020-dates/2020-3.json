@@ -7,6 +7,199 @@
     "date_name_start": "",
     "date_name_end": "",
     "calendar_info": {
+        "16": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 147: Read more research papers"
+                }
+            ]
+        },
+        "15": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 146: Watched some pros and reviewed my own games."
+                }
+            ]
+        },
+        "14": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 145: Played some Lol :)"
+                }
+            ]
+        },
+        "13": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 144: A relaxing friday"
+                }
+            ]
+        },
+        "12": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 143: Wrote a python automation script at work!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read DDPG Paper. This one was a tricky beast. Need to look at some more articles!"  
+                }
+            ]
+        },
+        "11": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 142: It doesn't work because ____"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read H-DQN paper."  
+                },
+                {
+                    "type": "text",
+                    "paragraph": "The reason why my Dropping Fruit game did not work is because I didn't use a convolutional layer to find relations between the different numerical values. By using a convolutional layer with filters, it would allow the AI to understand the relation/pattern of the game. >:( Bad Ding!"  
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Continued with the video tutorial as a good refresher of some past concepts."  
+                }
+            ]
+        },
+        "10": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 141: Boring day at work >:( new job hunt?"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read A3C research paper."  
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Started watching a video tutorial on Deep Reinforcement Learning. (Skowster the Geek)"  
+                }
+            ]
+        },
+        "09": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 140: Reading more learning algorithms"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read Advanced DQNs: Playing Pac-man with Deep Reinforcement Learning by Jake Grigsby (06/29/2018)"  
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Looked over REINFORCE research paper."  
+                }
+            ]
+        },
+        "08": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 139: Resetting League Controls"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "I reverted some of my league controls. I was having issue with the left click auto-attack move option. It allowed me to react faster, but I couldn't really use the mini-map. This is a huge hinderence due to the fact that I need information from the map..."  
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Going to take a few days to get back to the old ways."  
+                }
+            ]
+        },
+        "07": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 138: Played Haven and Hearth"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Relaxed on a farm in the middle of the ocean."  
+                }
+            ]
+        },
+        "06": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 137: So it is learning something..."
+                },
+                {
+                    "type": "text",
+                    "paragraph": "The Dropping fruit game was learning something. However, it seems that it is pretty similar to a stubborn teenager where once it believes that it is the right path it is very hard to him/her to change his mind."  
+                },
+                {
+                    "type": "text",
+                    "paragraph": "I will be putting this project on hold now. Going to start looking into more deep learning algorithms."  
+                }
+            ]
+        },
+        "05": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 136: Wait a second... not really a false alarm?"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read a couple of research papers on p-christ github regarding DQN."  
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Created ZigZag map and running it to see if machine can learn optimal path."  
+                }
+            ]
+        },
+        "04": {
+            "doesDataExist": true,
+            "main_info": [
+                {
+                    "type": "text",
+                    "paragraph": "Day 135: False alarm what a let down!"
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Added a reward print statement to see results. Realized yesterday it wasnt really converging. Got baited. Probably a backpropagation update issue or maybe the input data just isn't that good?"  
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Running the simulation on a clear patterned map with a correct solution. Results are looking good."  
+                }, 
+                {
+                    "type": "text",
+                    "paragraph": "After around 50k iteration the neural network can learn from a patterned map that I created. The map has a clear solution for optimal policy which the DQN AI is able to find! :)"  
+                },
+                {
+                    "type": "text",
+                    "paragraph": "Read the Double DQN Research Paper"  
+                }
+            ]
+        },
         "03": {
             "doesDataExist": true,
             "main_info": [
